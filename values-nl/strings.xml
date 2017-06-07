@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="action_settings">Instellingen</string>
+    <string name="action_country">Land</string>
+    <string name="action_user">Gebruiker</string>
+    <string name="action_collection">Verzameling</string>
+    <string name="action_mode">Schakel naar bewerkingsmodus</string>
+    <string name="new_collection">Nieuwe Verzameling</string>
+    <string name="enter_new_name">Voer nieuwe naam in</string>
+    <string name="delete_collection">Verwijder</string>
+    <string name="change_name">Naam wijzigen</string>
+    <string name="default_collection_name">Verzameling1</string>
+    <string name="how_to_unlock">Tik op het slotje in de menubalk</string>
+    <string name="use_long_touch_to_force_details">Munt bestaat niet. Raak de munt lang aan voor het openen van het venster met muntdetails.</string>
+    <string name="mode_locked">Bewerkingsmodus vergrendeld</string>
+    <string name="mode_unlocked">Bewerkingsmodus ontgrendeld</string>
+    <string name="mode_unlock_not_in_multiuser_or_eu">Geen bewerking mogelijk in het overzicht alle gebruikers of EU-overzicht</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="multi_collection_view">Multi-Verzamelings</string>
+    <string name="source_ecb">Bron: EUROPEAN CENTRAL BANK</string>
+    <string name="ecb_info">De informatie en afbeeldingen van alle euromunten zijn gratis te verkrijgen op de website van de ECB</string>
+    <string name="action_import">Importeren</string>
+    <string name="action_export">Exporteren</string>
+    <string name="action_createpdf">Pdf aanmaken</string>
+    <string name="pdfApiLevelTooLow">Sorry, voor het maken van een pdf is min. Android 4.4 nodig</string>
+    <string name="export_failed">Export mislukt</string>
+    <string name="import_failed">Import mislukt</string>
+    <string name="export_ok">Export OK</string>
+    <string name="import_ok">Import OK</string>
+    <string name="help">Help</string>
+    
+    <string name="help_message">Wanneer je problemen, bugs, vragen of gewenste aanpassingen aan mij wilt toe sturen, gebruik dan de knop "verstuur bericht" in het menu (http://eurocoinsalbum.jimdo.com). Het is niet wenselijk deze reacties als \'comment\' in de Play store te plaatsen.</string>
+    <string name="help_statistics">De statistiek opmaak is x/y/z x=aantal verschillende munten die je hebt verzameld; y= aantal verschillende munten die kunnen worden verzameld; z=totaal aantal munten die je hebt verzameld (in het geval dat je een munt meer dan één keer hebt; zie hiervoor de muntdetails). Het decimale getal laat het bedrag zien van de verzamelde munten resp. het bedrag dat je hebt betaald dan wel wat de munt waard is (alleen als je deze bedragen bij de muntdetails hebt ingevuld).</string>
+    <string name="help_coin_marker">Een \'X\' op een munt betekent dat deze munt nooit is aangemaakt (als je andere info hebt, dan ontvang ik graag een e-mail). Of kies voor de optie \'Verberg niet bestaande munten\' in het instellingenmenu om deze munten niet weer te geven. Een \'*\' (linksboven) bij de munt is de markering voor de officiële muntenset (geen circulatiemunt), de markering is alleen zichtbaar als je deze optie bij de instellingen hebt ingeschakeld.</string>
+    <string name="help_eu_view">Het EU-overzicht laat van de geselecteerde gebruiker zien of alle munten per jaar/land (en muntteken) verzameld zijn of dat er nog een of meerderen per jaar/land (muntteken) ontbreken. Tik op de munt om te kunnen zien voor welk jaar/land de gebruiker deze munt al heeft verzameld. Tik op de 2€ herdenkingsmunt om alle 2€-munten van dit jaar/land te zien!</string>
+    <string name="help_eu_mode_switch"> In het EU-overzicht kun je de knop linksboven gebruiken om snel te schakelen tussen een overzicht op jaar of op land.</string>
+    <string name="help_multi_user">Het meerdere gebruikers overzicht laat zien of alle gebruikers deze munt hebben of dat tenminste een gebruiker deze nog niet heeft verzameld. Tik op een munt om te zien welke gebruiker deze munt al heeft verzameld.</string>
+    <string name="help_touch_hold_coins">Raak in de bewerkingsmodus een munt lang aan om het aantal munten en andere muntdetails in te geven .</string>
+    <string name="help_touch_hold_two_euro_coins">Raak in de vergrendelde modus een herdenkingsmunt lang aan voor aanvullende informatie over deze herdenkingsmunt.</string>
+    <string name="help_touch_common_coins">Tik op een van de 8 euromunten links in het venster, om de achterkant van deze euromunt van alle landen te kunnen zien.</string>
+    <string name="help_imexport">Het exportbestand heet \'euro_coin_list_&lt;gebruikersnaam&gt;.txt\'. Geïmporteerde gebruikers zullen worden toegevoegd en worden niet overschreven.</string>
+    <string name="help_backup"> Elke week wordt er automatisch een back-up gemaakt van alle verzamelingen. Met de knop \'Herstel back-up\' kan eenvoudig een oude back-up aan de huidige verzamelingen worden toegevoegd.</string>
+    <string name="help_coinset_expand">Om het gebruiksgemak te bevorderen zijn de Duitse muntsets gegroepeerd per jaar als je bij de instellingen de optie \'Verzamel jaren en munttekens\' hebt aangevinkt. De plus/min knop linksboven de euromunten kan voor alle groepen tegelijk gebruikt worden: korte tik doet alle groepen uit- of invouwen, nogmaals tikken precies andersom.</string>
+    <string name="help_menu">Gebruik het instellingenmenu voor aanpassingen: grootte muntafbeelding, tekstgrootte (titels en tekst op munt), alleen 2€-herdenkingsmunten verzamelen, verzamelen van alle jaren en munttekens (of alleen maar een per land) en nog veel meer. Speciale functionaliteit is de optie \'Gebruik individuele instellingen\' waarmee elke gebruiker/verzameling zijn eigen instellingen kan hebben of voor alle gebruikers dezelfde instellingen gelden.</string>
+    <string name="help_title_setting"> Door op de kolomkop te tikken kan de huidige achtergrondkleur worden gewijzigd.</string>
+    <string name="show_licenses">Licenties</string>
+    <string name="pref_use_individual_settings">Gebruik individuele instellingen</string>
+    <string name="pref_image_size">Formaat afbeelding</string>
+    <string name="pref_text_size_1">Tekstgrootte 1 (titels)</string>
+    <string name="pref_text_size_2">Tekstgrootte 2 (munten)</string>
+    <string name="pref_collect_two_euro_only">Verzamel alleen 2 Euromunten</string>
+    <string name="pref_collect_years">Verzamel jaar en munttekens</string>
+    <string name="pref_show_statistics">Statistieken</string>
+    <string name="pref_language">Taal / Language</string>
+    <string name="added_date">Datum</string>
+    <string name="change_added_date">Wijzig</string>
+    <string name="paid">Betaald</string>
+    <string name="value">Waarde</string>
+    <string name="note">Notitie</string>
+    <string name="pref_show_only_missing_coins">Alleen ontbrekende munten</string>
+    <string name="pref_show_official_coin_set_marker">Markering \'alleen muntsets\' (*)</string>
+    <string name="condition">Kwaliteit</string>
+    <string name="condition_helper">(A&#8211;Z or 1&#8211;9)</string>
+    <string name="action_open_url_comment">Verstuur bericht</string>
+    <string name="action_close">Afsluiten</string>
+    <string name="coin_collected_marker">X</string>
+    <string name="index_cc">Index</string>
+    <string name="enter_2_euro_coin_name">Voer in jaar en kort naam 2 Euromunt</string>
+    <string name="custom_coin_name">Naam</string>
+    <string name="year">Jaar</string>
+    <string name="count">Aantal</string>
+    <string name="mint">Muntteken</string>
+    <string name="remove_coin">Verwijder munt</string>
+    <string name="label">Omschrijving</string>
+    <string name="prev_coin">Vorige</string>
+    <string name="next_coin">Volgende</string>
+    <string name="new_coin">Nieuw</string>
+    <string name="attention">Attentie</string>
+    <string name="force_unlock_user">Fout met de data bij deze gebruiker. Doorgaan?</string>
+    <string name="backup_created">Back-up gemaakt</string>
+    <string name="action_restore_backup">Back-up herstellen</string>
+    <string name="action_delete_old_backups">Verwijder oude backups</string>
+    <string name="delete_old_backups">Verwijder alle oude back-ups?</string>
+    <string name="no_external_storage_permission">Activeer in de toestelinstellingen bij Applicatiebeheer, in het menu \'Machtigingen\' de \'Opslag\'</string>
+    <string name="commemorative_coins_full">Alle herdenkingsmunten</string>
+    <string name="pref_use_background_color">Gebruik achtergrondkleur</string>
+    <string name="pref_background_color">Achtergrondkleur</string>
+    <string name="pref_hide_not_existing_coins">Verberg niet bestaande munten</string>
+    <string name="click_the_coin_set_expand_button">Tik op de plusknop om de muntsetgroep te openen</string>
+    <!-- v4.5 -->
+    <string name="pref_text_size_3">Tekstgrootte 3 (keuzelijst)</string>
+    <string name="version_history">Versie geschiedenis</string>
+    <string name="pref_use_cloud_features">Gebruik Cloud functie (Internet)</string>
+    <string name="backup_no_cloud_features_activated">Cloud functie (Internet) is uitgeschakeld. Back-ups worden alleen opgeslagen op de telefoon.</string>
+    <string name="action_create_backup">Maak een back-up</string>
+    <string name="action_show_notifications">Meldingen</string>
+    <string name="action_show_info">Informatie</string>
+    <string name="action_save">Opslaan</string>
+    <string name="help_cloud_features">Als de Cloud functie is geactiveerd dan wordt de wekelijkse back-up ook geüpload naar mijn webopslagruimte. http://www.homepage-master.de/eurocoinsalbum. Je kan deze back-ups op dezelfde manier als de normale back-ups herstellen en aanvullend kun je de databestanden ook bekijken op een webpagina: http://www.homepagse-master.de/eurocoinsalbum/listBackups?uuid=PutYourIdHere\nCloud.\n Deze functie gebruikt een unieke ID, welke door de app wordt gegenereerd, om jouw back-up te herkennen. Je kan deze ID vinden in het menu: Informatie - Mijn ID.</string>
+    <string name="help_email">Je ID wordt naar het e-mailadres gestuurd dat je bij de instellingen hebt ingevoerd.</string>
+    <string name="action_show_uuid">Mijn ID</string>
+    <string name="id_created">ID-nr is aangemaakt. Zie menu: Informatie - Mijn ID</string>
+    <string name="no_internet_no_backup">Internet niet beschikbaar. Back-up wordt geüpload als de app de volgende keer wordt opgestart.</string>
+    <string name="pref_email">E-mail</string>
+    <string name="send_id">Verstuur ID</string>
+    <string name="email_sent">Een e-mail is gestuurd naar %1$s</string>
+    <string name="email_sent_confirm">Een e-mail is gestuurd naar %1$s. Controleren spam. Graag nog op de link in de e-mail klikken, om je mailadres te bevestigen.</string>
+    <string name="enter_email">Graag je e-mailadres invoeren.</string>
+    <string name="no_backups_available">Geen back-ups beschikbaar</string>
+    <string name="internet_not_available_for_backup">Internet niet beschikbaar. Alleen lokale back-ups worden gemaakt.</string>
+    <string name="register_email">Registreer e-mail</string>
+
+    <string name="version_history_5_0">
+        Versie 5.0\n
+        Nieuwe functie: cloud mogelijkheid. Back-ups worden aanvullend bewaard in de cloud (Internet).\n
+        Nieuwe functie: e-mail (voor het versturen van je ID-nr)\n
+        Nieuwe instelling: tekstgrootte van de keuzelijst\n
+        Nieuwe vertaling: Litouws\n
+        Nieuwe vertaling: Nederlands\n
+        Geheugen gebruik verminderd\n
+        Meldingenlogboek toegevoegd (menu info -> meldingen)
+    </string>
+
+    <string name="version_history_4_4">
+        v4.4\n
+        EU-overzicht: raak in de land-modus een munt aan om te verzamelde jaren te zien\n
+        Gebruik van de telefoon terugtoets toegevoegd\n
+        Versie geschiedenis toegevoegd (help-menu)
+    </string>
+
+    <string name="version_history_4_3">
+        v4.3\n
+        Portugese taal toegevoegd. Antonio bedankt!
+    </string>
+
+    <string name="version_history_4_2">
+        v4.2\n
+        Ontbrekende herdenkingsmunten 2016 toegevoegd\n
+        Verbeterd EU-overzicht
+    </string>
+
+    <string name="version_history_4_1">
+        v4.1\n
+        Fouten bij het inladen gemaakt
+    </string>
+
+    <string name="version_history_4_0">
+        v4.0\n
+        Laat de 2€ herdenkingmunten in EU-overzicht zien\n
+        De Oostenrijkse munt \'Nationale Bank\' van 2015 naar 2016 verplaatst
+    </string>
+
+    <string name="version_history_3_6">
+        v3.6\n
+        Bug bij het in- en uitvouwen gemaakt\n
+        Laat niet de lege kolommen meer zien (als alleen de 2 Euromunten worden verzameld)
+    </string>
+
+    <string name="version_history_3_5">
+        V3.5\n
+        2€ 2016 Finland toegevoegd\n
+        Nieuwe optie: kleur de kolomkop van het muntjaar (raak kolomkop aan\n
+        Nieuwe optie: in- en uitvouwen van de Duitse munttekens\n
+        Bugs gemaakt
+    </string>
+
+    <string name="version_history_3_4">
+        V3.4\n
+        2€ 2014 Malta 200 jaar Maltese politie toegevoegd\n
+        Vertalingen voor Frans en Italiaans toegevoegd\n
+        Ondersteuning voor meerdere exemplaren of dezelfde munt toegevoegd\n
+        Automatisch wekelijkse back-up toegevoegd\n
+        De mogelijke voor individuele instellingen per gebruiker/verzameling toegevoegd\n
+        Instellingen voor tekstgrootte toegevoegd\n
+        Bug gemaakt in het beheer van eigen 2€ munten\n
+        Bug gemaakt in het bewaren van data
+    </string>
+
+    <string name="version_history_3_3">
+        V3.3\n
+        Formaat afbeelding gemaakt
+    </string>
+
+    <string name="version_history_3_2">
+        V3.2\n
+        Munten voor 2016 toegevoegd\n
+        Muntafbeelding voor Griekenland 2013 Kreta hersteld
+    </string>
+
+    <string name="version_history_3_1">
+        V3.1\n
+        Toegevoegd 2x 2015 2 Euromunt voor Andorra\n
+        Monaco 2 Euromunt 2012 eigenschappen hersteld
+    </string>
+
+    <string name="version_history_3_0">
+        V3.0\n
+        NU KUN JE ZELF 2 EUROMUNTEN TOEVOEGEN. Niet meer nodig om op de update te wachten!\n
+        Alle ontbrekende 2 Euromunten toegevoegd.\n
+        Nieuwe muntset Vaticaanstad Francis toegevoegd
+    </string>
+
+    <string name="version_history_2_2">
+        V2.2\n
+        EU-overzicht toegevoegd!
+    </string>
+
+    <string name="version_history_2_0">
+        V2.0\n
+        PDF-export en Statistieken toegevoegd
+    </string>
+
+    <string name="coin_1cent">1 Cent</string>
+    <string name="coin_2cent">2 Cent</string>
+    <string name="coin_5cent">5 Cent</string>
+    <string name="coin_10cent">10 Cent</string>
+    <string name="coin_20cent">20 Cent</string>
+    <string name="coin_50cent">50 Cent</string>
+    <string name="coin_1euro">1 Euro</string>
+    <string name="coin_2euro">2 Euro</string>
+    <string name="coin_5euro">5 Euro</string>
+    <string name="coin_10euro">10 Euro</string>
+
+    <string name="countryname_eu">EU</string>
+    <string name="countryname_au">Oostenrijk</string>
+    <string name="countryname_ad">Andorra</string>
+    <string name="countryname_be">België</string>
+    <string name="countryname_cy">Cyprus</string>
+    <string name="countryname_ee">Estland</string>
+    <string name="countryname_fi">Finland</string>
+    <string name="countryname_fr">Frankrijk</string>
+    <string name="countryname_de">Duitsland</string>
+    <string name="countryname_gr">Griekenland</string>
+    <string name="countryname_ir">Ierland</string>
+    <string name="countryname_it">Italië</string>
+    <string name="countryname_lt">Litouwen</string>
+    <string name="countryname_lu">Luxemburg</string>
+    <string name="countryname_lv">Letland</string>
+    <string name="countryname_mt">Malta</string>
+    <string name="countryname_mc">Monaco</string>
+    <string name="countryname_ne">Nederland</string>
+    <string name="countryname_po">Portugal</string>
+    <string name="countryname_sk">Slowakije</string>
+    <string name="countryname_si">Slovenië</string>
+    <string name="countryname_sm">San Marino</string>
+    <string name="countryname_es">Spanje</string>
+    <string name="countryname_va">Vaticaanstad</string>
+</resources>

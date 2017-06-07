@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Euromonetų albumas</string>
+	<string name="action_settings">Nustatymai</string>
+	<string name="action_country">Šalis</string>
+	<string name="action_user">Vartotojas</string>
+	<string name="action_collection">Kolekcija</string>
+	<string name="action_mode">Perjungti redagavimo režimą</string>
+	<string name="new_collection">Naujas kolekcija</string>
+	<string name="enter_new_name">Įveskite naujo vardą</string>
+	<string name="delete_collection">Ištrinti</string>
+	<string name="change_name">Pakeisti vardą</string>
+	<string name="default_collection_name">Kolekcija1</string>
+	<string name="how_to_unlock">Palieskite spynelės simbolį meniu juostoje</string>
+	<string name="use_long_touch_to_force_details">Moneta neįvesta. Palaikykite nuspaudę iškviesti monetos detalių langą.</string>
+	<string name="mode_locked">Redagavimas išjungtas</string>
+	<string name="mode_unlocked">Redagavimas įjungtas</string>
+	<string name="mode_unlock_not_in_multiuser_or_eu">Kelių vartotojų ir ES rodmenyse negalima redaguoti informacijos</string>
+	<string name="yes">Taip</string>
+	<string name="no">Ne</string>
+	<string name="multi_collection_view">Kelių kolekcija rodinys</string>
+	<string name="source_ecb">Šaltinis: Europos Centrinis Bankas</string>
+	<string name="ecb_info">Euromonetų informacija ir atvaizdai nemokamai prieinami ECB internetiniame puslapyje</string>
+	<string name="action_import">Importuoti</string>
+	<string name="action_export">Eksportuoti</string>
+	<string name="action_createpdf">Generuoti PDF failą</string>
+	<string name="pdfApiLevelTooLow">Atsiprašome, PDF generavimui reikia bent Android 4.4</string>
+	<string name="export_failed">Eksportas nepavyko</string>
+	<string name="import_failed">Importas nepavyko</string>
+	<string name="export_ok">Eksportas sėkmingas</string>
+	<string name="import_ok">Importas sėkmingas</string>
+	<string name="help">Pagalba</string>
+	<string name="help_message">Jei norite atsiųsti pranešimą apie klaidą ar problemą, paklausti ar pasiūlyti patobulinimą, pasinaudokite "nusiųsti žinutę" meniu (http://eurocoinsalbum.jimdo.com). Tokių komentarų netalpinkite Google Play kataloge.</string>
+	<string name="help_statistics">Statistikos formatas: x/y/z, kur x=galimų skirtingų pasirinktų monetų skaičius; y=galimų surinkti skiritngų monetų skaičius; z=kiek iš viso monetų surinkote (jei monetos turite ne vieną egzempliorių, žiūrėkite monetos informaciją). Skaičius rodo surinktą pinigų kiekį ir papildomai informaciją, įvestą prie monetų.</string>
+	<string name="help_coin_marker">\'X\' ženklas ant monetos reiškia, kad ši moneta nebuvo kaldinama (jei turite kitokios informacijos, susisiekite). \'*\' prie monetos žymi oficialų monetų rinkinį (jei įjungėte šią nuostatą).</string>
+	<string name="help_eu_view">ES-rodinyje rodoma informacija kokių šalių (ir kalyklų) monetos įvestos ar jų trūksta. Palieskite šalies monetą ir pamatysite kurių metų monetas turite. Palaikykite paspaudę proginę 2€ monetą ir išvysite visas tų metų 2€ monetas!</string>
+	<string name="help_eu_mode_switch">ES rodinyje mygtuku kairiame viršutiniame kampe galite perjungti metų/šalies rodymo režimą</string>
+	<string name="help_multi_user">Kelių vartotojų rodinyje matosi ar visi vartotojai turi šią monetą, ar kam nors jos trūksta. Palieskite monetą ir sužinosite, kas ją jau turi.</string>
+	<string name="help_touch_hold_coins">Redagavimo režime palaikykite nuspaudę ant monetos ir galėsite įvesti monetų kiekį ar kitus atributus.</string>
+	<string name="help_touch_hold_two_euro_coins">Peržiūros režime palaikykite paspaudę proginę 2 Eurų monetą norėdami gauti daugiau informacijos apie ją.</string>
+	<string name="help_touch_common_coins">Palieskite vieną iš 8 standartinių monetų kairėje norėdami pamatyti kaip ji atrodo visose šalyse.</string>
+	<string name="help_imexport">Eksporto failas vadinsis \'euro_coin_list_&lt;vartotojas&gt;.txt\'. Importuoti vartotojai bus pridėti ir neperrašyti.</string>
+	<string name="help_backup">Kiekvieną savaitę programa automatiškai padaro atsarginę duomenų kopiją. Meniu punkte "Atstatyti iš kopijos" galima pridėti rezervinės kopijos monetas į dabartinę kolekciją</string>
+	<string name="help_coinset_expand">Vokiškų monetų rinkiniai bus sugrupuoti pagal metus, jei įjungsite \'Rinkti metų ir kalyklų monetas\' nustatymą. +/- ženklai virš monetų (kairėje pusėje) išskleis/suskleis visas grupes iš karto.</string>
+	<string name="help_menu">Naudoti telefono meniu mygtuką keisti dydį ir pan.</string>
+	<string name="help_title_setting">Palietus stulpelio antraštę galėsite pasirinkti atitinkamą fono spalvą</string>
+	<string name="show_licenses">Licencijos</string>
+	<string name="pref_use_individual_settings">Naudoti indvidualius nustatymus</string>
+	<string name="pref_image_size">Paveikslėlio dydis</string>
+	<string name="pref_text_size_1">Šrifto dydis 1 (antraštės)</string>
+	<string name="pref_text_size_2">Šrifto dydis 2 (monetos)</string>
+	<string name="pref_collect_two_euro_only">Rinkti tik 2 Eurų monetas</string>
+	<string name="pref_collect_years">Rinkti metų ir kalyklų monetas</string>
+	<string name="pref_show_statistics">Parodyti statistiką</string>
+	<string name="pref_language">Kalba / Language</string>
+	<string name="added_date">Data</string>
+	<string name="change_added_date">keisti</string>
+	<string name="paid">Sumokėta</string>
+	<string name="value">Vertė</string>
+	<string name="note">Pastaba</string>
+	<string name="pref_show_only_missing_coins">Rodyti tik trūkstamas monetas</string>
+	<string name="pref_show_official_coin_set_marker">Rodyti \'skirtingos kalyklos\' žymę (*)</string>
+	<string name="condition">Būklė</string>
+	<string name="condition_helper">(A&#8211;Z arba 1&#8211;9)</string>
+	<string name="action_open_url_comment">Nusiųsti žinutę</string>
+	<string name="action_close">Išeiti</string>
+	<string name="coin_collected_marker">X</string>
+	<string name="index_cc">Indeksas</string>
+	<string name="enter_2_euro_coin_name">Įveskite metus ir trumpą 2 Eurų monetos pavadinimą</string>
+	<string name="custom_coin_name">Pavadinimas</string>
+	<string name="year">Metai</string>
+	<string name="count">Kiekis</string>
+	<string name="mint">Kalykla</string>
+	<string name="remove_coin">Pašalinti monetą</string>
+	<string name="label">Pavadinimas</string>
+	<string name="prev_coin">Ankst.</string>
+	<string name="next_coin">Kita</string>
+	<string name="new_coin">Nauja</string>
+	<string name="attention">Dėmesio</string>
+	<string name="force_unlock_user">Klaida kraunant vartotojo informaciją. Ar atrakinti priverstinai?</string>
+	<string name="backup_created">Rezervinė kopija sukurta</string>
+	<string name="action_restore_backup">Atstatyti iš kopijos</string>
+	<string name="action_delete_old_backups">Ištrinti senas kopijas</string>
+	<string name="delete_old_backups">Ištrinti visas senas kopijas?</string>
+	<string name="no_external_storage_permission">Android programų meniu įjunkite \'Leidimai\' - \'Saugykla\'</string>
+	<string name="commemorative_coins_full">Visos proginės monetos</string>
+	<string name="pref_use_background_color">Naudoti fono spalvą</string>
+	<string name="pref_background_color">Fono spalva</string>
+	<string name="pref_hide_not_existing_coins">Nerodyti neegzistuojančių monetų</string>
+	<string name="click_the_coin_set_expand_button">Palieskite pliuso ženklą norėdami išskleisti monetų grupę</string>
+	<!-- v4.5 -->
+	<string name="pref_text_size_3">Šrifto dydis 3 (pasirinkimai)</string>
+	<string name="version_history">Pasikeitimų istorija</string>
+	<string name="pref_use_cloud_features">Naudoti "debesų" (interneto) funkcijas</string>
+	<string name="backup_no_cloud_features_activated">"Debesų" (interneto) funkcijos išjungtos. Kopijos laikomos tik įrenginyje.</string>
+	<string name="action_create_backup">Sukurti kopiją</string>
+	<string name="action_show_notifications">Pranešimai</string>
+	<string name="action_show_info">Informacija</string>
+	<string name="action_save">Išsaugoti</string>
+	<string name="help_cloud_features">Kai "debesų" funkcijos įjungtos, kassavaitinė kopija nusiunčiama į programos kūrėjo tarnybinę stotį http://www.homepage-master.de/eurocoinsalbum. Galite atstatyti duomenis iš šios kopijos kai ppaprastai, taip pat pežiūrėti kopijas adresu http://www.homepage-master.de/eurocoinsalbum/listBackups?uuid=&lt;jūsų identifikatorius&gt;&amp;email=&lt;El.paštas&gt;.\n"Debesų" funkcijos naudoja programos sugeneruotą ID, kurį galite rasti meniu punkte "Informacija - Mano ID".</string>
+	<string name="help_email">Jūsų ID bus nusiųstas nustatymose įvestu el.pašto adresu.</string>
+	<string name="action_show_uuid">Mano ID</string>
+	<string name="id_created">ID sukurtas. Patikrinkite: "Informacija - Mano ID".</string>
+	<string name="no_internet_no_backup">Nėra interneto ryšio. Bandysime dar kartą kito programos paleidimo metu.</string>
+	<string name="pref_email">El.paštas</string>
+	<string name="send_id">Nusiųsti ID</string>
+	<string name="email_sent">Išsiųstas laiškas adresu %1$s</string>
+	<string name="email_sent_confirm">Išsiųstas laiškas adresu %1$s. Patvirtinkite adresą aktyvuodami nuorodą jame.</string>
+	<string name="enter_email">Nurodykite savo el.paštą nustartymuose.</string>
+	<string name="no_backups_available">Nėra rezervinių kopijų</string>
+	<string name="internet_not_available_for_backup">Nėra interneto ryšio. Bus apdorotos tik lokalios kopijos.</string>
+	<string name="register_email">Užregistruoti el.pašto adresą</string>
+	<string name="data_saved">Duomenys išsaugoti</string>
+	<string name="switch_id">Perkelti ID</string>
+	<string name="enter_id_to_be_transferred">Įveskite ID. Jūsų duomenys bus sulieti su nauju ID.</string>
+	<string name="no_internet_no_registration">Nėra interneto ryšio. Įjunkite interneto ryšį ir nurodykite el.paštą dar kartą.</string>
+	<string name="no_internet">Nėra interneto ryšio</string>
+
+	<string name="version_history_5_0">
+		Versija 5.0\n
+		Nauji nustatymai: "debesų" funkcijos. Rezervinės kopijos papildomai išsaugomos "debesyje" (internete).\n
+		Nauji nustatymai: el.paštas (juo bus išsiųstas Jūsų ID)\n
+		Nauji nustatymai: pasirinkimo sąrašų šrifto dydis\n
+		Naujas vertimas: Lietuviškai\n
+		Nauji meniu punktai: informacija, išsaugoti, išeiti\n
+		Sumažintas atminties sunaudojimas\n
+		Pridėtas pranešimų žurnalas (meniu informacija -> pranešimai)
+	</string>
+
+	<string name="coin_1cent">1 centas</string>
+	<string name="coin_2cent">2 centai</string>
+	<string name="coin_5cent">5 centai</string>
+	<string name="coin_10cent">10 centų</string>
+	<string name="coin_20cent">20 centų</string>
+	<string name="coin_50cent">50 centų</string>
+	<string name="coin_1euro">1 Euras</string>
+	<string name="coin_2euro">2 Eurai</string>
+	<string name="coin_5euro">5 Eurai</string>
+	<string name="coin_10euro">10 Eurų</string>
+	<string name="countryname_eu">ES</string>
+	<string name="countryname_au">Austrija</string>
+	<string name="countryname_ad">Andora</string>
+	<string name="countryname_be">Belgija</string>
+	<string name="countryname_cy">Kipras</string>
+	<string name="countryname_ee">Estija</string>
+	<string name="countryname_fi">Suomija</string>
+	<string name="countryname_fr">Prancūzija</string>
+	<string name="countryname_de">Vokietija</string>
+	<string name="countryname_gr">Graikija</string>
+	<string name="countryname_ir">Airija</string>
+	<string name="countryname_it">Italija</string>
+	<string name="countryname_lt">Lietuva</string>
+	<string name="countryname_lu">Liuksemburgas</string>
+	<string name="countryname_lv">Latvija</string>
+	<string name="countryname_mt">Malta</string>
+	<string name="countryname_mc">Monakas</string>
+	<string name="countryname_ne">Nyderlandai</string>
+	<string name="countryname_po">Portugalija</string>
+	<string name="countryname_sk">Slovakija</string>
+	<string name="countryname_si">Slovėnija</string>
+	<string name="countryname_sm">San Marinas</string>
+	<string name="countryname_es">Ispanija</string>
+	<string name="countryname_va">Vatikanas</string>
+</resources>

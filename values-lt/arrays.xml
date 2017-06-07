@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_size_array">
+        <item name="SMALL">Mažas</item>
+        <item name="MEDIUM">Vidutinis</item>
+        <item name="LARGE">Didelis</item>
+    </string-array>
+
+</resources>

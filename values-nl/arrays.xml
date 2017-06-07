@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_size_array">
+        <item name="SMALL">Small</item>
+        <item name="MEDIUM">Medium</item>
+        <item name="LARGE">Groot</item>
+    </string-array>
+
+</resources>
