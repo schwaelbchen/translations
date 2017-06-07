@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="language_code">de</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_country">Land</string>
+    <string name="action_user">Benutzer</string>
+    <string name="action_collection">Sammlung</string>
+    <string name="action_mode">Editiermodus umschalten</string>
+    <string name="new_collection">Neue Sammlung</string>
+    <string name="enter_new_name">Bitte neuen Name eingeben</string>
+    <string name="delete_collection">Löschen</string>
+    <string name="change_name">Name ändern</string>
+    <string name="default_collection_name">Sammlung1</string>
+    <string name="how_to_unlock">Drücke das Schloß-Symbol in der Menübar</string>
+    <string name="use_long_touch_to_force_details">Münze existiert nicht. Lange drücken, um den Eigenschaften-Dialog zu öffnen.</string>
+    <string name="mode_locked">Editiermodus gesperrt</string>
+    <string name="mode_unlocked">Editiermodus an</string>
+    <string name="mode_unlock_not_in_multiuser_or_eu">Editiermodus in Multiuser und EU Ansicht nicht möglich</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="multi_collection_view">Multi-Ansicht</string>
+    <string name="source_ecb">Quelle: EUROPÄISCHE ZENTRALBANK</string>
+    <string name="ecb_info">Die Informationen und Bilder der Münzen sind auf der EZB-Website kostenfrei erhältlich.</string>
+    <string name="action_import">Importieren</string>
+    <string name="action_export">Exportieren</string>
+    <string name="action_createpdf">pdf erstellen</string>
+    <string name="pdfApiLevelTooLow">Sorry, pdf Erstellung benötigt min. Android 4.4</string>
+    <string name="export_failed">Export fehlgeschlagen</string>   
+    <string name="import_failed">Import fehlgeschlogen</string>   
+    <string name="export_ok">Export OK</string>   
+    <string name="import_ok">Import OK</string>   
+    <string name="help">Hilfe</string>
+    <string name="help_message">Bitte Probleme, Fehlermeldungen, Fragen oder Erweiterungswünsche üben den Menüpunkt "Nachricht senden" melden (http://eurocoinsalbum.jimdo.com). Solche Kommentare bitte nicht im play store posten.</string>
+    <string name="help_statistics">Das Statistikformat ist x/y/z x=Anzahl möglicher unterschiedlicher Münzen, die gesammelt wurden; y=Anzahl möglicher unterschiedlicher Münzen, die gesammelt werden können; z=Gesamtanzahl der gesammelten Münzen (für den Fall, dass die Münze mehr als einmal gesammelt wurde; siehe Münzeigenschaften). Die Dezimalzahl zeigt den Geldbetrag,der gesammelt wurde und zusätzlich den Betrag für Wert und Bezahlt, falls diese Daten bei den Münzeigenschaften eingetragen wurden.</string>
+    <string name="help_coin_marker">Ein \'X\' auf der Münze zeigt an, dass diese Münze nicht geprägt wurde (wenn Sie andere Informationen darüber haben, können Sie mir diese gerne zumailen). Ein \'*\' an der Münze zeigt an, dass diese nur als KMS geprägt wurde, sofern diese Einstellung aktiviert wurde.</string>
+    <string name="help_eu_view">Die EU-Ansicht zeigt, ob der aktuelle Benutzer diese Münze für alle Jahrgänge/Länder (und Prägestätten) gesammelt hat oder ob mindestens eine/s fehlt. In der EU-Jahresansicht (siehe unten) zeigt das Drücken einer Münze an, für welche Länder diese Münze bereits gesammelt wurde. Drücken auf eine 2€ Gedenkmünze zeigt alle 2€-Münzen dieses Jahrgangs/Landes an!</string>
+    <string name="help_eu_mode_switch">In der EU-Ansicht dient der Button in der linken oberen Ecke zum Umschalten zwischen der Jahres- und der Länderansicht.</string>
+    <string name="help_multi_user">Die Mehrbenutzer Ansicht zeigt, ob alle Benutzer die Münze haben, oder ob diese wenigstens einem Benutzer fehlt.</string>
+    <string name="help_touch_hold_coins">Drücken und Halten einer Münze im Editiermodus erlaubt die Eingabe der Anzahl der Münzen und anderer Eigenschaften.</string>
+    <string name="help_touch_hold_two_euro_coins">Drücken und Halten einer 2 Euro Sondermünze im gesperrten Editiermodus zeigt zusätzliche Informationen zu dieser Münze an.</string>
+    <string name="help_touch_common_coins">Drücken einer der 8 gemeinsamen Euromünzen auf der linken Seite zeigt die nationalen Seiten aller Länder zu dieser Münze an.</string>
+    <string name="help_imexport">Die Dateinamen für exportierte Benutzer lauten: \'euro_coin_list_&lt;username&gt;.txt\'. Importierte Benutzer werden neu hinzugefügt und überschreiben keine bestehenden.</string>
+    <string name="help_backup">Jede Woche erstellt die App automatisch ein komplettes Backup aller Sammlungen, die im lokalen App-Verzeichnis im Dateisystem abgelegt werden. Über den Menüpunkt \'Sicherung wiederherstellen\' können alte Backups als zusätzliche Sammlung wieder eingespielt werden.</string>
+    <string name="help_coinset_expand">Um die Übersichtlichkeit zu erhöhen wurden die deutschen Münzsätze gruppiert, sofern die Einstellung \'Jahre und Prägestätten\' aktiviert wurde. Der plus/minus Button über den gemeinsamen Münzbildern (linke Seite) funktioniert in zweierlei Hinsicht: kurzes Drücken führt die Aktion für alle Münzsätze aus, wohingegen langes Drücken das Gegenteil bewirkt.</string>
+    <string name="help_menu">Über die Einstellungen im Menü lassen sich folgende Parameter verändern: Sprache, Münzbildgröße, Textgröße (Titel und Münztext), nur 2€ Gedenkmünzen, alle Jahrgänge/Prägestätten sammeln oder nur eine pro Land und vieles weitere. Eine besondere Funktion hat \'Individuelle Einstellungen verwenden\', womit jeder Benutzer/Sammlung seine eigenen Einstellungen haben kann oder ob alle die gleichen Einstellungen verwenden.</string>
+    <string name="help_title_setting">Durch Drücken der Spaltenüberschrift lässt sich die entsprechende Hintergrundfarbe ändern.</string>
+    <string name="show_licenses">Lizenzen</string>    
+    <string name="pref_use_individual_settings">Individuelle Einstellungen verwenden</string>
+    <string name="pref_image_size">Bildgröße</string>
+    <string name="pref_text_size_1">Textgröße 1 (Titel)</string>
+    <string name="pref_text_size_2">Textgröße 2 (Münzen)</string>
+    <string name="pref_collect_years">Jahre und Prägestätten</string>
+    <string name="pref_show_statistics">Statistik anzeigen</string>
+    <string name="pref_language">Sprache / Language</string>
+    <string name="added_date">Datum</string>
+    <string name="change_added_date">ändern</string>
+    <string name="paid">Bezahlt</string>
+    <string name="value">Wert</string>
+    <string name="note">Notiz</string>
+    <string name="pref_show_only_missing_coins">Zeige nur fehlende Münzen</string>
+    <string name="pref_show_official_coin_set_marker">Zeige \'nur als KMS\' Markierung (*)</string>
+    <string name="condition">Zustand</string>
+    <string name="condition_helper">(A&#8211;Z or 1&#8211;9)</string>
+    <string name="action_open_url_comment">Nachricht schreiben</string>
+    <string name="action_close">Beenden</string>
+    <string name="index_cc">Index</string>
+    <string name="enter_2_euro_coin_name">Jahr und kurzer Titel angeben:</string>
+    <string name="custom_coin_name">Name</string>
+    <string name="year">Jahr</string>
+    <string name="count">Anzahl</string>
+    <string name="mint">Prägezeichen</string>
+    <string name="remove_coin">Münze entfernen</string>
+    <string name="label">Bezeichnung</string>
+    <string name="prev_coin">Vorherige</string>
+    <string name="next_coin">Nächste</string>
+    <string name="new_coin">Neue</string>
+    <string name="attention">Achtung</string>
+    <string name="force_unlock_user">Dieser Benutzer hatte einen Ladefehler. Editiermodus erzwingen?</string>
+    <string name="backup_created">Sicherung erzeugt</string>
+    <string name="action_restore_backup">Sicherung wiederherstellen</string>
+    <string name="action_delete_old_backups">Alte Sicherungen löschen</string>
+    <string name="delete_old_backups">Alle Sicherungen außer die der aktuellen Woche löschen?</string>
+    <string name="no_external_storage_permission">Im Android Apps Menü die \'Berechtigung\' für \'Speicher\' aktivieren</string>
+    <string name="commemorative_coins_full">Gedenkmünzen voll</string>
+    <string name="pref_use_background_color">Hintergrundfarbe verwenden</string>
+    <string name="pref_background_color">Hintergrundfarbe</string>
+    <string name="pref_hide_not_existing_coins">Nicht existierende Münzen ausblenden</string>
+    <string name="click_the_coin_set_expand_button">Um die Gruppe zu öffnen drücke den Plus-Button</string>
+    <!-- v5.0 -->
+    <string name="pref_text_size_3">Textgröße 3 (Selektionsliste)</string>
+    <string name="version_history">Versionshistorie</string>
+    <string name="pref_use_cloud_features">Cloud (Internet) Funktionalitäten</string>
+    <string name="backup_no_cloud_features_activated">Cloud (Internet) Funktionalitäten sind deaktiviert. Sicherungen werden nur auf dem Handy gespeichert.</string>
+    <string name="action_create_backup">Sicherung erzeugen</string>
+    <string name="action_show_notifications">Benachrichtigungen</string>
+    <string name="action_show_info">Infos</string>
+    <string name="action_save">Speichern</string>
+    <string name="help_cloud_features">Wenn Cloud Funktionalitäten aktiviert wurden, werden die wöchentlichen Sicherungen auch auf dem Internet-Speicher von Eurocoinsalbum http://www.homepagse-master.de/eurocoinsalbum hochgelanden. Diese können wie normale Sicherungen wiederhergestellt und die Datendateien im Web-Browser angezeigt werden: http://www.homepagse-master.de/eurocoinsalbum/listBackups?uuid=&lt;hierDieIdEintragen&gt;&amp;email=&lt;hierDieEmailEintragen&gt;\nCloud Funktionalitäten verwenden eine eindeutige Benutzer ID, die von diesem Programm erzeugt wurde, um die persönlichen Sicherungen zu identifizieren. Die Benutzer ID kann über das Menu Infos - Meine Benutzer ID angezeigt werden.</string>
+    <string name="help_email">Die Benutzer ID wird an die E-Mail Adresse versendet, die bei Einstellungen - E-Mail eingetragen wurde.</string>
+    <string name="action_show_uuid">Meine Benutzer ID</string>
+    <string name="id_created">Benutzer ID erzeugt. Siehe menu: Infos - Meine Benutzer ID</string>
+    <string name="no_internet_no_backup">Internet nicht verfügbar. Sicherungen werden nicht in die Cloud (Internet) hochgeladen.</string>
+    <string name="pref_email">E-Mail</string>
+    <string name="send_id">Benutzer ID senden</string>
+    <string name="email_sent">Eine E-Mail wurde an %1$s versendet</string>
+    <string name="email_sent_confirm">Eine E-Mail wurde an %1$s versendet. SPAM überprüfen. Bitte klicken Sie auf den Link in der E-Mail, um die neue Mailadresse zu bestätigen.</string>
+    <string name="enter_email">Bitte registrieren Sie Ihre Mailadresse.</string>
+    <string name="no_backups_available">Keine Sicherungen vorhanden</string>
+    <string name="internet_not_available_for_backup">Internet nicht verfügbar. Nur lokale Sicherungen werden bearbeitet.</string>
+    <string name="register_email">E-Mail registrieren</string>
+    <string name="data_saved">Daten wurden gespeichert</string>
+    <string name="switch_id">Benutzer ID übertragen</string>
+    <string name="enter_id_to_be_transferred">Geben Sie die Benutzer ID ein, die übernommen werden soll. Diese Daten werden zu Ihrem Konto hinzugefügt.</string>
+    <string name="no_internet_no_registration">Internet nicht verfügbar. Internet aktivieren und Mail-Adresse über den Menüpunkt Benutzer registerieren.</string>
+    <string name="no_internet">Internet nicht verfügbar.</string>
+    <string name="email_sent_confirm_delete_account">Eine E-Mail wurde an %1$s versendet. SPAM überprüfen. Bitte klicken Sie auf den Link in der E-Mail, um Ihre Registrierung zu löschen.</string>
+    <string name="help_transfer_id">Wenn Sie eine Benutzer ID auf ein neues Gerät übertragen möchten (Handy, Tablet), dann geben Sie diese auf dem Zielgerät im Menu Infos->Meine Benutzer ID->Benutzer ID übertragen ein. Der bisherige Besitzer dieser Benutzer ID erhält eine E-Mail in der er die Übertragung bestätigen muss. Ihre bisherigen online Backups werden auf die neue Benutzer ID übertragen.</string>
+    <string name="delete_online_account">Online account löschen</string>
+    <!-- 5.1 -->
+    <string name="deletedBackups">Gelöschte Dateien auf dem Gerät:\n%1$s\nGelöschte Dateien in der Cloud:\n%2$s</string>
+    <string name="backup_upload_error">Fehler beim Speichern der Sicherung in die Cloud</string>
+    <string name="action_share_with">Teilen mit&#8230;</string>
+    <string name="action_add_share_with">Neue hinzufügen</string>
+    <string name="action_retract_share">Zurückziehen</string>
+    <string name="share_with_ok">Geteilt mit %1$s</string>
+    <string name="share_with_error">Fehler beim Teilen mit %1$s</string>
+    <string name="action_unshare_with_ok">Die geteilte Sammlung wurde für %1$s zurückgezogen</string>
+    <string name="enter_email_to_share_to">Geben Sie die E-Mail Adresse ein, mit der Sie diese Sammlung teilen möchten</string>
+    <string name="action_sync_collections">Synchronisieren</string>
+    <string name="collection_linked">Mit mir geteilte Sammlung verbunden für %1$s</string>
+    <string name="start">Start</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="sync_collection_ok">Sammlung %1$s synchronisiert</string>
+    <string name="sync_collection_error">Fehler beim Synchronisieren der Sammlung %1$s</string>
+    <string name="sync_collections_error">Fehler beim Synchronisieren</string>
+    <string name="linked_collection_read_only">Mit mir geteilte Sammlungen können nicht verändert werden.</string>
+    <string name="sync_collections_complete">Sammlungen synchronisiert</string>
+    <string name="load_file_error">Fehler beim Laden der Datei %1$s</string>
+    <string name="no_cloud_features_activated">Cloud (Internet) Funktionalitäten sind deaktiviert.</string>
+    <string name="not_saved_load_error">User %1$s not saved because of previous load error. Unlock edit mode to force save.</string>
+    <string name="collection_infos_general">Name: %1$s\nSammlung Nummer: %2$s\nGeteilt: %3$s\nBesitzer: %4$s\nSynchronisiert: %5$s</string>
+    <string name="collection_deleted">Sammlung %1$s gelöscht</string>
+    <string name="collection_sharing_retracted">Mit mir geteilte Sammlung %1$s wurde vom Besitzer zurückgezogen</string>
+    <string name="collection_sharing_retracted_ok">Geteilte Sammlung wurde für %1$s zurückgezogen</string>
+    <string name="collection_retract_sharing">Selektieren Sie die Einträge, die Sie zurückziehen möchten</string>
+    <string name="title_collection_shared_with_me">Sammlung geteilt</string>
+    <string name="ask_link_collection">%1$s hat seine Sammlung "%2$s" mit Ihnen geteilt. Möchten Sie diese verbinden?</string>
+    <string name="wrong_app_version_update">Bitte die App auf die neuste Version updated.</string>
+    <string name="session_expired_try_again">Sitzung abgelaufen. Bitte erneut versuchen.</string>
+    <string name="forum">Forum</string>
+    <string name="logged_in">Eingeloggt</string>
+    <string name="pref_other_special_coins">Andere Sondermünzen</string>
+    <string name="coin_parse_error">Fehler beim Laden (siehe Benachrichtigungen für Details)</string>
+    <!-- changed in 5.1 -->
+    <string name="pref_collect_two_euro_only">Keine Standardmünzen</string>
+
+    <string name="version_history_5_1">
+        Version 5.1\n
+        Neue Funktion: Sammlung mit anderen Benutzern und Geräten teilen\n
+        Neue 2€ Münzen für 2017 und Griechenland 2016 hinzugefügt\n
+        Münzbilder für Spanien 2010-2014 korrigiert\n
+        Neue Einstellmöglichkeit: Andere Sondermünzen
+    </string>
+
+    <string name="version_history_5_0">
+        Version 5.0\n
+        Neue Einstellmöglichkeit: Cloud (Internet) Funktionalitäten. Backups werden zusätzlich auf dem Eurocoinsalbum Internetserver gespeichert.\n
+        Neue Einstellmöglichkeit: E-Mail. Die Benutzer ID wird z.B. an diese Mail-Adresse versendet.\n
+        Neue Einstellmöglichkeit: Textgröße der Selektionslisten\n
+        Neue Sprache: littauisch\n
+        Neue Menüeinträge: Infos, Speichern, Beenden
+        Speichernutzung reduziert\n
+        Benachrichtigungshistorie hinzugefügt (Menü Infos->Benachrichtigungen)
+    </string>
+
+    <string name="version_history_4_4">
+        Version 4.4\n
+        EU-Ansicht: im Ländermodus werden durch Berühren einer Münze die gesammelten Jahrgänge angezeigt\n
+        Nutzung des Zurück-Buttons des Handys hinzugefügt\n
+        Versionsänderungen hinzugefügt (Menü-Hilfe)\n
+        Speichernutzung reduziert
+    </string>
+
+    <string name="version_history_4_3">
+        Version 4.3\n
+        Portugiesisch hinzugefügt
+    </string>
+
+    <string name="version_history_4_2">
+        Version 4.2\n
+        Fehlende Gedenkmünzen 2016 hinzugefügt\n
+        EU Ansicht verbessert
+    </string>
+
+    <string name="version_history_4_1">
+        Version 4.1\n
+        Ladefehler behoben
+    </string>
+
+    <string name="version_history_4_0">
+        Version 4.0\n
+        Anzeige der 2€ Gedenkmünzen in der EU-Ansicht\n
+        Münze Österreich Nationalbank von 2015 nach 2016 geändert
+    </string>
+
+    <string name="version_history_3_6">
+        Version 3.6\n
+        Fehler beim Auf- und Zuklappen der Prägestätten behoben\n
+        Leere Münzsätze werden nicht mehr angezeigt (bei "Nur 2 Euro Münzen" sammeln)
+    </string>
+
+    <string name="version_history_3_5">
+        Version 3.5\n
+        2€ 2016 Finnland hinzugefügt\n
+        Neue Funktionalität: Individuelle Farben für Titel von Münzsätze
+    </string>
+
+    <string name="version_history_3_4">
+        Version 3.4\n
+        2€ 2014 Malta 200 Jahre Polizei hinzugefügt\n
+        Übersetzungen für französisch und italienisch hinzugefügt\n
+        Unterstützung zur Verwaltung mehrerer exemplare derselben Münze hinzugefügt\n
+        Automatische Sicherung in jeder Woche hinzugefügt\n
+        Möglichkeit für individuelle Einstellungen pro Benutzer/Sammlung hinzugefügt\n
+        Einstellungsmöglichkeiten für Textgrößen hinzugefügt\n
+        Fehler bei benutzerdefinierten 2€ Münzen behoben\n
+        Fehler beim Speichern der Daten behoben
+    </string>
+
+    <string name="version_history_3_3">
+        Version 3.3\n
+        Münzgrößen korrigiert
+    </string>
+
+    <string name="version_history_3_2">
+        Version 3.2\n
+        2 Euro Münzen für 2016 hinzugefügt\n
+        Bild Griechenland 2013 Kreta korrigiert
+    </string>
+
+    <string name="version_history_3_1">
+        Version 3.1\n
+        2x 2015 2 Euro Münzen for Andorra hinzugefügt\n
+        Monaco 2 Euro Münze Eigenschaft korrigiert 2012
+    </string>
+
+    <string name="version_history_3_0">
+        Version 3.0\n
+        HINZUFÜGEN NEUER 2 EURO MÜNZEN. Kein Warten auf das nächste Update nötig!\n
+        Alle fehlenden 2 Euro Münzen hinzugefügt.
+    </string>
+
+    <string name="version_history_2_2">
+        Version 2.2\n
+        EU-View hinzugefügt!
+    </string>
+
+    <string name="version_history_2_0">
+        Version 2.0\n
+        pdf export und Statistiken hinzugefügt
+    </string>
+
+    <string name="coin_1cent">1 Cent</string>
+    <string name="coin_2cent">2 Cent</string>
+    <string name="coin_5cent">5 Cent</string>
+    <string name="coin_10cent">10 Cent</string>
+    <string name="coin_20cent">20 Cent</string>
+    <string name="coin_50cent">50 Cent</string>
+    <string name="coin_1euro">1 Euro</string>
+    <string name="coin_2euro">2 Euro</string>
+    
+    <string name="countryname_eu">EU</string>
+    <string name="countryname_ad">Andorra</string>
+    <string name="countryname_be">Belgien</string>
+    <string name="countryname_cy">Zypern</string>
+    <string name="countryname_ee">Estland</string>
+    <string name="countryname_fi">Finnland</string>
+    <string name="countryname_fr">Frankreich</string>
+    <string name="countryname_de">Deutschland</string>
+    <string name="countryname_gr">Griechenland</string>
+    <string name="countryname_ir">Irland</string>
+    <string name="countryname_it">Italien</string>
+    <string name="countryname_lt">Litauen</string>
+    <string name="countryname_lu">Luxemburg</string>
+    <string name="countryname_lv">Lettland</string>
+    <string name="countryname_mt">Malta</string>
+    <string name="countryname_mc">Monaco</string>
+    <string name="countryname_ne">Niederlande</string>
+    <string name="countryname_po">Portugal</string>
+    <string name="countryname_sk">Slowakei</string>
+    <string name="countryname_si">Slowenien</string>
+    <string name="countryname_sm">San Marino</string>
+    <string name="countryname_es">Spanien</string>
+    <string name="countryname_va">Vatikan</string>
+    <string name="countryname_au">Österreich</string>
+    <string name="action_manage_shared_collection">Verwalten</string>
+    <string name="collection_is_not_shared">Diese Sammlung wurde nicht geteilt</string>
+    <string name="register">Registrieren</string>
+</resources>
