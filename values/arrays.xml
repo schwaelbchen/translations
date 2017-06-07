@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_size_array">
+        <item name="SMALL">Small</item>
+        <item name="MEDIUM">Medium</item>
+        <item name="LARGE">Large</item>
+    </string-array>
+
+    <string-array name="pref_size_array_values">
+        <item name="SMALL">S</item>
+        <item name="MEDIUM">M</item>
+        <item name="LARGE">L</item>
+    </string-array>
+
+    <string-array name="pref_language_array">
+        <item name="DE">Deutsch</item>
+        <item name="EN">English</item>
+        <item name="FR">Français</item>
+        <item name="IT">Italiano</item>
+        <item name="PT">Português</item>
+        <item name="LT">Lietuvių</item>
+        <item name="NL">Nederlands</item>
+    </string-array>
+
+    <string-array name="pref_language_array_values">
+        <item name="DE">de</item>
+        <item name="EN">en</item>
+        <item name="FR">fr</item>
+        <item name="IT">it</item>
+        <item name="PT">pt</item>
+        <item name="LT">lt</item>
+        <item name="NL">nl</item>
+    </string-array>
+
+</resources>
