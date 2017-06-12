@@ -156,6 +156,9 @@
     <string name="logged_in">Logged in</string>
     <string name="pref_other_special_coins">Other special coins</string>
     <string name="coin_parse_error">Load error (see notifications for details)</string>
+    <string name="switch_id_error">Error while transferring user ID.</string>
+    <string name="register_mail_error">Error while registering mail address</string>
+    <string name="login_error">Error while logging in</string>
     <!-- changed in 5.1 -->
     <string name="pref_collect_two_euro_only">No standard coins</string>
 

@@ -152,6 +152,9 @@
     <string name="logged_in">Eingeloggt</string>
     <string name="pref_other_special_coins">Andere Sondermünzen</string>
     <string name="coin_parse_error">Fehler beim Laden (siehe Benachrichtigungen für Details)</string>
+    <string name="switch_id_error">Fehler beim Übertragen der ID</string>
+    <string name="register_mail_error">Fehler beim Registrieren der Mailadresse</string>
+    <string name="login_error">Fehler beim Einloggen</string>
     <!-- changed in 5.1 -->
     <string name="pref_collect_two_euro_only">Keine Standardmünzen</string>
 
