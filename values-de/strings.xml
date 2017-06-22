@@ -155,15 +155,25 @@
     <string name="switch_id_error">Fehler beim Übertragen der ID</string>
     <string name="register_mail_error">Fehler beim Registrieren der Mailadresse</string>
     <string name="login_error">Fehler beim Einloggen</string>
+    <string name="search_coin">Münze suchen</string>
+    <string name="enter_coin_search_text">Bitte Suchtext eingeben</string>
+    <string name="no_matching_coins_found">Keine passenden Münzen gefunden</string>
+    <string name="pref_collect_series">Münzserien</string>
+    <string name="pref_commemorative_coins">Gedenkmünzen</string>
     <!-- changed in 5.1 -->
     <string name="pref_collect_two_euro_only">Keine Standardmünzen</string>
 
     <string name="version_history_5_1">
         Version 5.1\n
         Neue Funktion: Sammlung mit anderen Benutzern und Geräten teilen\n
-        Neue 2€ Münzen für 2017 und Griechenland 2016 hinzugefügt\n
+        Neue 2€ Münzen für 2017 hinzugefügt\n
+        Neue 2€ Münze für Griechenland 2016 hinzugefügt\n
         Münzbilder für Spanien 2010-2014 korrigiert\n
-        Neue Einstellmöglichkeit: Andere Sondermünzen
+        Münzsatz für Vatikan 2005 korrigiert\n
+        Neue Funktion: Münzen suchen\n
+        Neue Einstellmöglichkeit: Münzserien sammeln\n
+        Neue Einstellmöglichkeit: Gedenkmünzen sammeln\n
+        Neue Einstellmöglichkeit: Andere Sondermünzen sammeln
     </string>
 
     <string name="version_history_5_0">

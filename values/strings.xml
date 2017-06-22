@@ -159,15 +159,25 @@
     <string name="switch_id_error">Error while transferring user ID.</string>
     <string name="register_mail_error">Error while registering mail address</string>
     <string name="login_error">Error while logging in</string>
+    <string name="search_coin">Search coin</string>
+    <string name="enter_coin_search_text">Enter text to search for</string>
+    <string name="no_matching_coins_found">No matching coins found</string>
+    <string name="pref_collect_series">Collect series</string>
+    <string name="pref_commemorative_coins">Commemorative coins</string>
     <!-- changed in 5.1 -->
     <string name="pref_collect_two_euro_only">No standard coins</string>
 
     <string name="version_history_5_1">
         Version 5.1\n
         New feature: share collections with other users and devices\n
-        Added 2€ coins 2017 and Greece 2016\n
-        Corrected coin images for Spain 2010-2014\n
-        New setting: Other special coins
+        Added 2€ coins 2017\n
+        Added 2€ coin Greece 2016\n
+        Fixed coin images for Spain 2010-2014\n
+        Fixed coin handling for Vatican 2005\n
+        New feature: search coins\n
+        New setting: collect coin series\n
+        New setting: collect commemorative coins\n
+        New setting: collect Other special coins
     </string>
 
     <string name="version_history_5_0">
