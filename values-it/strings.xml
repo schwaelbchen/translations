@@ -62,7 +62,7 @@
     <string name="action_open_url_comment">Scrivi messaggio</string>
     <string name="action_close">Chiudere</string>
     <string name="index_cc">Indice</string>
-    <string name="enter_2_euro_coin_name">Entrare anno e breve titolo:</string>
+    <string name="enter_coin_name">Entrare anno e breve titolo:</string>
     <string name="custom_coin_name">Noma</string>
     <string name="year">Anno</string>
     <string name="count">Numero</string>

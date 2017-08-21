@@ -51,7 +51,7 @@
     <string name="action_open_url_comment">Enviar mensagem</string>
     <string name="action_close">Sair</string>
     <string name="index_cc">Índice</string>
-    <string name="enter_2_euro_coin_name">Insira ano e nome da moeda de 2 Euros</string>
+    <string name="enter_coin_name">Insira ano e nome da moeda</string>
     <string name="custom_coin_name">Nome</string>
     <string name="year">Ano</string>
     <string name="count">Quantidade</string>

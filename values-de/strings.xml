@@ -31,7 +31,7 @@
     <string name="export_ok">Export OK</string>   
     <string name="import_ok">Import OK</string>   
     <string name="help">Hilfe</string>
-    <string name="help_message">Bitte Probleme, Fehlermeldungen, Fragen oder Erweiterungswünsche üben den Menüpunkt "Nachricht senden" melden (http://eurocoinsalbum.jimdo.com). Solche Kommentare bitte nicht im play store posten.</string>
+    <string name="help_message">Bitte Probleme, Fehlermeldungen, Fragen oder Erweiterungswünsche üben den Menüpunkt "Nachricht senden" melden (http://eurocoins-album.jimdo.com). Solche Kommentare bitte nicht im play store posten.</string>
     <string name="help_statistics">Das Statistikformat ist x/y/z x=Anzahl möglicher unterschiedlicher Münzen, die gesammelt wurden; y=Anzahl möglicher unterschiedlicher Münzen, die gesammelt werden können; z=Gesamtanzahl der gesammelten Münzen (für den Fall, dass die Münze mehr als einmal gesammelt wurde; siehe Münzeigenschaften). Die Dezimalzahl zeigt den Geldbetrag,der gesammelt wurde und zusätzlich den Betrag für Wert und Bezahlt, falls diese Daten bei den Münzeigenschaften eingetragen wurden.</string>
     <string name="help_coin_marker">Ein \'X\' auf der Münze zeigt an, dass diese Münze nicht geprägt wurde (wenn Sie andere Informationen darüber haben, können Sie mir diese gerne zumailen). Ein \'*\' an der Münze zeigt an, dass diese nur als KMS geprägt wurde, sofern diese Einstellung aktiviert wurde.</string>
     <string name="help_eu_view">Die EU-Ansicht zeigt, ob der aktuelle Benutzer diese Münze für alle Jahrgänge/Länder (und Prägestätten) gesammelt hat oder ob mindestens eine/s fehlt. In der EU-Jahresansicht (siehe unten) zeigt das Drücken einer Münze an, für welche Länder diese Münze bereits gesammelt wurde. Drücken auf eine 2€ Gedenkmünze zeigt alle 2€-Münzen dieses Jahrgangs/Landes an!</string>
@@ -65,7 +65,7 @@
     <string name="action_open_url_comment">Nachricht schreiben</string>
     <string name="action_close">Beenden</string>
     <string name="index_cc">Index</string>
-    <string name="enter_2_euro_coin_name">Jahr und kurzer Titel angeben:</string>
+    <string name="enter_coin_name">Jahr und kurzer Titel angeben:</string>
     <string name="custom_coin_name">Name</string>
     <string name="year">Jahr</string>
     <string name="count">Anzahl</string>
@@ -96,7 +96,7 @@
     <string name="action_show_notifications">Benachrichtigungen</string>
     <string name="action_show_info">Infos</string>
     <string name="action_save">Speichern</string>
-    <string name="help_cloud_features">Wenn Cloud Funktionalitäten aktiviert wurden, werden die wöchentlichen Sicherungen auch auf dem Internet-Speicher von Eurocoinsalbum http://www.homepagse-master.de/eurocoinsalbum hochgelanden. Diese können wie normale Sicherungen wiederhergestellt und die Datendateien im Web-Browser angezeigt werden: http://www.homepagse-master.de/eurocoinsalbum/listBackups?uuid=&lt;hierDieIdEintragen&gt;&amp;email=&lt;hierDieEmailEintragen&gt;\nCloud Funktionalitäten verwenden eine eindeutige Benutzer ID, die von diesem Programm erzeugt wurde, um die persönlichen Sicherungen zu identifizieren. Die Benutzer ID kann über das Menu Infos - Meine Benutzer ID angezeigt werden.</string>
+    <string name="help_cloud_features">Wenn Cloud Funktionalitäten aktiviert wurden, werden die wöchentlichen Sicherungen auch auf dem Internet-Speicher von Eurocoinsalbum hochgelanden. Diese können wie normale Sicherungen wiederhergestellt\nCloud Funktionalitäten verwenden eine eindeutige Benutzer ID, die von diesem Programm erzeugt wurde, um die persönlichen Sicherungen zu identifizieren. Die Benutzer ID kann über das Menu Infos - Meine Benutzer ID angezeigt werden.</string>
     <string name="help_email">Die Benutzer ID wird an die E-Mail Adresse versendet, die bei Einstellungen - E-Mail eingetragen wurde.</string>
     <string name="action_show_uuid">Meine Benutzer ID</string>
     <string name="id_created">Benutzer ID erzeugt. Siehe menu: Infos - Meine Benutzer ID</string>
@@ -162,6 +162,39 @@
     <string name="pref_commemorative_coins">Gedenkmünzen</string>
     <!-- changed in 5.1 -->
     <string name="pref_collect_two_euro_only">Keine Standardmünzen</string>
+
+    <!-- version 5.3 -->
+    <string name="enter_coin_value">Wert der Münze eintragen</string>
+    <string name="select_image">Bild auswählen</string>
+    <string name="no_camera_permission">Im Android Apps Menü die \'Berechtigung\' für \'Kamera\' aktivieren</string>
+    <string name="pref_coin_photo_size">Kamera Bildgröße</string>
+    <string name="permission_error">Berechtigungsfehler</string>
+    <string name="image_load_error">Fehler beim Laden des Fotos</string>
+    <string name="not_registered_user_email">\'%1$s\' ist eine nicht registrierte Benutzer E-Mail Adresse</string>
+    <string name="action_force_sync_collections">Synchronisieren erzwingen</string>
+    <string name="is_2_euro_cc">Das ist eine 2€ Gedenkmünze</string>
+    <string name="confirm_rename_collection_title">Sammlung wurde umbenannt</string>
+    <string name="confirm_rename_collection">Soll die Sammlung \'%1$s\' in \'%2$s\' umbenannt werden?</string>
+    <string name="show_newest_added_coins">Neuste Münzen</string>
+
+    <string name="version_history_5_3">
+        Version 5.3\n
+        Neue Funktion: Fotos von Münzen aufnehmen\n
+        Neue Funktion: Menü Benutzer Synchronisieren erzwingen\n
+        Neue Funktion: Menü Sammlung - Information - Neuste Münzen\n
+        Namensänderungen geteilter Sammlungen nachverfolgen\n
+        Speichern und Synchronisieren verbessert\n
+        Französische Texte aktualisiert\n
+        Fehler behoben in Benutzer ID übertragen\n
+        Programmstabilität verbessert\n
+        Neue 2€ Münze für Malta 2016 "Love" hinzugefügt\n
+        Neue 2€ Münze für Italien 2017 "Tito Livio" hinzugefügt
+    </string>
+
+    <string name="version_history_5_2">
+        Version 5.2\n
+        Fehler behoben Internetserver
+    </string>
 
     <string name="version_history_5_1">
         Version 5.1\n

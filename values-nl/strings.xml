@@ -67,7 +67,7 @@
     <string name="action_close">Afsluiten</string>
     <string name="coin_collected_marker">X</string>
     <string name="index_cc">Index</string>
-    <string name="enter_2_euro_coin_name">Voer in jaar en kort naam 2 Euromunt</string>
+    <string name="enter_coin_name">Voer in jaar en kort naam</string>
     <string name="custom_coin_name">Naam</string>
     <string name="year">Jaar</string>
     <string name="count">Aantal</string>

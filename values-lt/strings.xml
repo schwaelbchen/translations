@@ -66,7 +66,7 @@
 	<string name="action_close">Išeiti</string>
 	<string name="coin_collected_marker">X</string>
 	<string name="index_cc">Indeksas</string>
-	<string name="enter_2_euro_coin_name">Įveskite metus ir trumpą 2 Eurų monetos pavadinimą</string>
+	<string name="enter_coin_name">Įveskite metus ir trumpą monetos pavadinimą</string>
 	<string name="custom_coin_name">Pavadinimas</string>
 	<string name="year">Metai</string>
 	<string name="count">Kiekis</string>
