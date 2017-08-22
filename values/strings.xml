@@ -180,12 +180,14 @@
     <string name="confirm_rename_collection_title">Collection renamed</string>
     <string name="confirm_rename_collection">Do you want to rename the collection \'%1$s\' to \'%2$s\'</string>
     <string name="show_newest_added_coins">Newest coins</string>
+    <string name="i_dont_have_this_coin">I don\'t have this coin</string>
 
     <string name="version_history_5_3">
         Version 5.3\n
-        New Feature: Take photos of coins\n
-        New feature: menu user force synchronize\n
-        New feature: menu collection - information - newest coins\
+        New Feature: Take photos of user defined coins\n
+        New feature: menu user - force synchronize\n
+        New feature: menu collection - information - newest coins\n
+        New feature: add information to not collected coins\n
         Track name changes of linked collections\n
         Improved saving and synchronizing\n
         Updated french texts\n
