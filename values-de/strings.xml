@@ -177,6 +177,15 @@
     <string name="confirm_rename_collection">Soll die Sammlung \'%1$s\' in \'%2$s\' umbenannt werden?</string>
     <string name="show_newest_added_coins">Neuste Münzen</string>
     <string name="i_dont_have_this_coin">Ich habe diese Münze nicht</string>
+    <string name="create_as_multiview">Erzeuge Multi-Ansicht</string>
+    <string name="select_collections">Sammlungen auswählen</string>
+    <string name="country_statistic">Länderstatistik</string>
+    <string name="country_statistic_message">%1$s von %2$s möglichen unterschiedlichen Münzen gesammelt\n%3$s Münzen insgesamt gesammelt\n%4$s € ist der Nominalwert\n%5$s € wurde bezahlt\n%6$s € ist der Wert</string>
+    <string name="compare_against_other_collection">Vergleichen</string>
+    <string name="no_differences_in_collections_found">Keine Unterschiede gefunden</string>
+    <string name="error_saving_collection">Fehler beim Speichern der Sammlung %1$s</string>
+    <string name="invalid_value">Ungültiger Münzwert</string>
+    <string name="invalid_year">Ungültiges Jahr</string>
 
     <string name="version_history_5_3">
         Version 5.3\n
@@ -184,6 +193,8 @@
         Neue Funktion: Menü Benutzer - Synchronisieren erzwingen\n
         Neue Funktion: Menü Sammlung - Information - Neuste Münzen\n
         Neue Funktion: Informationen zu nicht gesammelten Münzen hinzufügen\n
+        Neue Funktion: Erstellen eigener Multi-Ansichten\n
+        Neue Funktion: Vergleich zweier Sammlungen\n
         Namensänderungen geteilter Sammlungen nachverfolgen\n
         Speichern und Synchronisieren verbessert\n
         Französische Texte aktualisiert\n

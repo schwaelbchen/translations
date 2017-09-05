@@ -181,6 +181,15 @@
     <string name="confirm_rename_collection">Do you want to rename the collection \'%1$s\' to \'%2$s\'</string>
     <string name="show_newest_added_coins">Newest coins</string>
     <string name="i_dont_have_this_coin">I don\'t have this coin</string>
+    <string name="create_as_multiview">Create multi view</string>
+    <string name="select_collections">Select collections</string>
+    <string name="country_statistic">Country statistic</string>
+    <string name="country_statistic_message">%1$s out of %2$s possible different coins collected\n%3$s coins collected overall\n%4$s € is the nominal value\n%5$s € is what you paid\n%6$s € is the value</string>
+    <string name="compare_against_other_collection">Compare</string>
+    <string name="no_differences_in_collections_found">No differences found</string>
+    <string name="error_saving_collection">Error while saving collection %1$s</string>
+    <string name="invalid_value">Invalid value</string>
+    <string name="invalid_year">Invalid year</string>
 
     <string name="version_history_5_3">
         Version 5.3\n
@@ -188,6 +197,8 @@
         New feature: menu user - force synchronize\n
         New feature: menu collection - information - newest coins\n
         New feature: add information to not collected coins\n
+        New feature: create custom multi views\n
+        New feature: compare two collections\n
         Track name changes of linked collections\n
         Improved saving and synchronizing\n
         Updated french texts\n
