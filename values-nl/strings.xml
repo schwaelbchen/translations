@@ -13,8 +13,6 @@
     <string name="default_collection_name">Verzameling1</string>
     <string name="how_to_unlock">Tik op het slotje in de menubalk</string>
     <string name="use_long_touch_to_force_details">Munt bestaat niet. Raak de munt lang aan voor het openen van het venster met muntdetails.</string>
-    <string name="mode_locked">Bewerkingsmodus vergrendeld</string>
-    <string name="mode_unlocked">Bewerkingsmodus ontgrendeld</string>
     <string name="mode_unlock_not_in_multiuser_or_eu">Geen bewerking mogelijk in het overzicht alle gebruikers of EU-overzicht</string>
     <string name="yes">Ja</string>
     <string name="no">Nee</string>

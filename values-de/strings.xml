@@ -14,8 +14,6 @@
     <string name="default_collection_name">Sammlung1</string>
     <string name="how_to_unlock">Drücke das Schloß-Symbol in der Menübar</string>
     <string name="use_long_touch_to_force_details">Münze existiert nicht. Lange drücken, um den Eigenschaften-Dialog zu öffnen.</string>
-    <string name="mode_locked">Editiermodus gesperrt</string>
-    <string name="mode_unlocked">Editiermodus an</string>
     <string name="mode_unlock_not_in_multiuser_or_eu">Editiermodus in Multiuser und EU Ansicht nicht möglich</string>
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
@@ -50,7 +48,7 @@
     <string name="pref_image_size">Bildgröße</string>
     <string name="pref_text_size_1">Textgröße 1 (Titel)</string>
     <string name="pref_text_size_2">Textgröße 2 (Münzen)</string>
-    <string name="pref_collect_years">Jahre und Prägestätten</string>
+    <string name="pref_collect_years">Jahre sammeln</string>
     <string name="pref_show_statistics">Statistik anzeigen</string>
     <string name="pref_language">Sprache / Language</string>
     <string name="added_date">Datum</string>
@@ -158,10 +156,10 @@
     <string name="search_coin">Münze suchen</string>
     <string name="enter_coin_search_text">Bitte Suchtext eingeben</string>
     <string name="no_matching_coins_found">Keine passenden Münzen gefunden</string>
-    <string name="pref_collect_series">Münzserien</string>
+    <string name="pref_collect_series">Münzserien sammeln</string>
     <string name="pref_commemorative_coins">Gedenkmünzen</string>
     <!-- changed in 5.1 -->
-    <string name="pref_collect_two_euro_only">Keine Standardmünzen</string>
+    <string name="pref_collect_two_euro_only">Keine Standardmünzen sammeln</string>
 
     <!-- version 5.3 -->
     <string name="enter_coin_value">Wert der Münze eintragen</string>
@@ -186,6 +184,33 @@
     <string name="error_saving_collection">Fehler beim Speichern der Sammlung %1$s</string>
     <string name="invalid_value">Ungültiger Münzwert</string>
     <string name="invalid_year">Ungültiges Jahr</string>
+    <!-- version 5.4 -->
+    <string name="collection_modus_to_offline">Verwaltet vom Gerät</string>
+    <string name="collection_modus_to_online">Verwaltet online</string>
+    <string name="no_internet_no_modus_on_offline">Internetverbindung erforderlich, um diese Einstellung zu ändern</string>
+    <string name="set_collection_modus_error">Fehler beim Ändern des Modus. Bitte später erneut versuchen.</string>
+    <string name="editing_only_in_collection_mode_online">Die Sammlung muss auf dem Hauptgerät auf verwaltet online gestellt werden, damit sie auf allen Geräten bearbeitet werden kann.</string>
+    <string name="no_internet_no_editing">Internet nicht verfügbar, wird aber für online verwaltete Sammlungen benötigt.</string>
+    <string name="collection_editing_locked">Sammlung gesperrt durch ein anderes Gerät.</string>
+    <string name="collection_not_locked">Sammlung wurde zuvor nicht gesperrt oder Sperre wurde aufgehoben.</string>
+    <string name="collection_editing_locked_force_unlock">Soll die Sperre für dieses Gerät erzwungen werden? Nicht synchroniserte Änderungen des anderen Geräts gehen verloren.</string>
+    <string name="request_edit_token_error">Fehler beim Wechsel in den online Editiermodus</string>
+    <string name="release_edit_token_error">Fehler beim Aufheben der online Editiersperre</string>
+    <string name="collection_not_online_managed">Sammlung wird nicht online verwaltet</string>
+    <string name="close">Schließen</string>
+    <string name="pref_collect_german_mints">Deutsche Prägestätten sammeln</string>
+    <string name="pref_collect_greece_2002_foreign_mints">Ausländische Prägungen Griechenland 2002 sammeln</string>
+    <string name="collect_no_years_but_german_mints_is_invalid">Keine Jahre, aber deutsche Prägestätten sammeln, ist eine ungültige Kombination</string>
+
+    <string name="version_history_5_4">
+        Version 5.4\n
+        Bilder Vatikan 2017 Papstwappen hinzugefügt\n
+        Alle 2€ 2017 Gedenkmünzen hinzugefügt\n
+        Neue Funktion: Editieren von Sammlungen auf mehreren Geräten\n
+        Neue Einstellmöglichkeit: Deutsche Prägestätten sammeln\n
+        Neue Einstellmöglichkeit: Grichenland 2002 ausländische Prägungen sammeln\n
+        Statistiken in der EU-Ansicht für Mehrbenutzer Sammlungen verbessert
+    </string>
 
     <string name="version_history_5_3">
         Version 5.3\n

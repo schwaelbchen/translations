@@ -16,8 +16,6 @@
     <string name="default_collection_name">Collection1</string>
     <string name="how_to_unlock">Touch the lock symbol in the menu bar</string>
     <string name="use_long_touch_to_force_details">Coin does not exists. Use long touch to force opening the coin details dialog.</string>
-    <string name="mode_locked">Edit mode locked</string>
-    <string name="mode_unlocked">Edit mode unlocked</string>
     <string name="mode_unlock_not_in_multiuser_or_eu">No editing in Multiuser and EU view</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
@@ -53,7 +51,7 @@
     <string name="pref_image_size">Image size</string>
     <string name="pref_text_size_1">Text size 1 (titles)</string>
     <string name="pref_text_size_2">Text size 2 (coins)</string>
-    <string name="pref_collect_years">Collect years and mints</string>
+    <string name="pref_collect_years">Collect years</string>
     <string name="pref_show_statistics">Show statistics</string>
     <string name="pref_language">Language</string>
     <string name="added_date">Date</string>
@@ -149,7 +147,7 @@
     <string name="collection_sharing_retracted_ok">Shared collection was retracted for %1$s</string>
     <string name="collection_retract_sharing">Select items to retract sharing</string>
     <string name="title_collection_shared_with_me">Collection shared</string>
-    <string name="ask_link_collection">%1$s has been shared his collection "%2$s" with you. Do you want to link it?</string>
+    <string name="ask_link_collection">%1$s has shared his collection "%2$s" with you. Do you want to link it?</string>
     <string name="wrong_app_version_update">Please update the app to the newest version!</string>
     <string name="session_expired_try_again">Session expired. Please try again.</string>
     <string name="forum">Forum</string>
@@ -165,7 +163,7 @@
     <string name="pref_collect_series">Collect series</string>
     <string name="pref_commemorative_coins">Commemorative coins</string>
     <!-- changed in 5.1 -->
-    <string name="pref_collect_two_euro_only">No standard coins</string>
+    <string name="pref_collect_two_euro_only">Don\'t collect standard coins</string>
 
     <!-- version 5.3 -->
     <string name="enter_coin_value">Enter coin value</string>
@@ -190,6 +188,33 @@
     <string name="error_saving_collection">Error while saving collection %1$s</string>
     <string name="invalid_value">Invalid value</string>
     <string name="invalid_year">Invalid year</string>
+    <!-- version 5.4 -->
+    <string name="collection_modus_to_offline">Manage on device</string>
+    <string name="collection_modus_to_online">Manage online</string>
+    <string name="no_internet_no_modus_on_offline">Internet connection must be available for switching this mode</string>
+    <string name="set_collection_modus_error">Error while switching collection modus. Please try again later.</string>
+    <string name="editing_only_in_collection_mode_online">Set this collection to be managed online on your master device to allow editing on all your devices</string>
+    <string name="no_internet_no_editing">Internet not available but is mandatory for online managed collections.</string>
+    <string name="collection_editing_locked">Collection locked by another device</string>
+    <string name="collection_not_locked">Collection was not locked or lock was lifted by another device</string>
+    <string name="collection_editing_locked_force_unlock">Do you want to force locking it for your device? Not synchronized changes will be lost.</string>
+    <string name="request_edit_token_error">Error while requesting online edit mode</string>
+    <string name="release_edit_token_error">Error while releasing the online editing lock</string>
+    <string name="collection_not_online_managed">Collection is not online managed</string>
+    <string name="close">Close</string>
+    <string name="pref_collect_german_mints">Collect german mints</string>
+    <string name="pref_collect_greece_2002_foreign_mints">Collect greece 2002 foreign mints</string>
+    <string name="collect_no_years_but_german_mints_is_invalid">Not collecting years but german mints is an unsupported combination</string>
+
+    <string name="version_history_5_4">
+        Version 5.4\n
+        Added Vatican 2017 images\n
+        Added all missing 2€ 2017 commemorative coins\n
+        New feature: edit collection on multiple devices (menu-collection-manage online)\n
+        New setting: collect german mints\n
+        New setting: collect greece 2002 foreign mints\n
+        Improved statistics in EU view for multiuser collections
+    </string>
 
     <string name="version_history_5_3">
         Version 5.3\n
@@ -1540,12 +1565,30 @@
     <string name="twoeuro_comm_2017_be_date">April 2017</string>
     <string name="twoeuro_comm_2017_be_abr">UL</string>
     <string name="twoeuro_comm_2017_be_short_title">University Liège</string>
+    <string name="twoeuro_comm_2017_be_2_title">200th anniversary of the Ghent University</string>
+    <string name="twoeuro_comm_2017_be_2_desc">The inner part of the piece represents the logo of the Ghent University, with the dates 1817 - 2017 below, surrounded by the inscription 200 JAAR UNIVERSITEIT GENT – 200 YEARS GHENT UNIVERSITY and the country indication BE. The mintmark of Brussels, a helmeted head of the Archangel Michael, and the mint directors’ mintmark, the coat of arms of the municipality Herzele, are located respectively on the right and left of the country indication. The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_be_2_volume">200.000</string>
+    <string name="twoeuro_comm_2017_be_2_date">September 2017</string>
+    <string name="twoeuro_comm_2017_be_2_abr">UG</string>
+    <string name="twoeuro_comm_2017_be_2_short_title">University Ghent</string>
+    <string name="twoeuro_comm_2017_cy_title">Paphos –Kulturhauptstadt Europas 2017</string>
+    <string name="twoeuro_comm_2017_cy_desc">Die erste eigene nationale 2-Euro-Gedenkmünze Zyperns zeigt das römische, im 2. Jahrhundert erbaute Odeon, das nach der Rekonstruktion heute wieder für Musik- und Theateraufführungen genutzt wird. Der Archäologische Park Paphos wurde 1980 zumWeltkulturerbe erhoben, Paphos Kulturhauptstadt Europas 2017. „ΠΑΦΟΣ 2017 – ΠΟΛΙΤΙΣΤΙΚΗ ΠΡΩΤΕΥΟΥΣΑ ΤΗΣ ΕΥΡΩΠΗΣ“ (Paphos 2017 – Kulturhauptstadt Europas) und „ΚΥΠΡΟΣ KIBRIS“ (Zypern) stehen kreisförmig um das von Georgios Stamatopoulos gestaltete Motiv.</string>
+    <string name="twoeuro_comm_2017_cy_volume">430.000</string>
+    <string name="twoeuro_comm_2017_cy_date">3. November 2017</string>
+    <string name="twoeuro_comm_2017_cy_abr">PA</string>
+    <string name="twoeuro_comm_2017_cy_short_title">Paphos</string>
     <string name="twoeuro_comm_2017_de_title">Porta Nigra in Trier</string>
     <string name="twoeuro_comm_2017_de_desc"></string>
     <string name="twoeuro_comm_2017_de_volume"></string>
     <string name="twoeuro_comm_2017_de_date">03.02.2017</string>
     <string name="twoeuro_comm_2017_de_abr">PN</string>
     <string name="twoeuro_comm_2017_de_short_title">Porta Nigra</string>
+    <string name="twoeuro_comm_2017_ee_title"> Estonia\'s Independence</string>
+    <string name="twoeuro_comm_2017_ee_desc">The coin features the sinuous trunk of an oak tree where on one side there are depicted the branches and on the other side the leaves. The branches symbolize the time of revolutions and hardships from which the road to Estonia\'s Independence was paved. The leaves symbolize the strength, achievements and longevity of Estonia. At the bottom left side of the trunk there is the word \'MAAPÄEV\' (Provisional Assembly of Estonia) and above that the year \'1917\'. At the bottom right side there is the name of the issuing country \'EESTI\' and below that the year of issuance \'2017\'. The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_ee_volume">1.500.000</string>
+    <string name="twoeuro_comm_2017_ee_date">July 2017</string>
+    <string name="twoeuro_comm_2017_ee_abr">EI</string>
+    <string name="twoeuro_comm_2017_ee_short_title">Estonia\'s Independence</string>
     <string name="twoeuro_comm_2017_es_title">Monuments of Oviedo and the Kingdom of Asturias: Santa María del Naranco</string>
     <string name="twoeuro_comm_2017_es_desc"></string>
     <string name="twoeuro_comm_2017_es_volume"></string>
@@ -1558,12 +1601,36 @@
     <string name="twoeuro_comm_2017_fr_date">03.02.2017</string>
     <string name="twoeuro_comm_2017_fr_abr">AR</string>
     <string name="twoeuro_comm_2017_fr_short_title">Auguste Rodin</string>
+    <string name="twoeuro_comm_2017_fr_2_title">25th anniversary of the pink ribbon, symbol of the fight against breast cancer</string>
+    <string name="twoeuro_comm_2017_fr_2_desc">Since the 1990s, the fight against breast cancer has been a major cause around the world. On the occasion of the 25th anniversary of the pink ribbon, iconic symbol of this fight, Monnaie de Paris has decided to support this cause. For nearly 15 years, a pink ribbon prize has been presented every year to support research efforts and innovation.</string>
+    <string name="twoeuro_comm_2017_fr_2_volume">10.000.000</string>
+    <string name="twoeuro_comm_2017_fr_2_date">September 2017</string>
+    <string name="twoeuro_comm_2017_fr_2_abr">BC</string>
+    <string name="twoeuro_comm_2017_fr_2_short_title">Breast Cancer</string>
     <string name="twoeuro_comm_2017_fi_title">100 years of independence</string>
     <string name="twoeuro_comm_2017_fi_desc"></string>
     <string name="twoeuro_comm_2017_fi_volume"></string>
     <string name="twoeuro_comm_2017_fi_date">April 2017</string>
     <string name="twoeuro_comm_2017_fi_abr">In</string>
     <string name="twoeuro_comm_2017_fi_short_title">Independence</string>
+    <string name="twoeuro_comm_2017_fi_2_title">The Finnish nature</string>
+    <string name="twoeuro_comm_2017_fi_2_desc">The inner part of the coin has a design forming a cartographic likeness of the moon seen from Harmaja, Finland. On the top of the moon there is a crow sitting on a branch. The year of issuance ‘2017’ is placed at the center bottom. At the center left is the indication of the issuing country ‘FI’. The mint mark is placed center right. The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_fi_2_volume">500.000</string>
+    <string name="twoeuro_comm_2017_fi_2_date">October 2017</string>
+    <string name="twoeuro_comm_2017_fi_2_abr">FN</string>
+    <string name="twoeuro_comm_2017_fi_2_short_title">Finnish Nature</string>
+    <string name="twoeuro_comm_2017_gr_title">Archaeological site of Philippi</string>
+    <string name="twoeuro_comm_2017_gr_desc">The design features part of Basilica B and linear motifs inspired by a border pattern from an ancient Greek mosaic discovered at the site. Inscribed along the inner circle is the wording ‘ARCHAEOLOGICAL SITE OF PHILIPPI’ and ‘HELLENIC REPUBLIC’ (in Greek). Also inscribed in the background is the year of issuance ‘2017’ and to the right a palmette (the mint mark of the Greek Mint). Visible at the lower left is the monogram of the artist (George Stamatopoulos). The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_gr_volume">750.000</string>
+    <string name="twoeuro_comm_2017_gr_date">July 2017</string>
+    <string name="twoeuro_comm_2017_gr_abr">AP</string>
+    <string name="twoeuro_comm_2017_gr_short_title">Archaeological Philippi</string>
+    <string name="twoeuro_comm_2017_gr_2_title">60 years in memoriam of Nikos Kazantzakis</string>
+    <string name="twoeuro_comm_2017_gr_2_desc">The design features a profile portrait of Nikos Kazantzakis, one of Greece’s greatest 20th century writers. Inscribed along the inner circle, at the left, is the wording ‘HELLENIC REPUBLIC’ and the name ‘NIKOS KAZANTZAKIS’ (in Greek). At the top is the year of issuance ‘2017’ and at centre left a palmette (the mint mark of the Greek Mint). Also visible at lower right is the monogram of the artist (George Stamatopoulos). The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_gr_2_volume">750.000</string>
+    <string name="twoeuro_comm_2017_gr_2_date">July 2017</string>
+    <string name="twoeuro_comm_2017_gr_2_abr">NK</string>
+    <string name="twoeuro_comm_2017_gr_2_short_title">Nikos Kazantzakis</string>
     <string name="twoeuro_comm_2017_it_title">400 years since the completion of St Mark\'s Basilica</string>
     <string name="twoeuro_comm_2017_it_desc"></string>
     <string name="twoeuro_comm_2017_it_volume"></string>
@@ -1576,12 +1643,66 @@
     <string name="twoeuro_comm_2017_it_2_date">April 2017</string>
     <string name="twoeuro_comm_2017_it_2_abr">TL</string>
     <string name="twoeuro_comm_2017_it_2_short_title">Tito Livio</string>
+    <string name="twoeuro_comm_2017_lt_title">Vilnius</string>
+    <string name="twoeuro_comm_2017_lt_desc">The design shows a fragment of the Vilnius city panorama. At the left side is the inscription ‘VILNIUS’ and the mark of the designer. At the top right is the name of the issuing country ‘LIETUVA’ and the year of issuance ‘2017’. At the centre is the mintmark. The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_lt_volume">1.000.000</string>
+    <string name="twoeuro_comm_2017_lt_date">July 2017</string>
+    <string name="twoeuro_comm_2017_lt_abr">VI</string>
+    <string name="twoeuro_comm_2017_lt_short_title">Vilnius</string>
     <string name="twoeuro_comm_2017_lu_title">50 years since the foundation of the current Luxemburg Army.</string>
     <string name="twoeuro_comm_2017_lu_desc"></string>
     <string name="twoeuro_comm_2017_lu_volume"></string>
     <string name="twoeuro_comm_2017_lu_date">02.01.2017</string>
     <string name="twoeuro_comm_2017_lu_abr">LA</string>
     <string name="twoeuro_comm_2017_lu_short_title">Luxemburg Army</string>
+    <string name="twoeuro_comm_2017_lu_2_title">200. Geburtstag des Großherzogs Wilhelm III.</string>
+    <string name="twoeuro_comm_2017_lu_2_desc">Links ist Großherzog Henri, rechts Großherzog Wilhelm III. im Linksprofil abgebildet – letzterer nach einem 1861 von Johan Hendrik Hoffmeister (1823–1904) gemalten Porträt[952]. Wilhelm III. (1817–1890) trägt am Hals den Orden vom Goldenen Vlies,[953] ferner (v. o. n. u.) die stilisiert dargestellten Bruststerne des Militär-Wilhelms-Ordens[954] und desOrdens vom Niederländischen Löwen[955] sowie den höchste Orden des Großherzogtums Luxemburg, den Nassauischen Hausorden vom Goldenen Löwen[956]. Dessen Stiftungshintergrund war der 600. Jahrestag der Teilung des Hauses Nassau in die ottonische und die walramische Linie sowie das fünfzigjährige Bestehen des Herzogtums Nassau. Oben steht in vertikaler Schrift die Jahreszahl „2017“, darunter „HENRI“. Unten ist halbkreisförmig der Text „GRANDS-DUCS DE LUXEMBOURG“ (Großherzöge von Luxemburg) zu lesen. Über dem rechten Bildnis steht der Name „GUILLAUME III“ (Wilhelm III), ergänzt durch die Jahresangabe „*1817“.</string>
+    <string name="twoeuro_comm_2017_lu_2_volume">308.500 Münzen</string>
+    <string name="twoeuro_comm_2017_lu_2_date">26. Oktober 2017</string>
+    <string name="twoeuro_comm_2017_lu_2_abr">BW</string>
+    <string name="twoeuro_comm_2017_lu_2_short_title">200. Geburtstag Wilhelm III.</string>
+    <string name="twoeuro_comm_2017_lv_title">Kurzeme</string>
+    <string name="twoeuro_comm_2017_lv_desc">The design shows the coat of arms of the region of Kurzeme. At the top, the name of the issuing country "LATVIJA" and at the bottom the inscription "KURZEME". At the right hand side, the year of issuance "2017". The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_lv_volume">530.000</string>
+    <string name="twoeuro_comm_2017_lv_date">14. November 2017</string>
+    <string name="twoeuro_comm_2017_lv_abr">KU</string>
+    <string name="twoeuro_comm_2017_lv_short_title">Kurzeme</string>
+    <string name="twoeuro_comm_2017_lv_2_title">Lettgallen</string>
+    <string name="twoeuro_comm_2017_lv_2_desc">Die von Laimonis Šēnbergs gestaltete Münze ist Lettgallen gewidmet und zeigt im Wappen der historischen Region Lettlands einen Greif, eine Fantasiegestalt in derHeraldik mit Adleroberkörper und einem Löwenunterleib. Über dem Wappen steht als Ausgabestaat „LATVIJA“, unter dem Wappen der Schriftzug „LATGALE“. Auf der rechten Seite ist das Ausgabejahr „2017“ angegeben.</string>
+    <string name="twoeuro_comm_2017_lv_2_volume">530.000</string>
+    <string name="twoeuro_comm_2017_lv_2_date">14. November 2017</string>
+    <string name="twoeuro_comm_2017_lv_2_abr">LG</string>
+    <string name="twoeuro_comm_2017_lv_2_short_title">Lettgallen</string>
+    <string name="twoeuro_comm_2017_mo_title">200 Jahre Fürstliche Karabinierskompanie</string>
+    <string name="twoeuro_comm_2017_mo_desc">Abgebildet sind zwei Angehörige der Fürstlichen Karabinierskompanie vor der Westfassade und dem von Marc-Antoine Grigho um 1678 gestalteten Haupttor desFürstenpalastes,[966] das von dem Wappen Monacos überragt wird.[967] Hier residiert seit 1297 die Familie Grimaldi, ein ursprünglich genuesisches Adelsgeschlecht. Rechts ein restaurierterTurm mit Schwalbenschwanzzinnen, ehedem Teil der 1191 erbauten genuesischen Burg. Oben wird der Ausgabestaat „MONACO“ genannt, links flankiert von einem Füllhorn als französischem Münzstättenzeichen, rechts dem Münzmeisterzeichen von Yves Sampo. Unten stehen die Jahreszahlen „1817–2017 “ und „CARABINIERS DU PRINCE“ (Fürstliche Carabiniers).￼￼ Lettland14. November 2017Kurland[968][969]530.000Beschreibung:[970] Die von Laimonis Šēnbergs gestaltete Münze ist Kurland gewidmet und zeigt im Wappen der historischen Region Lettlands einen Löwen. Über dem Wappen steht als Ausgabestaat „LATVIJA“, unter dem Wappen der Schriftzug „KURZEME“. Auf der rechten Seite ist das Ausgabejahr „2017“ angegeben.</string>
+    <string name="twoeuro_comm_2017_mo_volume">15.000</string>
+    <string name="twoeuro_comm_2017_mo_date">13. November 2017</string>
+    <string name="twoeuro_comm_2017_mo_abr">CC</string>
+    <string name="twoeuro_comm_2017_mo_short_title">Karabinierskompanie</string>
+    <string name="twoeuro_comm_2017_mt_title">Unesco World Heritage Site: Maltese prehistoric temples of Hagar Qim</string>
+    <string name="twoeuro_comm_2017_mt_desc">The design features Saint Peter and Saint Paul and their symbols, respectively the keys and the sword. At the top is the inscription ‘CITTÀ DEL VATICANO’, in semi-circle. At the bottom, in semi-circle is the inscription ‘1950o DEL MARTIRIO DEI SANTI PIETRO E PAOLO’. At the bottom left is the year of issuance ‘2017’ and at the bottom right is the mint mark ‘R’. Between them is the name of the artist ‘G. TITOTTO’. The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_mt_volume">450.000</string>
+    <string name="twoeuro_comm_2017_mt_date">June 2017</string>
+    <string name="twoeuro_comm_2017_mt_abr">HQ</string>
+    <string name="twoeuro_comm_2017_mt_short_title">Hagar Qim</string>
+    <string name="twoeuro_comm_2017_mt_2_title">Solidarität und Frieden</string>
+    <string name="twoeuro_comm_2017_mt_2_desc">Das von der 12-jährigen Schülerin Katya Muscat gestaltete und von Noel Galea Bason gravierte Münzmotiv zeigt – unter einer schwebenden Friedenstaube – zwei kleine Kinder, die zwischen sich die Flagge Maltas halten, in deren linker oberer Ecke das Georgs-Kreuzdargestellt ist, das der gesamten Bevölkerung Maltas für ihren Mut und ihre Tapferkeit während der italienischen und deutschen Luftangriffe im Zweiten Weltkrieg verliehen wurde. Die rechte Hälfte der Flagge ist – den heraldischen Regeln der Tingierung folgend – durch senkrechte Schraffur mit der Tinktur Rot dargestellt. Unten steht als Ausgabestaat „Malta“, rechts „2017“.</string>
+    <string name="twoeuro_comm_2017_mt_2_volume">380.000</string>
+    <string name="twoeuro_comm_2017_mt_2_date">13. November 2017</string>
+    <string name="twoeuro_comm_2017_mt_2_abr">SP</string>
+    <string name="twoeuro_comm_2017_mt_2_short_title">Solidarität und Frieden</string>
+    <string name="twoeuro_comm_2017_po_title">150 Years of Public Security</string>
+    <string name="twoeuro_comm_2017_po_desc">The design shows human figures and buildings, symbolic representations of citizens and cities, where the public security is mainly assured and the simplified police symbol. The legends include the year ‘1867’ and the year of issue ‘2017’, the country of issue ‘PORTUGAL’, the subject of commemoration (‘SEGURANÇA PÚBLICA’ – Public Security), the three main issues related to citizenship (‘DIREITOS’, ‘LIBERDADES’ e ‘GARANTIAS’ – Rights, Freedoms and Warranties), and the author’s name JOSÉ DE GUIMARÃES. The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_po_volume">520.000</string>
+    <string name="twoeuro_comm_2017_po_date">July 2017</string>
+    <string name="twoeuro_comm_2017_po_abr">PS</string>
+    <string name="twoeuro_comm_2017_po_short_title">Public Security</string>
+    <string name="twoeuro_comm_2017_po_2_title">150. Geburtstag von Raul Brandão</string>
+    <string name="twoeuro_comm_2017_po_2_desc">Die Münze würdigt den 150. Geburtstag des Schriftstellers Raul Brandão(1867–1930), dessen Werk vor allem das einfache und karge Leben von Bauern und Fischern in Portugal darstellt. Links unter „RAÚL BRANDÃO“ stehen die Jahreszahlen „1867“ und „2017“, rechts „PORTUGAL“, oben der Name des Münzgestalters „LUÍS FILIPE DE ABREU“ und das Münzstättenzeichen „INCM“.</string>
+    <string name="twoeuro_comm_2017_po_2_volume">520.000</string>
+    <string name="twoeuro_comm_2017_po_2_date">21. November 2017</string>
+    <string name="twoeuro_comm_2017_po_2_abr">RB</string>
+    <string name="twoeuro_comm_2017_po_2_short_title">Raul Brandão</string>
     <string name="twoeuro_comm_2017_si_title">10th anniversary of the adoption of the Euro</string>
     <string name="twoeuro_comm_2017_si_desc"></string>
     <string name="twoeuro_comm_2017_si_volume"></string>
@@ -1600,6 +1721,24 @@
     <string name="twoeuro_comm_2017_sm_date">30.03.2017</string>
     <string name="twoeuro_comm_2017_sm_abr">Gi</string>
     <string name="twoeuro_comm_2017_sm_short_title">Giotto</string>
+    <string name="twoeuro_comm_2017_sm_2_title">International Year of Sustainable Tourism for Development</string>
+    <string name="twoeuro_comm_2017_sm_2_desc">The design shows in the center Planet Earth surrounded by waves; to the right a circle with the letter A, symbol of the designer Andrew Lewis. Arched, above the writing “TURISMO SOSTENIBILE”, below “SAN MARINO” and the year “2017”; to the right the initials of the engraver Uliana Pernazza “UP INC.”; to the left the letter “R” of the Italian Mint which took care of the mintage.</string>
+    <string name="twoeuro_comm_2017_sm_2_volume">70.500</string>
+    <string name="twoeuro_comm_2017_sm_2_date">Septermber 2017</string>
+    <string name="twoeuro_comm_2017_sm_2_abr">To</string>
+    <string name="twoeuro_comm_2017_sm_2_short_title">Tourism</string>
+    <string name="twoeuro_comm_2017_va_title">1950th anniversary of the martyrdom of Saint Peter and Saint Paul</string>
+    <string name="twoeuro_comm_2017_va_desc">The design features Saint Peter and Saint Paul and their symbols, respectively the keys and the sword. At the top is the inscription ‘CITTÀ DEL VATICANO’, in semi-circle. At the bottom, in semi-circle is the inscription ‘1950o DEL MARTIRIO DEI SANTI PIETRO E PAOLO’. At the bottom left is the year of issuance ‘2017’ and at the bottom right is the mint mark ‘R’. Between them is the name of the artist ‘G. TITOTTO’. The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_va_volume">105.000</string>
+    <string name="twoeuro_comm_2017_va_date">June 2017</string>
+    <string name="twoeuro_comm_2017_va_abr">PP</string>
+    <string name="twoeuro_comm_2017_va_short_title">Peter Paul</string>
+    <string name="twoeuro_comm_2017_va_2_title">Centenary of the Fatima apparitions</string>
+    <string name="twoeuro_comm_2017_va_2_desc">The design features the three young shepherds to whom Mary appeared, on the background the Sanctuary of Fatima. At the top is the inscription ‘CITTÀ DEL VATICANO’ in semi-circle and right under is the year ‘1917’. Underneath the year, from left to right, is the inscription ‘FATIMA 2017’. At the left side is the mintmark ‘R’ and at the bottom the name of the designer ‘O.ROSSI’. The coin’s outer ring bears the 12 stars of the European Union.</string>
+    <string name="twoeuro_comm_2017_va_2_volume">105.000</string>
+    <string name="twoeuro_comm_2017_va_2_date">October 2017</string>
+    <string name="twoeuro_comm_2017_va_2_abr">FA</string>
+    <string name="twoeuro_comm_2017_va_2_short_title">Fatima Apparitions</string>
 
 
     <string name="twoeuro_comm_2007_eu_rv_title">50. Jahrestag der Unterzeichnung des Vertrags von Rom</string>

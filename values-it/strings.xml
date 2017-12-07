@@ -14,8 +14,6 @@
     <string name="default_collection_name">Collezione1</string>
     <string name="how_to_unlock">Premere l\'icona del lucchetto nella barra dei menu</string>
     <string name="use_long_touch_to_force_details">Coin non esiste. Premere a lungo per aprire la finestra di dialogo Proprietà.</string>
-    <string name="mode_locked">Modalità di modifica disattivata</string>
-    <string name="mode_unlocked">Modalità di modifica abilitata</string>
     <string name="mode_unlock_not_in_multiuser_or_eu">Non modifica in multiutente e l\'UE vista</string>
     <string name="yes">Sì</string>
     <string name="no">No</string>

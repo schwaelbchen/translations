@@ -13,8 +13,6 @@
 	<string name="default_collection_name">Kolekcija1</string>
 	<string name="how_to_unlock">Palieskite spynelės simbolį meniu juostoje</string>
 	<string name="use_long_touch_to_force_details">Moneta neįvesta. Palaikykite nuspaudę iškviesti monetos detalių langą.</string>
-	<string name="mode_locked">Redagavimas išjungtas</string>
-	<string name="mode_unlocked">Redagavimas įjungtas</string>
 	<string name="mode_unlock_not_in_multiuser_or_eu">Kelių vartotojų ir ES rodmenyse negalima redaguoti informacijos</string>
 	<string name="yes">Taip</string>
 	<string name="no">Ne</string>

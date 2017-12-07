@@ -13,8 +13,6 @@
     <string name="default_collection_name">Coleção1</string>
     <string name="how_to_unlock">Toque no cadeado na barra de menu</string>
     <string name="use_long_touch_to_force_details">Moeda inexistente. Mantenha pressionado para abrir diálogo de detalhes.</string>
-    <string name="mode_locked">Modo de edição bloqueado</string>
-    <string name="mode_unlocked">Modo de edição desbloqueado</string>
     <string name="mode_unlock_not_in_multiuser_or_eu">Não é possível editar na vistas Multi utilizador e UE</string>
     <string name="yes">Sim</string>
     <string name="no">Não</string>

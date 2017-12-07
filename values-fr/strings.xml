@@ -14,8 +14,6 @@
     <string name="default_collection_name">Collectionneur1</string>
     <string name="how_to_unlock">Appuyez sur l\'icône de cadenas dans la barre de menu</string>
     <string name="use_long_touch_to_force_details">La pièce n\'existe pas. Appuyez longuement pour ouvrir la boîte de dialogue Propriétés.</string>
-    <string name="mode_locked">Mode d\'édition désactivé</string>
-    <string name="mode_unlocked">Mode d\'édition activé</string>
     <string name="mode_unlock_not_in_multiuser_or_eu">Mode d’édition dans la vue ni multiutilisateur ni UE</string>
     <string name="yes">Oui</string>
     <string name="no">No</string>
