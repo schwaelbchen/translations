@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Euro Coins Album</string>
+    <string name="action_close">salida</string>
+    <string name="action_collection">recoger</string>
+    <string name="action_country">país</string>
+    <string name="action_create_backup">crear copia de seguridad</string>
+    <string name="action_createpdf">crea PDF</string>
+    <string name="action_delete_old_backups">Eliminar copias de seguridad antiguas</string>
+    <string name="action_export">Exportar</string>
+    <string name="action_force_sync_collections">Sincronizar fuerza</string>
+    <string name="action_import">Importar</string>
+    <string name="action_manage_shared_collection">Gestionar</string>
+    <string name="action_mode">Alternar el modo de edición</string>
+    <string name="action_open_url_comment">Enviar mensaje</string>
+    <string name="action_restore_backup">Restaurar copia de seguridad</string>
+    <string name="action_retract_share">Retraer</string>
+    <string name="action_save">Salvar</string>
+    <string name="action_settings">Configuraciones</string>
+</resources>
