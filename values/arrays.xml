@@ -17,6 +17,7 @@
         <item name="DE">Deutsch</item>
         <item name="EN">English</item>
         <item name="FR">Français</item>
+        <item name="ES">Espanol</item>
         <item name="IT">Italiano</item>
         <item name="PT">Português</item>
         <item name="LT">Lietuvių</item>
@@ -27,6 +28,7 @@
         <item name="DE">de</item>
         <item name="EN">en</item>
         <item name="FR">fr</item>
+        <item name="ES">es</item>
         <item name="IT">it</item>
         <item name="PT">pt</item>
         <item name="LT">lt</item>

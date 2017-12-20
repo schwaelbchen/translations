@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Euro Coins Album</string>
+    <string name="language_code">es</string>
     <string name="action_close">salida</string>
     <string name="action_collection">recoger</string>
     <string name="action_country">país</string>

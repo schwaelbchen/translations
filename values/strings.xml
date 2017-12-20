@@ -213,7 +213,12 @@
         New feature: edit collection on multiple devices (menu-collection-manage online)\n
         New setting: collect german mints\n
         New setting: collect greece 2002 foreign mints\n
-        Improved statistics in EU view for multiuser collections
+        Improved statistics in EU view for multiuser collections\n
+        Show last used colors in settings for column headers\n
+        5.4.1 Fixed 2€ commemorative coin Letgale\n
+        5.4.2 Reduced memory usage\n
+        5.4.3 Fixed "small" bug ;-)\n
+        5.4.4 Added San Marino 2017 coin images
     </string>
 
     <string name="version_history_5_3">
