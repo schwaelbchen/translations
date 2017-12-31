@@ -2,9 +2,9 @@
 <resources>
 
     <string-array name="pref_size_array">
-        <item name="SMALL">Klein</item>
-        <item name="MEDIUM">Mittel</item>
-        <item name="LARGE">Groß</item>
+        <item name="SMALL">Pequeña</item>
+        <item name="MEDIUM">Medio</item>
+        <item name="LARGE">Grande</item>
     </string-array>
 
 </resources>

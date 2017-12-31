@@ -1,21 +1,409 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Euro Coins Album</string>
-    <string name="language_code">es</string>
-    <string name="action_close">salida</string>
-    <string name="action_collection">recoger</string>
-    <string name="action_country">país</string>
-    <string name="action_create_backup">crear copia de seguridad</string>
-    <string name="action_createpdf">crea PDF</string>
-    <string name="action_delete_old_backups">Eliminar copias de seguridad antiguas</string>
-    <string name="action_export">Exportar</string>
-    <string name="action_force_sync_collections">Sincronizar fuerza</string>
-    <string name="action_import">Importar</string>
-    <string name="action_manage_shared_collection">Gestionar</string>
-    <string name="action_mode">Alternar el modo de edición</string>
-    <string name="action_open_url_comment">Enviar mensaje</string>
-    <string name="action_restore_backup">Restaurar copia de seguridad</string>
-    <string name="action_retract_share">Retraer</string>
-    <string name="action_save">Salvar</string>
-    <string name="action_settings">Configuraciones</string>
+
+    <string name="language_code">"es"</string>
+    <string name="app_name">"Álbum de Euro Coins"</string>
+    <string name="title_activity_album">"AlbumActivity"</string>
+    <string name="action_settings">"Ajustes"</string>
+    <string name="action_country">"País"</string>
+    <string name="action_user">"Usuario"</string>
+    <string name="action_collection">"Colección"</string>
+    <string name="action_mode">"Alternar el modo de edición"</string>
+    <string name="new_collection">"Nueva colección"</string>
+    <string name="enter_new_name">"Ingresa un nuevo nombre"</string>
+    <string name="delete_collection">"Borra"</string>
+    <string name="change_name">"Cambiar nombre"</string>
+    <string name="default_collection_name">"Colección"</string>
+    <string name="how_to_unlock">"Toca el símbolo de bloqueo en la barra de menú"</string>
+    <string name="use_long_touch_to_force_details">"La moneda no existe. Use el toque prolongado para forzar la apertura del cuadro de diálogo de detalles de la moneda."</string>
+    <string name="mode_unlock_not_in_multiuser_or_eu">"Sin edición en Multiuser y EU view"</string>
+    <string name="yes">"Sí"</string>
+    <string name="no">"No"</string>
+    <string name="multi_collection_view">"Vista múltiple"</string>
+    <string name="source_ecb">"Fuente: BANCO CENTRAL EUROPEO"</string>
+    <string name="ecb_info">"La información y las imágenes de todas las monedas en euros se pueden obtener de forma gratuita a través del sitio web del BCE."</string>
+    <string name="action_import">"Importar"</string>
+    <string name="action_export">"Exportar"</string>
+    <string name="action_createpdf">"Crea PDF"</string>
+    <string name="pdfApiLevelTooLow">"Lo sentimos, la creación de PDF necesita mín. Android 4.4"</string>
+    <string name="export_failed">"Error de exportación"</string>
+    <string name="import_failed">"Error de importación"</string>
+    <string name="export_ok">"Exportar OK"</string>
+    <string name="import_ok">"Importar OK"</string>
+    <string name="help">"Ayuda"</string>
+    <string name="help_message">"Si desea enviarme algún problema, error, pregunta o solicitud de funciones, utilice \"enviar mensaje\" en el menú (http://eurocoins-album.jimdo.com). Esos comentarios no deberían publicarse en Play Store."</string>
+    <string name="help_statistics">"El formato de estadísticas es x / y / zx = número de monedas diferentes posibles que ha seleccionado; y = número de posibles monedas diferentes que se pueden recolectar; z = número total de monedas que ha recolectado (en caso de que tenga una moneda más de una vez, vea los detalles de la moneda). El número decimal muestra la cantidad de dinero que ha cobrado y, además, los importes pagados y el valor en caso de que los haya ingresado en los detalles de la moneda."</string>
+    <string name="help_coin_marker">"Una 'X' en una moneda significa que esta moneda no fue acuñada en absoluto (si tiene otra información, por favor envíeme un correo electrónico). Un '*' en la moneda es el marcador de conjunto de monedas oficial en caso de que haya activado esta configuración."</string>
+    <string name="help_eu_view">"La vista de la UE muestra si el usuario actual tiene esta moneda en todos los años / países (y casas de moneda) o si falta al menos un año / país (acuñación). Esto depende del eu-view-mode (ver a continuación). En modo año, toque una moneda para ver para qué países el usuario tiene esta moneda ya recolectada. ¡Toca una moneda conmemorativa de 2 € para ver las 2 monedas de este año / país!"</string>
+    <string name="help_eu_mode_switch">"En la vista EU puede usar el botón en la esquina superior izquierda para alternar entre el modo anual y el modo país"</string>
+    <string name="help_multi_user">"La vista multiusuario muestra si todos los usuarios tienen esta moneda o si al menos un usuario no la tiene. Toca una moneda para ver cuál de los usuarios tiene esta moneda ya recolectada."</string>
+    <string name="help_touch_hold_coins">"En el modo de edición, toque y mantenga presionada una moneda para establecer la cantidad de monedas que tiene y otras propiedades."</string>
+    <string name="help_touch_hold_two_euro_coins">"En el modo bloqueado, toque y mantenga presionadas las monedas especiales de 2 euros para obtener información adicional."</string>
+    <string name="help_touch_common_coins">"Toque una de las 8 monedas comunes en el lado izquierdo para ver el reverso de esta moneda para todos los países."</string>
+    <string name="help_imexport">"Los archivos para exportar se llamarán 'euro_coin_list_ &lt;username&gt; .txt'. Los usuarios importados se agregarán y no se sobrescribirán."</string>
+    <string name="help_backup">"Cada semana, la aplicación crea automáticamente una copia de seguridad de todas las colecciones. Con la ayuda del menú 'Restaurar copia de seguridad', se puede agregar fácilmente una copia de seguridad anterior a las colecciones actualmente cargadas."</string>
+    <string name="help_coinset_expand">"Para aumentar la usabilidad, los conjuntos de monedas alemanas se agrupan por año si habilitaste la opción 'Recoger años y monedas'. El botón más / menos sobre las monedas comunes (lado izquierdo) se puede usar de dos maneras: toque breve para expandir / colapsar todos los grupos una vez y toque largo para hacer lo opuesto."</string>
+    <string name="help_menu">"Utilice el menú de configuración para cambiar: tamaño de imagen de moneda, tamaño de texto (título y texto de moneda), recolectando solo monedas conmemorativas de 2 €, recolectando todos los años y mentas (o solo uno por país), y mucho más. ¡Funcionalidad especial es la 'configuración individual de uso' con la que cada usuario / colección puede tener su propia configuración o si todos los usuarios comparten la misma configuración!"</string>
+    <string name="help_title_setting">"Al hacer clic en el encabezado de la columna, se puede cambiar el color de fondo correspondiente."</string>
+    <string name="show_licenses">"Licencias"</string>
+    <string name="pref_use_individual_settings">"Usa configuraciones individuales"</string>
+    <string name="pref_image_size">"Tamaño de imagen"</string>
+    <string name="pref_text_size_1">"Tamaño del texto 1 (títulos)"</string>
+    <string name="pref_text_size_2">"Tamaño del texto 2 (monedas)"</string>
+    <string name="pref_collect_years">"Recoge años"</string>
+    <string name="pref_show_statistics">"Mostrar estadísticas"</string>
+    <string name="pref_language">"Idioma / Language"</string>
+    <string name="added_date">"Fe"</string>
+    <string name="change_added_date">"cambio"</string>
+    <string name="paid">"Pagado"</string>
+    <string name="value">"Valor"</string>
+    <string name="note">"Nota"</string>
+    <string name="pref_show_only_missing_coins">"Mostrar solo monedas faltantes"</string>
+    <string name="pref_show_official_coin_set_marker">"Mostrar el marcador 'solo juego de mentas' (*)"</string>
+    <string name="condition">"Tiempo"</string>
+    <string name="condition_helper">"(A-Z o 1-9)"</string>
+    <string name="action_open_url_comment">"Enviar mensaje"</string>
+    <string name="action_close">"Salir"</string>
+    <string name="coin_collected_marker">"x"</string>
+    <string name="index_cc">"Índice"</string>
+    <string name="enter_coin_name">"Ingrese el año y el nombre de la moneda corta"</string>
+    <string name="custom_coin_name">"Nombre"</string>
+    <string name="year">"Año"</string>
+    <string name="count">"Cuenta"</string>
+    <string name="mint">"Menta"</string>
+    <string name="remove_coin">"Eliminar moneda"</string>
+    <string name="label">"Label"</string>
+    <string name="prev_coin">"Ant."</string>
+    <string name="next_coin">"Siguiente"</string>
+    <string name="new_coin">"New"</string>
+    <string name="attention">"     Atención"</string>
+    <string name="force_unlock_user">"Este usuario tuvo un error de carga. Desbloqueo forzado?"</string>
+    <string name="backup_created">"Respaldo creado"</string>
+    <string name="action_restore_backup">"Restaurar copia de seguridad"</string>
+    <string name="action_delete_old_backups">"Eliminar copias de seguridad antiguas"</string>
+    <string name="delete_old_backups">"¿Eliminar todas las copias de seguridad, excepto las de la semana actual?"</string>
+    <string name="no_external_storage_permission">"En el menú de aplicaciones de Android, activa 'Permisos' para 'Almacenamiento'"</string>
+    <string name="commemorative_coins_full">"Monedas conmemorativas llenas"</string>
+    <string name="pref_use_background_color">"Usar color de fondo"</string>
+    <string name="pref_background_color">"Color de fondo"</string>
+    <string name="pref_hide_not_existing_coins">"Ocultar monedas no existentes"</string>
+    <string name="click_the_coin_set_expand_button">"Para abrir el grupo de juegos de monedas, toque el botón más"</string>
+    <!-- v5.0 -->
+    <string name="pref_text_size_3">"Tamaño del texto 3 (lista de selección)"</string>
+    <string name="version_history">"Historial de versiones"</string>
+    <string name="pref_use_cloud_features">"Usar las características de la nube (Internet)"</string>
+    <string name="backup_no_cloud_features_activated">"Las funciones de la nube (Internet) están deshabilitadas. Las copias de seguridad se almacenan solo en el teléfono."</string>
+    <string name="action_create_backup">"Crear una copia de seguridad ⇩"</string>
+    <string name="action_show_notifications">"Notificaciones"</string>
+    <string name="action_show_info">"Información"</string>
+    <string name="action_save">"Salvar"</string>
+    <string name="help_cloud_features">"Cuando las Funciones de la nube están activadas, las copias de seguridad semanales también se cargarán en el almacenamiento web del Álbum de Eurocoins. Puede restaurarlos como las copias de seguridad comunes. \ NLas características de Cloud utilizan una identificación de usuario única que esta aplicación genera para identificar su copia de seguridad. Puede encontrar esta ID de usuario en el menú Información - Mi ID de usuario."</string>
+    <string name="help_email">"Su ID de usuario se enviará a la dirección de correo electrónico que ingresó en la configuración - Correo electrónico."</string>
+    <string name="action_show_uuid">"Mi ID de usuario"</string>
+    <string name="id_created">"ID de usuario creado. Ver menú: Información - Mi ID de usuario"</string>
+    <string name="no_internet_no_backup">"Internet no disponible. La copia de seguridad no se cargará en la nube."</string>
+    <string name="pref_email">"E-Mail"</string>
+    <string name="send_id">"Enviar ID de usuario"</string>
+    <string name="email_sent">"Se envió un correo electrónico a %1$s"</string>
+    <string name="email_sent_confirm">"Se envió un correo electrónico a %1$s . Verifica SPAM. Haga clic en el enlace dentro del correo electrónico para confirmar su dirección de correo electrónico."</string>
+    <string name="enter_email">"Por favor, registre su dirección de correo electrónico."</string>
+    <string name="no_backups_available">"No hay copias de seguridad disponibles"</string>
+    <string name="internet_not_available_for_backup">"Internet no disponible. Solo se procesarán las copias de seguridad locales."</string>
+    <string name="register_email">"Registrar correo electrónico"</string>
+    <string name="data_saved">"Los datos se guardaron"</string>
+    <string name="switch_id">"Transferir ID de usuario"</string>
+    <string name="enter_id_to_be_transferred">"Ingrese la ID de usuario que desea tomar. Esta información se fusionará en su cuenta."</string>
+    <string name="no_internet_no_registration">"Internet no disponible. Active el acceso a Internet y registre su correo a través del usuario del menú."</string>
+    <string name="no_internet">"Internet no disponible"</string>
+    <string name="email_sent_confirm_delete_account">"Se envió un correo electrónico a %1$s . Verifica SPAM. Haga clic en el enlace dentro del correo electrónico para eliminar su cuenta en línea."</string>
+    <string name="help_transfer_id">"Si desea transferir una ID de usuario a otro dispositivo (teléfono, tableta), ingrese esta ID de usuario en el dispositivo de destino a través del menú Información-&gt; Mi ID de usuario.&gt; Transferir ID de usuario. El propietario original recibirá un correo electrónico donde debe confirmar la transferencia. Todas sus copias de seguridad en línea antiguas se moverán a la nueva ID de usuario."</string>
+    <string name="delete_online_account">"Eliminar cuenta en línea"</string>
+    <!-- 5.1 -->
+    <string name="deletedBackups">"Copias de seguridad eliminadas en el dispositivo:\n
+%1$s\n
+Copias de seguridad eliminadas en la nube:\n
+%2$s"</string>
+    <string name="backup_upload_error">"Error al cargar la copia de seguridad"</string>
+    <string name="action_share_with">"Compartir con"</string>
+    <string name="action_add_share_with">"Añadir nuevo"</string>
+    <string name="action_retract_share">"Retraer"</string>
+    <string name="share_with_ok">"Compartido con %1$s"</string>
+    <string name="share_with_error">"Error al compartir con %1$s"</string>
+    <string name="action_unshare_with_ok">"Retracted compartiendo esta colección con %1$s"</string>
+    <string name="enter_email_to_share_to">"Ingrese el correo electrónico con el que desea compartir esta colección"</string>
+    <string name="action_sync_collections">"Sincronizar"</string>
+    <string name="collection_linked">"Colección compartida enlazada %1$s"</string>
+    <string name="start">"Inicio"</string>
+    <string name="cancel">"Borrar"</string>
+    <string name="sync_collection_ok">"Colección %1$s sincronizada"</string>
+    <string name="sync_collection_error">"Error de sincronización para la recopilación %1$s"</string>
+    <string name="sync_collections_error">"Error de sincronización"</string>
+    <string name="linked_collection_read_only">"Las colecciones compartidas enlazadas son de solo lectura"</string>
+    <string name="sync_collections_complete">"Colecciones sincronizadas"</string>
+    <string name="load_file_error">"Cargar archivo de error %1$s"</string>
+    <string name="no_cloud_features_activated">"Las funciones de la nube (Internet) están deshabilitadas."</string>
+    <string name="not_saved_load_error">"El usuario %1$s no se guardó debido a un error de carga anterior. Desbloquee el modo de edición para forzar guardar."</string>
+    <string name="collection_infos_general">"Nombre: %1$s \ nID de recolección: %2$s \ nCompartido: %3$s \ nPropietario: %4$s \ nSincronizado: %5$s"</string>
+    <string name="collection_deleted">"Colección %1$s eliminada"</string>
+    <string name="collection_sharing_retracted">"La colección compartida %1$s fue retractada por el propietario"</string>
+    <string name="collection_sharing_retracted_ok">"La colección compartida fue retractada por %1$s"</string>
+    <string name="collection_retract_sharing">"Seleccionar elementos para retraer el uso compartido"</string>
+    <string name="title_collection_shared_with_me">"Colección compartida"</string>
+    <string name="ask_link_collection">"%1$s ha compartido su colección \" %2$s \" contigo. ¿Quieres vincularlo?"</string>
+    <string name="wrong_app_version_update">"¡Actualiza la aplicación a la versión más nueva!"</string>
+    <string name="session_expired_try_again">"Sesión expirada. Inténtalo de nuevo."</string>
+    <string name="forum">"Foro"</string>
+    <string name="logged_in">"Conectado"</string>
+    <string name="pref_other_special_coins">"Otras monedas especiales"</string>
+    <string name="coin_parse_error">"Error de carga (ver notificaciones para más detalles)"</string>
+    <string name="switch_id_error">"Error al transferir ID de usuario."</string>
+    <string name="register_mail_error">"Error al registrar la dirección de correo"</string>
+    <string name="login_error">"Error al iniciar sesión"</string>
+    <string name="search_coin">"Moneda de búsqueda"</string>
+    <string name="enter_coin_search_text">"Ingrese el texto para buscar"</string>
+    <string name="no_matching_coins_found">"No se encontraron monedas iguales"</string>
+    <string name="pref_collect_series">"Coleccionar series"</string>
+    <string name="pref_commemorative_coins">"Monedas conmemorativas"</string>
+    <!-- changed in 5.1 -->
+    <string name="pref_collect_two_euro_only">"No recolectes monedas estándar"</string>
+
+    <!-- version 5.3 -->
+    <string name="enter_coin_value">"Introduzca el valor de la moneda"</string>
+    <string name="select_image">"Selecciona foto"</string>
+    <string name="no_camera_permission">"En el menú de aplicaciones de Android, activa 'Permisos' para 'Cámara'"</string>
+    <string name="pref_coin_photo_size">"Tamaño de imagen de la cámara"</string>
+    <string name="permission_error">"Error de Permisos!"</string>
+    <string name="image_load_error">"Error al cargar la imagen"</string>
+    <string name="not_registered_user_email">"' %1$s ' no es un correo electrónico registrado de un usuario."</string>
+    <string name="action_force_sync_collections">"Sincronizar fuerza"</string>
+    <string name="is_2_euro_cc">"Es una moneda conmemorativa de 2 €"</string>
+    <string name="confirm_rename_collection_title">"Colección renombrada"</string>
+    <string name="confirm_rename_collection">"¿Desea cambiar el nombre de la colección ' %1$s ' a ' %2$s '?"</string>
+    <string name="show_newest_added_coins">"Monedas más nuevas"</string>
+    <string name="i_dont_have_this_coin">"No tengo esta moneda"</string>
+    <string name="create_as_multiview">"Crear vista múltiple"</string>
+    <string name="select_collections">"Seleccionar colecciones"</string>
+    <string name="country_statistic">"Estadística del país"</string>
+    <string name="country_statistic_message">"%1$s de %2$s posibles monedas diferentes recogidas\n
+%3$s monedas recogidas en general\n
+%4$s € es el valor nominal\n
+%5$s € es lo que pagó\n
+%6$s € es el valor"</string>
+    <string name="compare_against_other_collection">"Comparar"</string>
+    <string name="no_differences_in_collections_found">"No se encontraron diferencias"</string>
+    <string name="error_saving_collection">"Error al guardar la colección %1$s"</string>
+    <string name="invalid_value">"valor no válido"</string>
+    <string name="invalid_year">"Año inválido"</string>
+    <!-- version 5.4 -->
+    <string name="collection_modus_to_offline">"Administrar en el dispositivo"</string>
+    <string name="collection_modus_to_online">"Administrar en línea"</string>
+    <string name="no_internet_no_modus_on_offline">"La conexión a Internet debe estar disponible para cambiar este modo"</string>
+    <string name="set_collection_modus_error">"Error al cambiar el modo de recopilación. Por favor, inténtelo de nuevo más tarde."</string>
+    <string name="editing_only_in_collection_mode_online">"Configure esta colección para que se administre en línea en su dispositivo maestro para permitir la edición en todos sus dispositivos"</string>
+    <string name="no_internet_no_editing">"Internet no está disponible, pero es obligatorio para las colecciones administradas en línea."</string>
+    <string name="collection_editing_locked">"Colección bloqueada por otro dispositivo"</string>
+    <string name="collection_not_locked">"La colección no estaba bloqueada o el bloqueo fue levantado por otro dispositivo"</string>
+    <string name="collection_editing_locked_force_unlock">"¿Quieres forzar el bloqueo de tu dispositivo? Los cambios no sincronizados se perderán."</string>
+    <string name="request_edit_token_error">"Error al solicitar el modo de edición en línea"</string>
+    <string name="release_edit_token_error">"Error al liberar el bloqueo de edición en línea"</string>
+    <string name="collection_not_online_managed">"La colección no está gestionada en línea"</string>
+    <string name="close">"Cerca"</string>
+    <string name="pref_collect_german_mints">"Recoge mentas alemanas"</string>
+    <string name="pref_collect_greece_2002_foreign_mints">"Recoge mentas extranjeras de Grecia 2002"</string>
+    <string name="collect_no_years_but_german_mints_is_invalid">"No recolectar años, pero las mentas alemanas son una combinación no compatible"</string>
+    <!-- version 6.0 -->
+    <string name="action_trading_partners">"soc"</string>
+
+    <string name="version_history_5_4">"
+        Versión 5.4\n
+Imágenes añadidas del Vaticano 2017\n
+Se agregaron todas las monedas conmemorativas de 2 € 2017\n
+Nueva función: editar colección en múltiples dispositivos (menú-colección-administrar en línea)\n
+Configuración nueva: coleccionar casas de moneda en alemán\n
+Nueva configuración: recoger Grecia 2002 mentas extranjeras\n
+Mejora de las estadísticas en la UE para colecciones multiusuario\n
+Mostrar los últimos colores utilizados en la configuración de los encabezados de las columnas\n
+5.4.1 Moneda conmemorativa fija de 2 € Letgale\n
+5.4.2 Uso reducido de memoria\n
+5.4.3 Fixed error de visualización \"pequeño\"; -)\n
+5.4.4 Imágenes de monedas de San Marino 2017 añadidas\n
+5.4.5 Error reparado en los últimos colores utilizados\n
+5.4.6 Errores de Fixud brillo incorrecto de las imágenes de monedas\n
+5.4.7 Se agregaron traducciones para español y ruso y se eliminaron las monedas no existentes de Lituania
+    "</string>
+
+    <string name="version_history_5_3">"
+        Versión 5.3\n
+Nueva función: tomar fotos de monedas definidas por el usuario\n
+Nueva función: usuario de menú - forzar sincronización\n
+Nueva función: colección de menú - información - monedas más nuevas\n
+Nueva función: agregar información a monedas no recolectadas\n
+Nueva función : crear vistas múltiples personalizadas\n
+Nueva función: comparar dos colecciones\n
+Cambiar los cambios de nombre de las colecciones vinculadas\n
+Ahorro y sincronización mejorados\n
+Textos franceses actualizados\n
+Error reparado en ID del interruptor\n
+Mejora de la estabilidad\n
+Agregado 2 € moneda Malte 2016 \"Amor\"\n
+Añadido 2 € moneda Italia 2017 \"Tito Livio\"
+    "</string>
+
+    <string name="version_history_5_2">"
+        Versión 5.2\n
+Error fijo de Internet
+    "</string>
+
+    <string name="version_history_5_1">"
+        Versión 5.1\n
+Nueva función: compartir colecciones con otros usuarios y dispositivos\n
+Monedas agregadas de 2 € 2017\n
+Moneda adicional de 2 € Grecia 2016\n
+Imágenes de moneda fija para España 2010-2014\n
+Manejo de moneda fija para el Vaticano 2005\n
+Nuevo función: buscar monedas\n
+Nuevo ajuste: recoger series de monedas\n
+Nuevo ajuste: recoger monedas conmemorativas\n
+Nuevo ajuste: recoger Otras monedas especiales
+    "</string>
+
+    <string name="version_history_5_0">"
+        Versión 5.0\n
+Nueva configuración: características de la nube. Las copias de seguridad se guardarán adicionalmente en la nube (Internet). \ Nueva configuración: correo electrónico (su ID de usuario será enviada a esta dirección)\n
+Configuración nueva: tamaño de texto de las listas de selección\n
+Nueva traducción: lituano\n
+Nuevo elementos de menú: información, guardar, salir\n
+Uso de memoria reducido\n
+Registro de notificaciones agregado (información del menú -&gt; notificaciones)
+    "</string>
+
+    <string name="version_history_4_4">"
+        Versión 4.4\n
+EU-View: en modo país, toque una moneda para mostrar los años acumulados\n
+Uso adicional del botón de retroceso del teléfono\n
+Historial de versiones agregado (ayuda del menú)\n
+Uso reducido de la memoria
+    "</string>
+
+    <string name="version_history_4_3">"
+        Versión 4.3\n
+Portugués agregado
+    "</string>
+
+    <string name="version_history_4_2">"
+        Versión 4.2\n
+agregada monedas conmemorativas faltantes 2016\n
+vista mejorada de la UE
+    "</string>
+
+    <string name="version_history_4_1">"
+        Versión 4.1\n
+errores de carga fijos
+    "</string>
+
+    <string name="version_history_4_0">"
+        La versión 4.0\n
+muestra monedas conmemorativas de 2 € en la vista de la UE\n
+movió la moneda de Austria National Bank de 2015 a 2016
+    "</string>
+
+    <string name="version_history_3_6">"
+        Versión 3.6\n
+Error reparado en expandir / colapsar\n
+no mostrar columnas vacías (si solo se están recolectando monedas de 2 euros)
+    "</string>
+
+    <string name="version_history_3_5">"
+        Versión 3.5\n
+Agregado 2 € 2016 Finnland\n
+Nueva función: color para el título de los juegos de monedas (título táctil)\n
+Nueva función: expandir / colapsar conjuntos de menta alemanes\n
+Errores solucionados
+    "</string>
+
+    <string name="version_history_3_4">"
+        Versión 3.4\n
+Agregado 2 € 2014 Malte 200 años policial\n
+Se agregaron traducciones para francés e italiano\n
+Se agregó soporte para tener múltiples instancias de la misma moneda\n
+Se agregó copia de seguridad automática cada semana\n
+Se agregó la posibilidad de tener configuraciones individuales por usuario / colección\n
+Configuración agregada para tamaños de texto\n
+Error reparado en administración personalizada de moneda de 2 €\n
+Error reparado en el guardado de datos
+    "</string>
+
+    <string name="version_history_3_3">"
+        Versión 3.3\n
+tamaño de imagen fija
+    "</string>
+
+    <string name="version_history_3_2">"
+        Versión 3.2\n
+monedas añadidas para 2016\n
+imagen fija para Grecia 2013 Creta
+    "</string>
+
+    <string name="version_history_3_1">"
+        Versión 3.1\n
+agregado 2x 2015 Monedas de 2 euros para Andorra\n
+fijo propiedad de monedas Monaco de 2 euros 2012
+    "</string>
+
+    <string name="version_history_3_0">"
+        Versión 3.0\n
+AHORA PUEDE AGREGAR NUEVAS 2 MONEDAS EURO. ¡No es necesario esperar a la próxima actualización!\n
+Se agregaron todas las monedas de 2 euros que faltan.\n
+Se agregó una nueva moneda Francis del Vaticano
+    "</string>
+
+    <string name="version_history_2_2">"
+        Versión 2.2\n
+¡EU-View agregado!
+    "</string>
+
+    <string name="version_history_2_0">"
+        La versión 2.0\n
+agregó exportaciones y estadísticas en pdf
+    "</string>
+
+    <string name="coin_1cent">"1 Cent"</string>
+    <string name="coin_2cent">"2 Cent"</string>
+    <string name="coin_5cent">"5 Cent"</string>
+    <string name="coin_10cent">"10 Cent"</string>
+    <string name="coin_20cent">"20 Cent"</string>
+    <string name="coin_50cent">"50 Cent"</string>
+    <string name="coin_1euro">"1 Euro"</string>
+    <string name="coin_2euro">"2 Euro"</string>
+    <string name="coin_5euro">"5 Euro"</string>
+    <string name="coin_10euro">"10 Euro"</string>
+
+    <string name="countryname_eu">"EU"</string>
+    <string name="countryname_au">"Austria"</string>
+    <string name="countryname_ad">"Andorra"</string>
+    <string name="countryname_be">"Bélgica"</string>
+    <string name="countryname_cy">"Chipre"</string>
+    <string name="countryname_ee">"Estonia"</string>
+    <string name="countryname_fi">"Finlandia"</string>
+    <string name="countryname_fr">"Francia"</string>
+    <string name="countryname_de">"Alemania"</string>
+    <string name="countryname_gr">"Grecia"</string>
+    <string name="countryname_ir">"Irlanda"</string>
+    <string name="countryname_it">"Italia"</string>
+    <string name="countryname_lt">"Lituania"</string>
+    <string name="countryname_lu">"Luxemburgo"</string>
+    <string name="countryname_lv">"Letonia"</string>
+    <string name="countryname_mt">"Malte"</string>
+    <string name="countryname_mc">"Mónaco"</string>
+    <string name="countryname_ne">"Países Bajos"</string>
+    <string name="countryname_po">"Portugal"</string>
+    <string name="countryname_sk">"Eslovaquia"</string>
+    <string name="countryname_si">"Eslovenia"</string>
+    <string name="countryname_sm">"San Marino"</string>
+    <string name="countryname_es">"España"</string>
+    <string name="countryname_va">"Vaticano"</string>
+
+    <string name="action_manage_shared_collection">"Gestionar"</string>
+    <string name="collection_is_not_shared">"Esta colección no ha sido compartida"</string>
+    <string name="register">"Registro"</string>
+
 </resources>

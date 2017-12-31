@@ -245,4 +245,5 @@
     <string name="countryname_sm">San Marino</string>
     <string name="countryname_es">Spanje</string>
     <string name="countryname_va">Vaticaanstad</string>
+    <string name="language_code">nl</string>
 </resources>

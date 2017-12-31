@@ -1,0 +1,409 @@
+<resources>
+
+    <string name="language_code">"ru"</string>
+    <string name="app_name">"Альбом Евро Монеты"</string>
+    <string name="title_activity_album">"AlbumActivity"</string>
+    <string name="action_settings">"настройки"</string>
+    <string name="action_country">"Страна"</string>
+    <string name="action_user">"Пользователь"</string>
+    <string name="action_collection">"Коллекция"</string>
+    <string name="action_mode">"Переключить режим редактирования"</string>
+    <string name="new_collection">"Новая коллекция"</string>
+    <string name="enter_new_name">"Введите новое имя"</string>
+    <string name="delete_collection">"Удалить"</string>
+    <string name="change_name">"Сменить имя"</string>
+    <string name="default_collection_name">"Забрать... А!"</string>
+    <string name="how_to_unlock">"Коснитесь символа блокировки в строке меню"</string>
+    <string name="use_long_touch_to_force_details">"Монеты не существует. Используйте длинное касание, чтобы открыть диалоговое окно сведений о монете."</string>
+    <string name="mode_unlock_not_in_multiuser_or_eu">"Нет редактирования в многопользовательском режиме и в режиме EU"</string>
+    <string name="yes">"да"</string>
+    <string name="no">"нет"</string>
+    <string name="multi_collection_view">"Мульти просмотр"</string>
+    <string name="source_ecb">"Источник: ЕВРОПЕЙСКИЙ ЦЕНТРАЛЬНЫЙ БАНК"</string>
+    <string name="ecb_info">"Информация и изображения всех монет евро могут быть получены бесплатно через веб-сайт ЕЦБ"</string>
+    <string name="action_import">"Импорт"</string>
+    <string name="action_export">"Экспорт"</string>
+    <string name="action_createpdf">"Создать pdf"</string>
+    <string name="pdfApiLevelTooLow">"Извините, для создания pdf требуется мин. Android 4.4"</string>
+    <string name="export_failed">"Не удалось выполнить экспорт."</string>
+    <string name="import_failed">"Ошибка импорта"</string>
+    <string name="export_ok">"Экспорт OK"</string>
+    <string name="import_ok">"Импорт OK"</string>
+    <string name="help">"Помощ"</string>
+    <string name="help_message">"Если вы хотите отправить мне какие-либо проблемы, ошибки, вопросы или запросы функций, пожалуйста, используйте «отправить сообщение» в меню (http://eurocoins-album.jimdo.com). Эти комментарии не должны размещаться в магазине воспроизведения."</string>
+    <string name="help_statistics">"Формат статистики - x / y / zx = количество возможных выбранных монет; y = количество возможных различных монет, которые могут быть собраны; z = количество всех собранных монет (в случае, если у вас есть монета более одного раза, см. подробности монеты). Десятичное число показывает сумму денег, которую вы собрали, а также суммы для уплаты и стоимости, если вы ввели данные о монетах."</string>
+    <string name="help_coin_marker">"«Х» на монете означает, что эта монета вообще не чеканилась (если у вас есть другая информация, напишите мне). A '*' на монете является официальным маркером монет, если вы активировали эту настройку."</string>
+    <string name="help_eu_view">"Представление ЕС показывает, имеет ли текущий пользователь эту монету в течение всех лет / стран (и монетных дворов), или если отсутствует хотя бы один год / страна (мята). Это зависит от режима eu-view (см. Ниже). В годовом режиме коснитесь монеты, чтобы узнать, в каких странах пользователь уже собрал эту монету. Прикоснитесь к памятной монете в размере 2 €, чтобы увидеть все 2 евро в этом году / стране!"</string>
+    <string name="help_eu_mode_switch">"В режиме EU вы можете использовать кнопку в верхнем левом углу для переключения между режимом «год» и «страна»"</string>
+    <string name="help_multi_user">"Многопользовательский просмотр показывает, есть ли у всех пользователей эта монета или если хотя бы один пользователь ее не имеет. Коснитесь монеты, чтобы узнать, какая из пользователей уже собрала эту монету."</string>
+    <string name="help_touch_hold_coins">"В режиме редактирования коснитесь и удерживайте монету, чтобы установить количество имеющихся у вас монет и другие свойства."</string>
+    <string name="help_touch_hold_two_euro_coins">"В заблокированном режиме коснитесь и удерживайте специальные 2 евро монеты, чтобы получить дополнительную информацию."</string>
+    <string name="help_touch_common_coins">"Коснитесь одной из 8 обычных монет на левой стороне, чтобы увидеть заднюю сторону этой монеты для всех стран."</string>
+    <string name="help_imexport">"Файлы для экспорта будут называться «euro_coin_list_ &lt;имя_пользователя&gt; .txt». Импортированные пользователи будут добавлены и не будут перезаписаны."</string>
+    <string name="help_backup">"Каждую неделю приложение автоматически создает резервную копию всех коллекций. С помощью меню «Восстановить резервную копию» можно легко добавить старую резервную копию в текущие загруженные коллекции"</string>
+    <string name="help_coinset_expand">"Чтобы повысить удобство использования, немецкие монетки сгруппированы по годам, если вы включили настройку «Собирать годы и монетные дворы». Кнопка «плюс / минус» над обычными монетами (левая сторона) может использоваться двумя способами: короткое касание, чтобы развернуть / свернуть все группы в одно и то же время, чтобы сделать обратное."</string>
+    <string name="help_menu">"Используйте меню настроек, чтобы изменить: размер изображения монеты, размер текста (название и текст монеты), собирая только памятные монеты достоинством 2 евро, собирая все годы и монетные дворы (или только одну страну) и многое другое. Специальная функциональность - это «использование индивидуальных настроек», с которыми каждый пользователь / коллекция может иметь собственные настройки или все пользователи имеют одни и те же настройки!"</string>
+    <string name="help_title_setting">"Щелкнув заголовок столбца, можно изменить соответствующий цвет фона."</string>
+    <string name="show_licenses">"Лицензии"</string>
+    <string name="pref_use_individual_settings">"Использовать индивидуальные настройки"</string>
+    <string name="pref_image_size">"Размер изображения"</string>
+    <string name="pref_text_size_1">"Размер текста 1 (названия)"</string>
+    <string name="pref_text_size_2">"Размер текста 2 (монеты)"</string>
+    <string name="pref_collect_years">"Собирать годы"</string>
+    <string name="pref_show_statistics">"Статистика"</string>
+    <string name="pref_language">"язык / Language"</string>
+    <string name="added_date">"Дата"</string>
+    <string name="change_added_date">"изм"</string>
+    <string name="paid">"Оплачено"</string>
+    <string name="value">"Стоимость"</string>
+    <string name="note">"Заметка"</string>
+    <string name="pref_show_only_missing_coins">"Показать только недостающие монеты"</string>
+    <string name="pref_show_official_coin_set_marker">"Показать маркер «только для монетного двора» (*)"</string>
+    <string name="condition">"Условие "</string>
+    <string name="condition_helper">"(A-Z или 1-9)"</string>
+    <string name="action_open_url_comment">"Отправить сообщение"</string>
+    <string name="action_close">"Выход"</string>
+    <string name="coin_collected_marker">"X"</string>
+    <string name="index_cc">"Индекс"</string>
+    <string name="enter_coin_name">"Введите год и название короткой монеты"</string>
+    <string name="custom_coin_name">"Имя"</string>
+    <string name="year">"Год"</string>
+    <string name="count">"Кол-во"</string>
+    <string name="mint">"Мятный"</string>
+    <string name="remove_coin">"Удалить монету"</string>
+    <string name="label">"Метка"</string>
+    <string name="prev_coin">"Назад"</string>
+    <string name="next_coin">"Далее"</string>
+    <string name="new_coin">"новый"</string>
+    <string name="attention">"Внимание"</string>
+    <string name="force_unlock_user">"У этого пользователя была ошибка загрузки. Разблокировать силы?"</string>
+    <string name="backup_created">"Создан резерв"</string>
+    <string name="action_restore_backup">"Восстановить резервную копию"</string>
+    <string name="action_delete_old_backups">"Удаление старых резервных копий"</string>
+    <string name="delete_old_backups">"Удалить все резервные копии, кроме тех, что были на текущей неделе?"</string>
+    <string name="no_external_storage_permission">"В меню приложений Android активируйте «Разрешения» для «Хранения»,"</string>
+    <string name="commemorative_coins_full">"Памятные монеты полны"</string>
+    <string name="pref_use_background_color">"Использовать цвет фона"</string>
+    <string name="pref_background_color">"Фоновый цвет"</string>
+    <string name="pref_hide_not_existing_coins">"Скрыть не существующие монеты"</string>
+    <string name="click_the_coin_set_expand_button">"Чтобы открыть группу монет, нажмите кнопку «плюс»"</string>
+    <!-- v5.0 -->
+    <string name="pref_text_size_3">"Размер текста 3 (список выбора)"</string>
+    <string name="version_history">"История изменений"</string>
+    <string name="pref_use_cloud_features">"Использовать облачные (Интернет) функции"</string>
+    <string name="backup_no_cloud_features_activated">"Функции Cloud (Интернет) отключены. Резервные копии хранятся только на телефоне."</string>
+    <string name="action_create_backup">"Создавать резервную копию"</string>
+    <string name="action_show_notifications">"Уведомления"</string>
+    <string name="action_show_info">"Информация"</string>
+    <string name="action_save">"Сохранить"</string>
+    <string name="help_cloud_features">"Когда активируются облачные функции, еженедельные резервные копии также будут загружены в веб-хранилище альбома Eurocoins. Вы можете восстановить их как общие резервные копии. \nCloud использует уникальный идентификатор пользователя, который создается этим приложением для идентификации вашей резервной копии. Этот идентификатор пользователя можно найти в меню Информация - Мой идентификатор пользователя."</string>
+    <string name="help_email">"Идентификатор пользователя будет отправлен на указанный вами адрес электронной почты - E-Mail."</string>
+    <string name="action_show_uuid">"Мой идентификатор пользователя"</string>
+    <string name="id_created">"Создан идентификатор пользователя. См. Меню: Информация - Мой идентификатор пользователя"</string>
+    <string name="no_internet_no_backup">"Интернет недоступен. Резервное копирование не будет загружено в облако."</string>
+    <string name="pref_email">"E-Mail"</string>
+    <string name="send_id">"Отправить идентификатор пользователя"</string>
+    <string name="email_sent">"Электронное письмо отправлено в %1$s"</string>
+    <string name="email_sent_confirm">"В %1$s отправлено электронное письмо. Проверьте СПАМ. Пожалуйста, нажмите ссылку внутри электронного письма, чтобы подтвердить свой адрес электронной почты."</string>
+    <string name="enter_email">"Пожалуйста, зарегистрируйте свой адрес электронной почты."</string>
+    <string name="no_backups_available">"Нет доступных резервных копий"</string>
+    <string name="internet_not_available_for_backup">"Интернет недоступен. Будут обрабатываться только локальные резервные копии."</string>
+    <string name="register_email">"Зарегистрировать почтовый ящик"</string>
+    <string name="data_saved">"Данные были сохранены"</string>
+    <string name="switch_id">"Перенос идентификатора пользователя"</string>
+    <string name="enter_id_to_be_transferred">"Введите идентификатор пользователя, который вы хотите захватить. Эти данные будут объединены в ваш аккаунт."</string>
+    <string name="no_internet_no_registration">"Интернет недоступен. Активируйте доступ в Интернет и зарегистрируйте свою почту через пользователя меню."</string>
+    <string name="no_internet">"Интернет недоступен"</string>
+    <string name="email_sent_confirm_delete_account">"В %1$s отправлено электронное письмо. Проверьте СПАМ. Чтобы удалить свою учетную запись, нажмите на ссылку внутри электронного письма."</string>
+    <string name="help_transfer_id">"Если вы хотите перенести один идентификатор пользователя на другое устройство (телефон, планшет), введите этот идентификатор пользователя на целевое устройство через меню «Информация» - «Мой идентификатор пользователя».&gt; «Передача идентификатора пользователя». Оригинальный владелец получит электронное письмо, в котором он должен подтвердить перевод. Все ваши старые онлайн-резервные копии будут перенесены на новый идентификатор пользователя."</string>
+    <string name="delete_online_account">"Удалить онлайн-аккаунт"</string>
+    <!-- 5.1 -->
+    <string name="deletedBackups">"Удаленные резервные копии на устройстве:\n
+%1$s \nДанные резервные копии в облаке:\n
+%2$s"</string>
+    <string name="backup_upload_error">"Ошибка при загрузке резервной копии"</string>
+    <string name="action_share_with">"Поделиться через"</string>
+    <string name="action_add_share_with">"Добавить"</string>
+    <string name="action_retract_share">"выведение, утилизация"</string>
+    <string name="share_with_ok">"Совместно с %1$s"</string>
+    <string name="share_with_error">"Ошибка при совместном использовании с %1$s"</string>
+    <string name="action_unshare_with_ok">"Снято с этой коллекции с %1$s"</string>
+    <string name="enter_email_to_share_to">"Введите электронное письмо, которое вы хотите поделиться этой коллекцией, с"</string>
+    <string name="action_sync_collections">"Синхронизировать"</string>
+    <string name="collection_linked">"Связанная общая коллекция %1$s"</string>
+    <string name="start">"Старт"</string>
+    <string name="cancel">"Отмена"</string>
+    <string name="sync_collection_ok">"Сбор %1$s синхронизирован"</string>
+    <string name="sync_collection_error">"Ошибка синхронизации для сбора %1$s"</string>
+    <string name="sync_collections_error">"Ошибка синхронизации"</string>
+    <string name="linked_collection_read_only">"Связанные общие коллекции доступны только для чтения"</string>
+    <string name="sync_collections_complete">"Коллекции синхронизированы"</string>
+    <string name="load_file_error">"Ошибка загрузки файла %1$s"</string>
+    <string name="no_cloud_features_activated">"Функции Cloud (Интернет) отключены."</string>
+    <string name="not_saved_load_error">"Пользователь %1$s не сохраняется из-за предыдущей ошибки загрузки. Разблокируйте режим редактирования, чтобы принудительно сохранить."</string>
+    <string name="collection_infos_general">"Имя: %1$s \nКоллективный идентификатор: %2$s \nОбработа: %3$s \nНайдер: %4$s \nSynchronized: %5$s"</string>
+    <string name="collection_deleted">"Сбор %1$s удален"</string>
+    <string name="collection_sharing_retracted">"Общая коллекция %1$s была убрана владельцем"</string>
+    <string name="collection_sharing_retracted_ok">"Общая коллекция была убрана за %1$s"</string>
+    <string name="collection_retract_sharing">"Выберите элементы для возврата"</string>
+    <string name="title_collection_shared_with_me">"Коллекция совместно"</string>
+    <string name="ask_link_collection">"%1$s поделился с вами своей коллекцией « %2$s ». Вы хотите связать его?"</string>
+    <string name="wrong_app_version_update">"Обновите приложение до последней версии!"</string>
+    <string name="session_expired_try_again">"Сессия истекла. Пожалуйста, попробуйте еще раз."</string>
+    <string name="forum">"Форум"</string>
+    <string name="logged_in">"Зашли"</string>
+    <string name="pref_other_special_coins">"Другие специальные монеты"</string>
+    <string name="coin_parse_error">"Ошибка загрузки (подробнее см. Уведомления)"</string>
+    <string name="switch_id_error">"Ошибка при передаче идентификатора пользователя."</string>
+    <string name="register_mail_error">"Ошибка при регистрации почтового адреса"</string>
+    <string name="login_error">"Ошибка при входе в систему"</string>
+    <string name="search_coin">"Поиск монет"</string>
+    <string name="enter_coin_search_text">"Введите текст для поиска"</string>
+    <string name="no_matching_coins_found">"Не найдено совпадающих монет"</string>
+    <string name="pref_collect_series">"Сбор серий"</string>
+    <string name="pref_commemorative_coins">"Памятные монеты"</string>
+    <!-- changed in 5.1 -->
+    <string name="pref_collect_two_euro_only">"Не собирайте стандартные монеты"</string>
+
+    <!-- version 5.3 -->
+    <string name="enter_coin_value">"Введите значение монеты"</string>
+    <string name="select_image">"Выберите изображение"</string>
+    <string name="no_camera_permission">"В меню приложений Android активируйте «Разрешения» для «Камера»,"</string>
+    <string name="pref_coin_photo_size">"Размер изображения камеры"</string>
+    <string name="permission_error">"Ошибка разрешения!"</string>
+    <string name="image_load_error">"Ошибка при загрузке изображения"</string>
+    <string name="not_registered_user_email">"' %1$s ' не является зарегистрированным электронным адресом пользователя."</string>
+    <string name="action_force_sync_collections">"Синхронизация синхронизации"</string>
+    <string name="is_2_euro_cc">"Это памятная монета стоимостью 2 евро"</string>
+    <string name="confirm_rename_collection_title">"Коллекция переименована"</string>
+    <string name="confirm_rename_collection">"Вы хотите переименовать коллекцию « %1$s » в « %2$s »"</string>
+    <string name="show_newest_added_coins">"Новые монеты"</string>
+    <string name="i_dont_have_this_coin">"У меня нет этой монеты"</string>
+    <string name="create_as_multiview">"Создать мульти просмотр"</string>
+    <string name="select_collections">"Выбрать коллекции"</string>
+    <string name="country_statistic">"Статистика страны"</string>
+    <string name="country_statistic_message">"%1$s из %2$s возможны разные монеты, собранные\n
+%3$s монеты, собранные в целом\n
+%4$s € - номинальная стоимость\n
+%5$s € - это то, что вы заплатили\n
+%6$s € - значение"</string>
+    <string name="compare_against_other_collection">"сравнить"</string>
+    <string name="no_differences_in_collections_found">"Не найдено различий"</string>
+    <string name="error_saving_collection">"Ошибка при сохранении коллекции %1$s"</string>
+    <string name="invalid_value">"Неверное значение"</string>
+    <string name="invalid_year">"Недопустимый год"</string>
+    <!-- version 5.4 -->
+    <string name="collection_modus_to_offline">"Управление устройством"</string>
+    <string name="collection_modus_to_online">"Управление онлайн"</string>
+    <string name="no_internet_no_modus_on_offline">"Для переключения этого режима должно быть доступно интернет-соединение"</string>
+    <string name="set_collection_modus_error">"Ошибка при переключении модуляции коллекции. Пожалуйста, повторите попытку позже."</string>
+    <string name="editing_only_in_collection_mode_online">"Установите эту коллекцию для управления онлайн на главном устройстве, чтобы разрешить редактирование на всех ваших устройствах"</string>
+    <string name="no_internet_no_editing">"Интернет недоступен, но является обязательным для онлайн-коллекций."</string>
+    <string name="collection_editing_locked">"Сбор заблокирован другим устройством"</string>
+    <string name="collection_not_locked">"Коллекция не была заблокирована или замок был снят другим устройством"</string>
+    <string name="collection_editing_locked_force_unlock">"Вы хотите принудительно заблокировать его для своего устройства? Не синхронизированные изменения будут потеряны."</string>
+    <string name="request_edit_token_error">"Ошибка при запросе режима онлайн-редактирования"</string>
+    <string name="release_edit_token_error">"Ошибка при освобождении блокировки онлайн-редактирования"</string>
+    <string name="collection_not_online_managed">"Коллекция не управляется через Интернет"</string>
+    <string name="close">"Закрыть"</string>
+    <string name="pref_collect_german_mints">"Сбор германских монетных дворов"</string>
+    <string name="pref_collect_greece_2002_foreign_mints">"Соберите чужие монетные дворы 2002 года"</string>
+    <string name="collect_no_years_but_german_mints_is_invalid">"Не собирать годы, но германские монетные дворы - неподдерживаемая комбинация"</string>
+    <!-- version 6.0 -->
+    <string name="action_trading_partners">"Торговые партнеры"</string>
+
+    <string name="version_history_5_4">"
+        Версия 5.4\n
+Добавлены изображения Ватикана 2017\n
+Добавлены все отсутствующие памятные монеты 2 € 2017\n
+Новая функция: редактировать коллекцию на нескольких устройствах (меню-коллекция-управлять онлайн)\n
+Новая настройка: собирать германские монетные дворы\n
+Новая настройка: собирать greece 2002 foreign mints\n
+Улучшенная статистика в представлении ЕС для многопользовательских коллекций\n
+Показать последние используемые цвета в настройках заголовков столбцов\n
+5.4.1 Фиксированная памятная монета 2 € Letgale\n
+5.4.2 Сокращение использования памяти\n
+5.4.3 Исправлено\n
+5.4.4 Добавлены изображения монет Сан-Марино 2017\n
+5.4.5 Исправлена ​​ошибка в последних используемых цветах\n
+5.4.6 Исправлена ​​ошибка с ошибкой изображения монеты\n
+5.4.7 Добавлены переводы на испанский и русский языки и удалены не существующие монеты из Литвы
+    "</string>
+
+    <string name="version_history_5_3">"
+        Версия 5.3\n
+Новая функция: выполнить фотографии пользовательских монет\n
+Новая функция: меню пользователя - принудительная синхронизация\n
+Новая функция: коллекция меню - информация - новейшие монеты\n
+Новая функция: добавление информации в не собранные монеты\n
+Новая функция : создание пользовательских мульти-представлений\n
+Новая функция: сравнение двух коллекций\n
+Отслеживание изменений имен связанных коллекций\n
+Улучшение сохранения и синхронизации\n
+Обновленные французские тексты\n
+Исправлена ​​ошибка с идентификатором коммутатора\n
+Улучшена стабильность\n
+Добавлена ​​2 € монета Malte 2016 «Любовь»\n
+Добавлено 2 € монета Италия 2017 «Тито Ливио»
+    "</string>
+
+    <string name="version_history_5_2">"
+        Версия 5.2\n
+Исправлена ​​ошибка Интернет
+    "</string>
+
+    <string name="version_history_5_1">"
+        Версия 5.1\n
+Новая функция: обмениваться коллекциями с другими пользователями и устройствами\n
+Добавлены 2 € монеты 2017\n
+Добавлено 2 € монеты Греция 2016\n
+Фиксированные изображения монет для Испании 2010-2014\n
+Фиксированная обработка монет для Vatican 2005\n
+Новая функция: поиск монет\n
+Новая настройка: сбор монет серии\n
+Новая настройка: сбор памятных монет\n
+Новая настройка: собирать Другие специальные монеты
+    "</string>
+
+    <string name="version_history_5_0">"
+        Версия 5.0\n
+Новая настройка: облачные функции.\n
+Новая настройка: электронная почта (ваш идентификатор пользователя будет отправлен на этот адрес)\n
+Новая настройка: размер текста списков выбора\n
+Новый перевод: Литовский\n
+Новый пункты меню: информация, сохранение, выход\n
+Уменьшение использования памяти\n
+Добавлен журнал уведомлений (информация меню -&gt; уведомления)
+    "</string>
+
+    <string name="version_history_4_4">"
+        Версия 4.4\n
+EU-View: в режиме страны коснитесь монеты, чтобы показать собранные годы\n
+Добавлена ​​возможность использования обратной кнопки телефона\n
+Добавлена ​​история версий (справка меню)\n
+Уменьшение использования памяти
+    "</string>
+
+    <string name="version_history_4_3">"
+        Версия 4.3\n
+Добавлен португальский
+    "</string>
+
+    <string name="version_history_4_2">"
+        Версия 4.2\n
+добавлены недостающие памятные монеты 2016\n
+расширенный вид ЕС
+    "</string>
+
+    <string name="version_history_4_1">"
+        Версия 4.1\n
+ошибки с фиксированной нагрузкой
+    "</string>
+
+    <string name="version_history_4_0">"
+        Версия 4.0\n
+показывает памятные монеты достоинством 2 € в EU view\n
+перенесена монета Национального банка Австрии с 2015 по 2016 год
+    "</string>
+
+    <string name="version_history_3_6">"
+        Версии 3.6\n
+исправлена ​​ошибка в раскрытии / свернуть\n
+не отображаются пустые столбцы (если собираются только две монеты евро)
+    "</string>
+
+    <string name="version_history_3_5">"
+        Версия 3.5\n
+Добавлено 2 € 2016 Finnland\n
+Новая функция: цвет для названия наборов монет (название касания)\n
+Новая функция: развернуть / свернуть немецкие наборы монетного двора\n
+Исправлены ошибки
+    "</string>
+
+    <string name="version_history_3_4">"
+        Версия 3.4\n
+Добавлено 2 € 2014 Malte 200 лет полиции\n
+Добавлены переводы для французского и итальянского\n
+Добавлена ​​поддержка наличия нескольких экземпляров одной и той же монеты\n
+Добавлено автоматическое резервное копирование каждую неделю\n
+Добавлена ​​возможность иметь индивидуальные настройки для каждого пользователя / collection\n
+Добавлены настройки для размеров текста\n
+Исправлена ​​ошибка при использовании стандартного управления монетками 2 €\n
+Исправлена ​​ошибка при сохранении данных
+    "</string>
+
+    <string name="version_history_3_3">"
+        Версия 3.3\n
+размер фиксированного изображения
+    "</string>
+
+    <string name="version_history_3_2">"
+        Версия 3.2\n
+добавлены монеты для 2016\n
+фиксированного изображения для Греции 2013 Крит
+    "</string>
+
+    <string name="version_history_3_1">"
+        Версия 3.1\n
+добавлена ​​2x 2015 2 евро монеты для Андорры\n
+фиксированная Монако 2 евро монеты недвижимости 2012
+    "</string>
+
+    <string name="version_history_3_0">"
+        Версия 3.0\n
+ТЕПЕРЬ ВЫ МОЖЕТЕ ДОБАВИТЬ НОВЫЕ 2 ЕВРО МОНЕТЫ. Не нужно ждать следующего обновления!\n
+Добавлены все отсутствующие монеты в размере 2 евро.\n
+Добавлен новый набор монет Ватикана Френсиса
+    "</string>
+
+    <string name="version_history_2_2">"
+        Версия 2.2\n
+EU-View добавлен!
+    "</string>
+
+    <string name="version_history_2_0">"
+        Версия 2.0\n
+добавлен экспорт и статистика pdf
+    "</string>
+
+    <string name="coin_1cent">"1 цент"</string>
+    <string name="coin_2cent">"2 центов"</string>
+    <string name="coin_5cent">"5 центов"</string>
+    <string name="coin_10cent">"10 центов"</string>
+    <string name="coin_20cent">"20 центов"</string>
+    <string name="coin_50cent">"50 центов"</string>
+    <string name="coin_1euro">"1 Евро"</string>
+    <string name="coin_2euro">"2 Евро"</string>
+    <string name="coin_5euro">"5 Евро"</string>
+    <string name="coin_10euro">"10 Евро"</string>
+
+    <string name="countryname_eu">"США"</string>
+    <string name="countryname_au">"Австрия"</string>
+    <string name="countryname_ad">"Андорра"</string>
+    <string name="countryname_be">"Бельгия"</string>
+    <string name="countryname_cy">"Кипр"</string>
+    <string name="countryname_ee">"Эстония"</string>
+    <string name="countryname_fi">"Финляндия"</string>
+    <string name="countryname_fr">"Франция"</string>
+    <string name="countryname_de">"Германия"</string>
+    <string name="countryname_gr">"Греция"</string>
+    <string name="countryname_ir">"Ирландия"</string>
+    <string name="countryname_it">"Италия."</string>
+    <string name="countryname_lt">"Литва"</string>
+    <string name="countryname_lu">"Люксембург"</string>
+    <string name="countryname_lv">"Латвия"</string>
+    <string name="countryname_mt">"Мальта"</string>
+    <string name="countryname_mc">"Монако"</string>
+    <string name="countryname_ne">"Нидерланды"</string>
+    <string name="countryname_po">"Португалия"</string>
+    <string name="countryname_sk">"Словакия"</string>
+    <string name="countryname_si">"Словения"</string>
+    <string name="countryname_sm">"Сан-Марино"</string>
+    <string name="countryname_es">"Испания"</string>
+    <string name="countryname_va">"Ватикан"</string>
+
+    <string name="action_manage_shared_collection">"Управлять"</string>
+    <string name="collection_is_not_shared">"Эта коллекция не была разделена"</string>
+    <string name="register">"регистр"</string>
+
+</resources>

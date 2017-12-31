@@ -17,11 +17,12 @@
         <item name="DE">Deutsch</item>
         <item name="EN">English</item>
         <item name="FR">Français</item>
-        <item name="ES">Espanol</item>
+        <item name="ES">Español</item>
         <item name="IT">Italiano</item>
         <item name="PT">Português</item>
         <item name="LT">Lietuvių</item>
         <item name="NL">Nederlands</item>
+        <item name="NL">русский</item>
     </string-array>
 
     <string-array name="pref_language_array_values">
@@ -33,6 +34,7 @@
         <item name="PT">pt</item>
         <item name="LT">lt</item>
         <item name="NL">nl</item>
+        <item name="NL">ru</item>
     </string-array>
 
 </resources>

@@ -159,4 +159,5 @@
 	<string name="countryname_sm">San Marinas</string>
 	<string name="countryname_es">Ispanija</string>
 	<string name="countryname_va">Vatikanas</string>
+    <string name="language_code">lt</string>
 </resources>

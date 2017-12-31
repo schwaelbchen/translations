@@ -201,6 +201,8 @@
     <string name="pref_collect_german_mints">Deutsche Prägestätten sammeln</string>
     <string name="pref_collect_greece_2002_foreign_mints">Ausländische Prägungen Griechenland 2002 sammeln</string>
     <string name="collect_no_years_but_german_mints_is_invalid">Keine Jahre, aber deutsche Prägestätten sammeln, ist eine ungültige Kombination</string>
+    <!-- version 6.0 -->
+    <string name="action_trading_partners">Tauschpartner</string>
 
     <string name="version_history_5_4">
         Version 5.4\n
@@ -208,13 +210,16 @@
         Alle 2€ 2017 Gedenkmünzen hinzugefügt\n
         Neue Funktion: Editieren von Sammlungen auf mehreren Geräten\n
         Neue Einstellmöglichkeit: Deutsche Prägestätten sammeln\n
-        Neue Einstellmöglichkeit: Grichenland 2002 ausländische Prägungen sammeln\n
+        Neue Einstellmöglichkeit: Griechenland 2002 ausländische Prägungen sammeln\n
         Statistiken in der EU-Ansicht für Mehrbenutzer Sammlungen verbessert\n
         Anzeige der zuletzt verwendeten Farben in den Einstellungen für Spaltenüberschriften\n
         5.4.1 Fehler 2€ Gedenkmünze Lettgallen behoben\n
         5.4.2 Speicherverbrauch reduziert\n
         5.4.3 "Kleinen" Anzeigefehler behoben ;-)\n
-        5.4.4 San Marino 2017 neue Münzbilder hinzugefügt
+        5.4.4 San Marino 2017 neue Münzbilder hinzugefügt\n
+        5.4.5 Fehler bei Farbauswahl zuletzt genutzer Farben behoben\n
+        5.4.6 Fehler bei der Helligkeit der Münzbilder behoben\n
+        5.4.7 Spanisch und Russisch hinzugefügt und nicht existierende Münzen von Littauen entfernt
     </string>
 
     <string name="version_history_5_3">
