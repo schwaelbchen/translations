@@ -201,8 +201,21 @@
     <string name="pref_collect_german_mints">Deutsche Prägestätten sammeln</string>
     <string name="pref_collect_greece_2002_foreign_mints">Ausländische Prägungen Griechenland 2002 sammeln</string>
     <string name="collect_no_years_but_german_mints_is_invalid">Keine Jahre, aber deutsche Prägestätten sammeln, ist eine ungültige Kombination</string>
+    <!-- version 5.6 -->
+    <string name="user_name_already_exists">Name existiert bereits</string>
+
     <!-- version 6.0 -->
     <string name="action_trading_partners">Tauschpartner</string>
+
+    <string name="version_history_5_5">
+        Version 5.5.1\n
+        Fehler behoben, dass geteilte Sammlungen nicht mehr aktualisiert werden.\n
+        \n
+        Version 5.5\n
+        Fehler Littauen 2017 behoben\n
+        Fehler behoben, dass beim Wechseln der Sprache das Münzdatum geändert wird\n
+        Fehler behoben, dass bei selbst erstellten 2€ Münzen die Reihenfolge vertauscht wird
+    </string>
 
     <string name="version_history_5_4">
         Version 5.4\n

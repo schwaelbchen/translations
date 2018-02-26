@@ -205,8 +205,21 @@
     <string name="pref_collect_german_mints">Collect german mints</string>
     <string name="pref_collect_greece_2002_foreign_mints">Collect greece 2002 foreign mints</string>
     <string name="collect_no_years_but_german_mints_is_invalid">Not collecting years but german mints is an unsupported combination</string>
+    <!-- version 5.6 -->
+    <string name="user_name_already_exists">Name already exists</string>
+
     <!-- version 6.0 -->
     <string name="action_trading_partners">Trading partners</string>
+
+    <string name="version_history_5_5">
+        Version 5.5.1\n
+        Fixed synchronizing shared collections\n
+        \n
+        Version 5.5\n
+        Fixed Lithuania coins 2017\n
+        Fixed bug losing coin collected date if changing language\n
+        Fixed bug wrong order for custom 2€ coins
+    </string>
 
     <string name="version_history_5_4">
         Version 5.4\n
@@ -1569,6 +1582,18 @@
     <string name="twoeuro_comm_2016_va_2_abr" translatable="false">JM</string>
     <string name="twoeuro_comm_2016_va_2_short_title">Jubilee of Mercy</string>
 
+    <string name="twoeuro_comm_2017_ad_title">100 years of the anthem of Andorra</string>
+    <string name="twoeuro_comm_2017_ad_desc"></string>
+    <string name="twoeuro_comm_2017_ad_volume">85000</string>
+    <string name="twoeuro_comm_2017_ad_date">08.02.2018</string>
+    <string name="twoeuro_comm_2017_ad_abr" translatable="false">An</string>
+    <string name="twoeuro_comm_2017_ad_short_title">100y Anthem</string>
+    <string name="twoeuro_comm_2017_ad_2_title">Andorra – The Pyrenean country</string>
+    <string name="twoeuro_comm_2017_ad_2_desc"></string>
+    <string name="twoeuro_comm_2017_ad_2_volume">85000</string>
+    <string name="twoeuro_comm_2017_ad_2_date">08.02.2018</string>
+    <string name="twoeuro_comm_2017_ad_2_abr" translatable="false">Py</string>
+    <string name="twoeuro_comm_2017_ad_2_short_title">Pyrenean country</string>
     <string name="twoeuro_comm_2017_be_title">200 Years University of Liège</string>
     <string name="twoeuro_comm_2017_be_desc"></string>
     <string name="twoeuro_comm_2017_be_volume"></string>
@@ -1750,7 +1775,61 @@
     <string name="twoeuro_comm_2017_va_2_abr" translatable="false">FA</string>
     <string name="twoeuro_comm_2017_va_2_short_title">Fatima Apparitions</string>
 
-
+    <string name="twoeuro_comm_2018_au_title">100 years since the foundation of the Republic of Austria</string>
+    <string name="twoeuro_comm_2018_au_desc"></string>
+    <string name="twoeuro_comm_2018_au_volume">18100100</string>
+    <string name="twoeuro_comm_2018_au_date">06.12.2018</string>
+    <string name="twoeuro_comm_2018_au_abr" translatable="false">FO</string>
+    <string name="twoeuro_comm_2018_au_short_title">100y Austria</string>
+    <string name="twoeuro_comm_2018_de_title">100 years since the birth of Helmut Schmidt</string>
+    <string name="twoeuro_comm_2018_de_desc"></string>
+    <string name="twoeuro_comm_2018_de_volume">30000000</string>
+    <string name="twoeuro_comm_2018_de_date">30.01.2018</string>
+    <string name="twoeuro_comm_2018_de_abr" translatable="false">HS</string>
+    <string name="twoeuro_comm_2018_de_short_title">Helmut Schmidt</string>
+    <string name="twoeuro_comm_2018_de_2_title">Charlottenburg Palace in Berlin (Thirteenth of the Bundesländer series)</string>
+    <string name="twoeuro_comm_2018_de_2_desc"></string>
+    <string name="twoeuro_comm_2018_de_2_volume">30000000</string>
+    <string name="twoeuro_comm_2018_de_2_date">30.01.2018</string>
+    <string name="twoeuro_comm_2018_de_2_abr" translatable="false">CB</string>
+    <string name="twoeuro_comm_2018_de_2_short_title">Charlottenburg Berlin</string>
+    <string name="twoeuro_comm_2018_ee_title">100 years since independence (common commemorative coin with Latvia and Lithuania)</string>
+    <string name="twoeuro_comm_2018_ee_desc"></string>
+    <string name="twoeuro_comm_2018_ee_volume">500000</string>
+    <string name="twoeuro_comm_2018_ee_date">31.01.2018</string>
+    <string name="twoeuro_comm_2018_ee_abr" translatable="false">IN</string>
+    <string name="twoeuro_comm_2018_ee_short_title">100y Independence</string>
+    <string name="twoeuro_comm_2018_it_title">70 years since the Constitution of Italy</string>
+    <string name="twoeuro_comm_2018_it_desc"></string>
+    <string name="twoeuro_comm_2018_it_volume">4000000</string>
+    <string name="twoeuro_comm_2018_it_date">02.01.2018</string>
+    <string name="twoeuro_comm_2018_it_abr" translatable="false">CI</string>
+    <string name="twoeuro_comm_2018_it_short_title">70y Constitution</string>
+    <string name="twoeuro_comm_2018_lt_title">100 years since independence (common commemorative coin with Estonia and Latvia)</string>
+    <string name="twoeuro_comm_2018_lt_desc"></string>
+    <string name="twoeuro_comm_2018_lt_volume">1000000</string>
+    <string name="twoeuro_comm_2018_lt_date">31.01.2018</string>
+    <string name="twoeuro_comm_2018_lt_abr" translatable="false">IN</string>
+    <string name="twoeuro_comm_2018_lt_short_title">100y Independence</string>
+    <string name="twoeuro_comm_2018_lu_title">150 years since the Constitution of Luxembourg</string>
+    <string name="twoeuro_comm_2018_lu_desc"></string>
+    <string name="twoeuro_comm_2018_lu_volume">313500</string>
+    <string name="twoeuro_comm_2018_lu_date">27.12.2018</string>
+    <string name="twoeuro_comm_2018_lu_abr" translatable="false">CL</string>
+    <string name="twoeuro_comm_2018_lu_short_title">150y Luxembourg</string>
+    <string name="twoeuro_comm_2018_lv_title">100 years since independence (common commemorative coin with Estonia and Lithuania)</string>
+    <string name="twoeuro_comm_2018_lv_desc"></string>
+    <string name="twoeuro_comm_2018_lv_volume">512000</string>
+    <string name="twoeuro_comm_2018_lv_date">31.01.2018</string>
+    <string name="twoeuro_comm_2018_lv_abr" translatable="false">In</string>
+    <string name="twoeuro_comm_2018_lv_short_title">100y Independence</string>
+    <string name="twoeuro_comm_2018_sk_title">25th anniversary of the establishment of the Slovak Republic</string>
+    <string name="twoeuro_comm_2018_sk_desc"></string>
+    <string name="twoeuro_comm_2018_sk_volume">1000000</string>
+    <string name="twoeuro_comm_2018_sk_date">03.01.2018</string>
+    <string name="twoeuro_comm_2018_sk_abr" translatable="false">Es</string>
+    <string name="twoeuro_comm_2018_sk_short_title">25y Establishment</string>
+    
     <string name="twoeuro_comm_2007_eu_rv_title">50. Jahrestag der Unterzeichnung des Vertrags von Rom</string>
     <string name="twoeuro_comm_2007_eu_rv_desc">Das Münzinnere zeigt das von den sechs Gründungsländern unterzeichnete Vertragswerk vor einem Hintergrund, der an die (von Michelangelo entworfene) Pflasterung des Kapitolsplatzes in Rom erinnert, wo der Vertrag am 25. März 1957 unterzeichnet wurde. Die Aufschriften „Vertrag von Rom 50 Jahre“ und „EUROPA“ sowie der Name des Ausgabelandes sind in den jeweiligen Sprachen des Euroraums oder in Latein zu sehen. Der Text variiert daher von Land zu Land, das Münzbild hingegen ist identisch. Der Vertrag von Rom begründete die Europäische Wirtschaftsgemeinschaft und führte letztendlich zur Einführung des Euro im Jahr 1999 sowie der Euro-Banknoten und -Münzen im Jahr 2002. Der Jahrestag wird am 25. März 2007 gefeiert. Die Länder des Euroraums haben beschlossen, aus diesem Anlass gemeinsam diese Gedenkmünze auszugeben. Das Design wurde nach der Durchführung eines von den europäischen Münzstätten organisierten Wettbewerbs ausgewählt. </string>
     <string name="twoeuro_comm_2007_eu_rv_volume">von Land zu Land unterschiedlich</string>
