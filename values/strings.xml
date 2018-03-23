@@ -212,6 +212,10 @@
     <string name="action_trading_partners">Trading partners</string>
 
     <string name="version_history_5_5">
+        Version 5.5.2\n
+        Fixed image Germany 2018 Berlin\n
+        Fixed crash in color dialog\n
+        \n
         Version 5.5.1\n
         Fixed synchronizing shared collections\n
         \n
