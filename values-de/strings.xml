@@ -203,9 +203,25 @@
     <string name="collect_no_years_but_german_mints_is_invalid">Keine Jahre, aber deutsche Prägestätten sammeln, ist eine ungültige Kombination</string>
     <!-- version 5.6 -->
     <string name="user_name_already_exists">Name existiert bereits</string>
+    <string name="user_name_contains_invalid_characters">Name enthält ungültige Zeichen</string>
 
     <!-- version 6.0 -->
     <string name="action_trading_partners">Tauschpartner</string>
+
+    <string name="version_history_5_6">
+        Version 5.6.2\n
+        5€ Subtropische Zone Deutschland 2018 hinzugefügt\n
+        Fehler behoben, Münzsuche\n
+        Münzanzahl in PDF\n
+        \n
+        Version 5.6.1\n
+        Fehler behoben, PDF\n
+        Fehler behoben, DSGVO checkbox\n
+        \n
+        Version 5.6\n
+        Viele 2018 2€ Gedenkmünzen hinzugefügt\n
+        DSGVO hinzugefügt
+    </string>
 
     <string name="version_history_5_5">
         Version 5.5.2\n
@@ -408,4 +424,46 @@
     <string name="action_manage_shared_collection">Verwalten</string>
     <string name="collection_is_not_shared">Diese Sammlung wurde nicht geteilt</string>
     <string name="register">Registrieren</string>
+
+    <!-- DSGVO -->
+    <string name="action_show_data_privacy">Datenschutz</string>
+    <string name="dsgvo_ack_title">WICHTIG</string>
+    <string name="dsgvo_ack_yes">Ich stimme zu</string>
+    <string name="dsgvo_ack_no">Ich stimme NICHT zu</string>
+    <string name="dsgvo_checkbox_text">Bitte markieren Sie das Feld (Checkbox), wenn Sie damit einverstanden sind.</string>
+    <string name="dsgvo_agreed_message">Sie haben der Erklärung zum Datenschutz zugestimmt am: %1$s</string>
+    <string name="dsgvo_data_privacy">
+        "Erklärung zum Datenschutz von 'Eurocoins Album' nachfolgend 'App' genannt.\n\n"
+
+        "Name und Kontaktdaten:\n"
+        "Matthias Kleiber, matthias@online.de\n\n"
+
+        "Zwecke der Datenverarbeitung:\n"
+        "Die App generiert und speichert auf dem Gerät des Nutzers nach positiver Bestätigung zur Datenverarbeitung eine private und eindeutige Benutzerkennung (UUID).\n"
+        "Diese Benutzerkennung dient zur Identifizierung des Geräts bei jeder Kommunikation mit dem Server der App.\n"
+        "Zusätzlich kann der Benutzer seine E-Mail-Adresse in der App eintragen, um weitere Funktionalitäten nutzen zu können. Der Benutzer erhält eine E-Mail an seine Adresse, in der sich ein Link befindet, über den er die Gültigkeit der E-Mail-Adresse bestätigen kann. Zusätzlich wird die E-Mail-Adresse genutzt, um dem Benutzer E-Mails für die Bestätigung eines durch ihn veranlassten Auftrags zu bestätigen, wie z.B. Übertragung der Daten der App auf ein anderes Gerät. Die App versendet keine Werbemails o.ä.\n"
+        "Die Benutzerkennung und die E-Mail-Adresse sind die einzigen persönlichen Daten, die von der App gespeichert, verarbeitet und an den Server übertragen werden.\n\n"
+
+        "Rechtsgrundlage der Datenverarbeitung:\n"
+        "Die Datenverarbeitung ist für die Funktionsweise der App nötig.\n\n"
+
+        "Empfänger der persönlichen Daten:\n"
+        "Der von der App verwendete Server gehört der Firma STRATO und wird von dieser auch betrieben. Persönliche Daten werden zwar nicht explizit an STRATO übertragen, aber befinden sich dadurch naturgemäß in deren Zugriff, um deren vertragslichen Verpflichtungen zum Betrieb des Servers zu erfüllen.\nEine Weitergabe der persönlichen Daten an andere dritte findet nicht statt.\n\n"
+
+        "Dauer der Datenspeicherung:\n"
+        "Die Speicherung der persönlichen Daten erfolgt solange, bis der Nutzer die Löschung seiner Daten oder seines Kontos verlangt.\n\n"
+
+        "Rechte des Benutzers:\n"
+        "Die Zustimmung zur Verarbeitung und Speicherung seiner Daten kann der Nutzer jederzeit widerrufen oder Korrektur verlangen. Der Benutzer kann Auskunft über die Verarbeitung und Speicherung seiner persönlichen Daten verlangen. Dies kann er beispielsweise durch senden einer entsprechenden E-Mail an matthias@online.de bewirken.\n"
+        "Der Benutzer kann sich an die zuständigen Behörde für Datenschutz wenden."
+    </string>
+
+    <string name="dsgvo_agree_data_privacy">
+        "Die nachfolgende Erklärung zum Datenschutz der App habe ich gelesen und verstanden. Diese ist in der App im Menü "Informationen - Datenschutz" einsehbar."
+    </string>
+
+    <string name="dsgvo_1">
+        "Ich stimme zu, dass meine personenbezogenen Daten, die von mir der App zur Verfügung gestellt werden, verarbeitet, gespeichert und an dritte weitergegeben werden, sofern dies für die Funktionsweise der App nötig ist."
+    </string>
+
 </resources>

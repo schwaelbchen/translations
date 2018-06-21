@@ -207,9 +207,25 @@
     <string name="collect_no_years_but_german_mints_is_invalid">Not collecting years but german mints is an unsupported combination</string>
     <!-- version 5.6 -->
     <string name="user_name_already_exists">Name already exists</string>
+    <string name="user_name_contains_invalid_characters">Name contains invalid characters</string>
 
     <!-- version 6.0 -->
     <string name="action_trading_partners">Trading partners</string>
+
+    <string name="version_history_5_6">
+        Version 5.6.2\n
+        Added 5€ Subtropical Zone Germany 2018\n
+        Fixed Coin search\n
+        Coin count in PDF\n
+        \n
+        Version 5.6.1\n
+        Fixed PDF\n
+        Fixed EU GDPR checkbox\n
+        \n
+        Version 5.6\n
+        Added a lot of 2018 2€ commemorative coins\n
+        Added EU GDPR
+    </string>
 
     <string name="version_history_5_5">
         Version 5.5.2\n
@@ -1779,6 +1795,12 @@
     <string name="twoeuro_comm_2017_va_2_abr" translatable="false">FA</string>
     <string name="twoeuro_comm_2017_va_2_short_title">Fatima Apparitions</string>
 
+    <string name="twoeuro_comm_2018_ad_title">25th anniversary of the Andorran Constitution</string>
+    <string name="twoeuro_comm_2018_ad_desc"></string>
+    <string name="twoeuro_comm_2018_ad_volume">75000</string>
+    <string name="twoeuro_comm_2018_ad_date">12.04.2018</string>
+    <string name="twoeuro_comm_2018_ad_abr" translatable="false">Co</string>
+    <string name="twoeuro_comm_2018_ad_short_title">Andorran Constitution</string>
     <string name="twoeuro_comm_2018_au_title">100 years since the foundation of the Republic of Austria</string>
     <string name="twoeuro_comm_2018_au_desc"></string>
     <string name="twoeuro_comm_2018_au_volume">18100100</string>
@@ -1797,18 +1819,54 @@
     <string name="twoeuro_comm_2018_de_2_date">30.01.2018</string>
     <string name="twoeuro_comm_2018_de_2_abr" translatable="false">CB</string>
     <string name="twoeuro_comm_2018_de_2_short_title">Charlottenburg Berlin</string>
-    <string name="twoeuro_comm_2018_ee_title">100 years since independence (common commemorative coin with Latvia and Lithuania)</string>
+    <string name="twoeuro_comm_2018_ee_title">100 years of Baltic States (common commemorative coin with Latvia and Lithuania)</string>
     <string name="twoeuro_comm_2018_ee_desc"></string>
     <string name="twoeuro_comm_2018_ee_volume">500000</string>
     <string name="twoeuro_comm_2018_ee_date">31.01.2018</string>
     <string name="twoeuro_comm_2018_ee_abr" translatable="false">IN</string>
-    <string name="twoeuro_comm_2018_ee_short_title">100y Independence</string>
+    <string name="twoeuro_comm_2018_ee_short_title">100y Baltic States</string>
+    <string name="twoeuro_comm_2018_ee_2_title">100 years independence</string>
+    <string name="twoeuro_comm_2018_ee_2_desc"></string>
+    <string name="twoeuro_comm_2018_ee_2_volume">1317800</string>
+    <string name="twoeuro_comm_2018_ee_2_date">19.02.2018</string>
+    <string name="twoeuro_comm_2018_ee_2_abr" translatable="false">IE</string>
+    <string name="twoeuro_comm_2018_ee_2_short_title">100 years </string>
+    <string name="twoeuro_comm_2018_es_title">Old town of Santiago de Compostela</string>
+    <string name="twoeuro_comm_2018_es_desc"></string>
+    <string name="twoeuro_comm_2018_es_volume">300000</string>
+    <string name="twoeuro_comm_2018_es_date">02.02.2018</string>
+    <string name="twoeuro_comm_2018_es_abr" translatable="false">SC</string>
+    <string name="twoeuro_comm_2018_es_short_title">Santiago de Compostela</string>
+    <string name="twoeuro_comm_2018_es_2_title">50 years since the birth of Felipe VI</string>
+    <string name="twoeuro_comm_2018_es_2_desc"></string>
+    <string name="twoeuro_comm_2018_es_2_volume">400000</string>
+    <string name="twoeuro_comm_2018_es_2_date">19.02.2018</string>
+    <string name="twoeuro_comm_2018_es_2_abr" translatable="false">BF</string>
+    <string name="twoeuro_comm_2018_es_2_short_title">50 years Felipe</string>
+    <string name="twoeuro_comm_2018_fi_title">National Landscape Koli</string>
+    <string name="twoeuro_comm_2018_fi_desc"></string>
+    <string name="twoeuro_comm_2018_fi_volume">1000000</string>
+    <string name="twoeuro_comm_2018_fi_date">28.05.2018</string>
+    <string name="twoeuro_comm_2018_fi_abr" translatable="false">NL</string>
+    <string name="twoeuro_comm_2018_fi_short_title">Landscape Koli</string>
+    <string name="twoeuro_comm_2018_fr_title">Bleuet de France</string>
+    <string name="twoeuro_comm_2018_fr_desc"></string>
+    <string name="twoeuro_comm_2018_fr_volume">10020000</string>
+    <string name="twoeuro_comm_2018_fr_date">19.02.2018</string>
+    <string name="twoeuro_comm_2018_fr_abr" translatable="false">BF</string>
+    <string name="twoeuro_comm_2018_fr_short_title">Bleuet de France</string>
     <string name="twoeuro_comm_2018_it_title">70 years since the Constitution of Italy</string>
     <string name="twoeuro_comm_2018_it_desc"></string>
     <string name="twoeuro_comm_2018_it_volume">4000000</string>
     <string name="twoeuro_comm_2018_it_date">02.01.2018</string>
     <string name="twoeuro_comm_2018_it_abr" translatable="false">CI</string>
     <string name="twoeuro_comm_2018_it_short_title">70y Constitution</string>
+    <string name="twoeuro_comm_2018_it_2_title">60 years since the formation of the Ministry of Health</string>
+    <string name="twoeuro_comm_2018_it_2_desc"></string>
+    <string name="twoeuro_comm_2018_it_2_volume">3000000</string>
+    <string name="twoeuro_comm_2018_it_2_date">05.03.2018</string>
+    <string name="twoeuro_comm_2018_it_2_abr" translatable="false">MH</string>
+    <string name="twoeuro_comm_2018_it_2_short_title">Ministry of Health</string>
     <string name="twoeuro_comm_2018_lt_title">100 years since independence (common commemorative coin with Estonia and Latvia)</string>
     <string name="twoeuro_comm_2018_lt_desc"></string>
     <string name="twoeuro_comm_2018_lt_volume">1000000</string>
@@ -1827,12 +1885,30 @@
     <string name="twoeuro_comm_2018_lv_date">31.01.2018</string>
     <string name="twoeuro_comm_2018_lv_abr" translatable="false">In</string>
     <string name="twoeuro_comm_2018_lv_short_title">100y Independence</string>
+    <string name="twoeuro_comm_2018_po_title">250 anniversary of Portugal National Printing Works</string>
+    <string name="twoeuro_comm_2018_po_desc"></string>
+    <string name="twoeuro_comm_2018_po_volume">520000</string>
+    <string name="twoeuro_comm_2018_po_date">22.05.2018</string>
+    <string name="twoeuro_comm_2018_po_abr" translatable="false">NP</string>
+    <string name="twoeuro_comm_2018_po_short_title">National Printing Works</string>
+    <string name="twoeuro_comm_2018_si_title">World Bees Day</string>
+    <string name="twoeuro_comm_2018_si_desc"></string>
+    <string name="twoeuro_comm_2018_si_volume"></string>
+    <string name="twoeuro_comm_2018_si_date">14.05.2018</string>
+    <string name="twoeuro_comm_2018_si_abr" translatable="false">Be</string>
+    <string name="twoeuro_comm_2018_si_short_title">Bees Day</string>
     <string name="twoeuro_comm_2018_sk_title">25th anniversary of the establishment of the Slovak Republic</string>
     <string name="twoeuro_comm_2018_sk_desc"></string>
     <string name="twoeuro_comm_2018_sk_volume">1000000</string>
     <string name="twoeuro_comm_2018_sk_date">03.01.2018</string>
     <string name="twoeuro_comm_2018_sk_abr" translatable="false">Es</string>
     <string name="twoeuro_comm_2018_sk_short_title">25y Establishment</string>
+    <string name="twoeuro_comm_2018_sm_title">500 years since the birth of Tintoretto</string>
+    <string name="twoeuro_comm_2018_sm_desc"></string>
+    <string name="twoeuro_comm_2018_sm_volume">60500</string>
+    <string name="twoeuro_comm_2018_sm_date">05.04.2018</string>
+    <string name="twoeuro_comm_2018_sm_abr" translatable="false">Ti</string>
+    <string name="twoeuro_comm_2018_sm_short_title">Tintoretto</string>
     
     <string name="twoeuro_comm_2007_eu_rv_title">50. Jahrestag der Unterzeichnung des Vertrags von Rom</string>
     <string name="twoeuro_comm_2007_eu_rv_desc">Das Münzinnere zeigt das von den sechs Gründungsländern unterzeichnete Vertragswerk vor einem Hintergrund, der an die (von Michelangelo entworfene) Pflasterung des Kapitolsplatzes in Rom erinnert, wo der Vertrag am 25. März 1957 unterzeichnet wurde. Die Aufschriften „Vertrag von Rom 50 Jahre“ und „EUROPA“ sowie der Name des Ausgabelandes sind in den jeweiligen Sprachen des Euroraums oder in Latein zu sehen. Der Text variiert daher von Land zu Land, das Münzbild hingegen ist identisch. Der Vertrag von Rom begründete die Europäische Wirtschaftsgemeinschaft und führte letztendlich zur Einführung des Euro im Jahr 1999 sowie der Euro-Banknoten und -Münzen im Jahr 2002. Der Jahrestag wird am 25. März 2007 gefeiert. Die Länder des Euroraums haben beschlossen, aus diesem Anlass gemeinsam diese Gedenkmünze auszugeben. Das Design wurde nach der Durchführung eines von den europäischen Münzstätten organisierten Wettbewerbs ausgewählt. </string>
@@ -1865,174 +1941,11 @@
     <string name="specialeuro_2017_de_clima_title">Climazone Tropical</string>
     <string name="specialeuro_2017_de_clima_abr" translatable="false">CT</string>
     <string name="specialeuro_2017_de_clima_short_title">Climazone Tropical</string>
+    <string name="specialeuro_2018_de_clima_title">Climazone Sub-Tropical</string>
+    <string name="specialeuro_2018_de_clima_abr" translatable="false">CS</string>
+    <string name="specialeuro_2018_de_clima_short_title">Climazone Sub-Tropical</string>
 
     <string name="license_flags">License for Flags: Copyright &#169; 2013 Go Squared Ltd. http://www.gosquared.com/ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
-	<string name="license_filedialog">License for Filedialog:
-	              GNU LESSER GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
- Copyright &#169; 2007 Free Software Foundation, Inc. http://fsf.org/
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
-
-
-  This version of the GNU Lesser General Public License incorporates
-the terms and conditions of version 3 of the GNU General Public
-License, supplemented by the additional permissions listed below.
-
-  0. Additional Definitions.
-
-  As used herein, "this License" refers to version 3 of the GNU Lesser
-General Public License, and the "GNU GPL" refers to version 3 of the GNU
-General Public License.
-
-  "The Library" refers to a covered work governed by this License,
-other than an Application or a Combined Work as defined below.
-
-  An "Application" is any work that makes use of an interface provided
-by the Library, but which is not otherwise based on the Library.
-Defining a subclass of a class defined by the Library is deemed a mode
-of using an interface provided by the Library.
-
-  A "Combined Work" is a work produced by combining or linking an
-Application with the Library.  The particular version of the Library
-with which the Combined Work was made is also called the "Linked
-Version".
-
-  The "Minimal Corresponding Source" for a Combined Work means the
-Corresponding Source for the Combined Work, excluding any source code
-for portions of the Combined Work that, considered in isolation, are
-based on the Application, and not on the Linked Version.
-
-  The "Corresponding Application Code" for a Combined Work means the
-object code and/or source code for the Application, including any data
-and utility programs needed for reproducing the Combined Work from the
-Application, but excluding the System Libraries of the Combined Work.
-
-  1. Exception to Section 3 of the GNU GPL.
-
-  You may convey a covered work under sections 3 and 4 of this License
-without being bound by section 3 of the GNU GPL.
-
-  2. Conveying Modified Versions.
-
-  If you modify a copy of the Library, and, in your modifications, a
-facility refers to a function or data to be supplied by an Application
-that uses the facility (other than as an argument passed when the
-facility is invoked), then you may convey a copy of the modified
-version:
-
-   a) under this License, provided that you make a good faith effort to
-   ensure that, in the event an Application does not supply the
-   function or data, the facility still operates, and performs
-   whatever part of its purpose remains meaningful, or
-
-   b) under the GNU GPL, with none of the additional permissions of
-   this License applicable to that copy.
-
-  3. Object Code Incorporating Material from Library Header Files.
-
-  The object code form of an Application may incorporate material from
-a header file that is part of the Library.  You may convey such object
-code under terms of your choice, provided that, if the incorporated
-material is not limited to numerical parameters, data structure
-layouts and accessors, or small macros, inline functions and templates
-(ten or fewer lines in length), you do both of the following:
-
-   a) Give prominent notice with each copy of the object code that the
-   Library is used in it and that the Library and its use are
-   covered by this License.
-
-   b) Accompany the object code with a copy of the GNU GPL and this license
-   document.
-
-  4. Combined Works.
-
-  You may convey a Combined Work under terms of your choice that,
-taken together, effectively do not restrict modification of the
-portions of the Library contained in the Combined Work and reverse
-engineering for debugging such modifications, if you also do each of
-the following:
-
-   a) Give prominent notice with each copy of the Combined Work that
-   the Library is used in it and that the Library and its use are
-   covered by this License.
-
-   b) Accompany the Combined Work with a copy of the GNU GPL and this license
-   document.
-
-   c) For a Combined Work that displays copyright notices during
-   execution, include the copyright notice for the Library among
-   these notices, as well as a reference directing the user to the
-   copies of the GNU GPL and this license document.
-
-   d) Do one of the following:
-
-       0) Convey the Minimal Corresponding Source under the terms of this
-       License, and the Corresponding Application Code in a form
-       suitable for, and under terms that permit, the user to
-       recombine or relink the Application with a modified version of
-       the Linked Version to produce a modified Combined Work, in the
-       manner specified by section 6 of the GNU GPL for conveying
-       Corresponding Source.
-
-       1) Use a suitable shared library mechanism for linking with the
-       Library.  A suitable mechanism is one that (a) uses at run time
-       a copy of the Library already present on the user\'s computer
-       system, and (b) will operate properly with a modified version
-       of the Library that is interface-compatible with the Linked
-       Version.
-
-   e) Provide Installation Information, but only if you would otherwise
-   be required to provide such information under section 6 of the
-   GNU GPL, and only to the extent that such information is
-   necessary to install and execute a modified version of the
-   Combined Work produced by recombining or relinking the
-   Application with a modified version of the Linked Version. (If
-   you use option 4d0, the Installation Information must accompany
-   the Minimal Corresponding Source and Corresponding Application
-   Code. If you use option 4d1, you must provide the Installation
-   Information in the manner specified by section 6 of the GNU GPL
-   for conveying Corresponding Source.)
-
-  5. Combined Libraries.
-
-  You may place library facilities that are a work based on the
-Library side by side in a single library together with other library
-facilities that are not Applications and are not covered by this
-License, and convey such a combined library under terms of your
-choice, if you do both of the following:
-
-   a) Accompany the combined library with a copy of the same work based
-   on the Library, uncombined with any other library facilities,
-   conveyed under the terms of this License.
-
-   b) Give prominent notice with the combined library that part of it
-   is a work based on the Library, and explaining where to find the
-   accompanying uncombined form of the same work.
-
-  6. Revised Versions of the GNU Lesser General Public License.
-
-  The Free Software Foundation may publish revised and/or new versions
-of the GNU Lesser General Public License from time to time. Such new
-versions will be similar in spirit to the present version, but may
-differ in detail to address new problems or concerns.
-
-  Each version is given a distinguishing version number. If the
-Library as you received it specifies that a certain numbered version
-of the GNU Lesser General Public License "or any later version"
-applies to it, you have the option of following the terms and
-conditions either of that published version or of any later version
-published by the Free Software Foundation. If the Library as you
-received it does not specify a version number of the GNU Lesser
-General Public License, you may choose any version of the GNU Lesser
-General Public License ever published by the Free Software Foundation.
-
-  If the Library as you received it specifies that a proxy can decide
-whether future versions of the GNU Lesser General Public License shall
-apply, that proxy\'s public statement of acceptance of any version is
-permanent authorization for you to choose that version for the
-Library.</string>
 
 <string name="license_ambilwarna">
 License for Amilbwarna Color Chooser
@@ -2140,8 +2053,50 @@ limitations under the License.
         "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
         "when a user tries to pick up one of cards.\n\n"
     </string>
+
     <string name="action_manage_shared_collection">Manage</string>
     <string name="collection_is_not_shared">This collection has not been shared</string>
     <string name="register">Register</string>
+
+    <!-- DSGVO -->
+    <string name="action_show_data_privacy">Data privacy</string>
+    <string name="dsgvo_ack_title">IMPORTANT</string>
+    <string name="dsgvo_ack_yes">I agree</string>
+    <string name="dsgvo_ack_no">I do NOT agree</string>
+    <string name="dsgvo_checkbox_text">Please mark the checkbox if you agree to this.</string>
+    <string name="dsgvo_agreed_message">You agreed at: %1$s</string>
+    <string name="dsgvo_data_privacy">
+        "Data privacy declaration of 'Eurocoins Album' named as 'App'.\n\n"
+
+        "Name and contact:\n"
+        "Matthias Kleiber, matthias@online.de\n\n"
+
+        "Reason of data processing:\n"
+        "The App generated and saves on the device of the user after positiv agreement to data processing a private and unique user identification (UUID).\n"
+        "This UUID serves as identification of the device at every communication of the App with the Server.\n"
+        "Additionally the user can enter his e-mail-address inside the app to use even more features. The user receives an e-mail to his address in which he will find a link with which he can approve the address. Additionally the e-mail-address will be used to send e-mails to the user to confirm requests he entered into the App like transfer of data to another device. The App does not send e-mails for advertisement or similar.\n"
+        "The UUID and the e-mail-address are the only personal data which will be save, processed and transferred to the server.\n\n"
+
+        "Base of data processing:\n"
+        "The data processing is needed for the features of the App to operate.\n\n"
+
+        "Recipients of personal data:\n"
+        "The server being used by the App belongs to the company STRATO and is operated by this. Personal data will not transferred explicitely to STRATO but can be accessed to fullfill their contract.\nPersonal data will not be transferred to any other third party.\n\n"
+
+        "Duration of storing personal data:\n"
+        "Personal data will be stored until the user asks for deleting his personal data or account.\n\n"
+
+        "Rights of the user:\n"
+        "The approval of the user to process and store personal data can be revoked or corrected at any time. The user can ask for the personal data which was processed and stored. This can be achieved for example by sending an e-mail to matthias@online.de.\n"
+        "The user can contact the corresponding institution for data privacy."
+    </string>
+
+    <string name="dsgvo_agree_data_privacy">
+        "I read and understood the follwoing declaration of data privacy of the App. This is viewable in the App at menu "Information - Data Privacy."
+    </string>
+
+    <string name="dsgvo_1">
+        "I agree that my personal data that I entered into the App will be processed, stored and transferred to third parties as long as it is needed for the features of the App to operate."
+    </string>
 
 </resources>
