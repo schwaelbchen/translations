@@ -1,0 +1,336 @@
+<resources>
+
+    <string name="language_code">"si"</string>
+    <string name="action_settings">"Nastavitve"</string>
+    <string name="action_country">"Država"</string>
+    <string name="action_user">"Uporabnik"</string>
+    <string name="action_collection">"Zbirka"</string>
+    <string name="action_mode">"Preklopi način urejanja"</string>
+    <string name="new_collection">"Nova zbirka"</string>
+    <string name="enter_new_name">"Vnesite novo ime"</string>
+    <string name="delete_collection">"Izbriši"</string>
+    <string name="change_name">"Spremenite ime"</string>
+    <string name="default_collection_name">"Zbirka1"</string>
+    <string name="how_to_unlock">"Dotaknite se simbola za zaklepanje v menijski vrstici"</string>
+    <string name="use_long_touch_to_force_details">"Kovanca ne obstaja. Uporabite dolg dotik, da odprete pogovorno okno podrobnosti kovancev."</string>
+    <string name="mode_unlock_not_in_multiuser_or_eu">"Ni urejanja v pogledu Multiuser in EU"</string>
+    <string name="yes">"Ja"</string>
+    <string name="no">"Ne"</string>
+    <string name="multi_collection_view">"Več pogledov"</string>
+    <string name="source_ecb">"Vir: EVROPSKA CENTRALNA BANKA"</string>
+    <string name="ecb_info">"Informacije in slike vseh eurokovancev so brezplačno na voljo na spletni strani ECB"</string>
+    <string name="action_import">"Uvozi"</string>
+    <string name="action_export">"Izvozi"</string>
+    <string name="action_createpdf">"Ustvari pdf"</string>
+    <string name="pdfApiLevelTooLow">"Oprostite, izdelava pdf potrebuje min. Android 4.4"</string>
+    <string name="export_failed">"Izvoz ni uspel"</string>
+    <string name="import_failed">"Uvoz ni uspel"</string>
+    <string name="export_ok">"Izvozi OK"</string>
+    <string name="import_ok">"Uvozi OK"</string>
+    <string name="help">"Pomoč"</string>
+    <string name="help_message">"Če mi želite poslati kakršne koli težave, napake, vprašanja ali zahteve po funkciji, prosim uporabite \"pošlji sporočilo\" v meniju (http://eurocoins-album.jimdo.com). Te pripombe ne smejo biti objavljene v trgovini za predvajanje."</string>
+    <string name="help_statistics">"Format statistike je x / y / zx = število možnih različnih kovancev, ki ste jih izbrali; y = število možnih različnih kovancev, ki jih je mogoče zbrati; z = število skupnih kovancev, ki ste jih zbrali (če imate kovanec več kot enkrat, glejte podrobnosti o kovancih). Decimalna številka prikazuje znesek denarja, ki ste ga zbrali, in dodatno zneske za plačano in vrednost, če ste jih vnesli v podrobnosti o kovancih."</string>
+    <string name="help_coin_marker">"\"X\" na kovancu pomeni, da ta kovanec sploh ni kovanec (če imate druge informacije, prosim pošljite mail). \"*\" Na kovancu je uradni kovanec, ki označuje marker, če ste aktivirali to nastavitev."</string>
+    <string name="help_eu_view">"Pogled EU kaže, ali ima trenutni uporabnik ta kovanec v vseh letih / državah (in kovnice) ali če manjka eno leto / država (meta). To je odvisno od načina eu-view (glej spodaj). V letnem načinu se dotaknite kovanega gumba, da vidite, za katere države je uporabnik že kupil ta kovanec. Dotaknite se 2 € priložnostne kovance, da si ogledate vse 2 € -coins tega leta / države!"</string>
+    <string name="help_eu_mode_switch">"V pogledu EU lahko z gumbom v zgornjem levem kotu preklopite med letnim načinom in državo"</string>
+    <string name="help_multi_user">"V večuporabniškem pogledu je prikazano, ali imajo vsi uporabniki ta kovancev ali če ga vsaj en uporabnik nima. Dotaknite se kovanega gumba, da vidite, kateri od uporabnikov je že zbral ta kovanec."</string>
+    <string name="help_touch_hold_coins">"V načinu urejanja dotaknite se in držite kovanec, da nastavite število kovancev, ki jih imate, in druge lastnosti."</string>
+    <string name="help_touch_hold_two_euro_coins">"V zaklenjenem načinu se dotaknite in pridržite posebna 2 evrokovanca, da dobite dodatne informacije."</string>
+    <string name="help_touch_common_coins">"Dotaknite se enega od 8 skupnih kovancev na levi strani, da si ogledate hrbtno stran tega kovanca za vse države."</string>
+    <string name="help_imexport">"Datoteke za izvoz bodo imenovane \"euro_coin_list_ &lt;uporabniško ime&gt; .txt\". Uvoženi uporabniki bodo dodani in ne bodo prepisani."</string>
+    <string name="help_backup">"Vsak teden aplikacija samodejno ustvari varnostno kopijo vseh zbirk. S pomočjo menija »Obnovi varnostno kopijo« lahko zlahka dodate staro varnostno kopijo v trenutno naložene zbirke"</string>
+    <string name="help_coinset_expand">"Če želite povečati uporabnost, se nemške kolekcije združijo po letih, če ste omogočili nastavitev »Zbiraj leti in kovnice«. Gumb plus / minus nad skupnimi kovanci (leva stran) se lahko uporablja na dva načina: kratek dotik, če želite razširiti / zbrati vse skupine v enkratnem in dolgem dotiku, da storite nasprotno."</string>
+    <string name="help_menu">"Uporabite meni nastavitev za spreminjanje: velikost velikosti kovanca, velikost besedila (naslov in besedilo kovanca), zbiranje le 2 € priložnostnih kovancev, zbiranje vseh let in kovancev (ali le ena na državo) in še veliko več. Posebna funkcionalnost je \"uporaba posameznih nastavitev\", s katerimi lahko vsaka uporabniška / zbirka ima svoje nastavitve ali če vsi uporabniki delijo iste nastavitve!"</string>
+    <string name="help_title_setting">"S klikom na glavo stolpca lahko spremenite barvo ozadja."</string>
+    <string name="show_licenses">"Licence"</string>
+    <string name="pref_use_individual_settings">"Uporabite posamezne nastavitve"</string>
+    <string name="pref_image_size">"Velikost slike"</string>
+    <string name="pref_text_size_1">"Velikost besedila 1 (naslovi)"</string>
+    <string name="pref_text_size_2">"Velikost besedila 2 (kovanci)"</string>
+    <string name="pref_collect_years">"Zberite let"</string>
+    <string name="pref_show_statistics">"Pokaži statistiko"</string>
+    <string name="pref_language">"Jezik"</string>
+    <string name="added_date">"Datum"</string>
+    <string name="change_added_date">"sprememba"</string>
+    <string name="paid">"Plačano"</string>
+    <string name="value">"Vrednost"</string>
+    <string name="note">"Opomba"</string>
+    <string name="pref_show_only_missing_coins">"Prikaži samo manjkajoče kovance"</string>
+    <string name="pref_show_official_coin_set_marker">"Prikaži oznako \"samo mint\" (*)"</string>
+    <string name="condition">"Pogoj"</string>
+    <string name="condition_helper">"(A-Z ali 1-9)"</string>
+    <string name="action_open_url_comment">"Pošlji sporočilo"</string>
+    <string name="action_close">"Izhod"</string>
+    <string name="coin_collected_marker">"X"</string>
+    <string name="index_cc">"Indeks"</string>
+    <string name="enter_coin_name">"Vnesite leto in kratko ime kovanca"</string>
+    <string name="custom_coin_name">"Ime"</string>
+    <string name="year">"Leto"</string>
+    <string name="count">"Count"</string>
+    <string name="mint">"Mint"</string>
+    <string name="remove_coin">"Odstranite kovanec"</string>
+    <string name="label">"Oznaka"</string>
+    <string name="prev_coin">"Prej."</string>
+    <string name="next_coin">"Naslednji"</string>
+    <string name="new_coin">"Novo"</string>
+    <string name="attention">"Pozor"</string>
+    <string name="force_unlock_user">"Ta uporabnik je imel napako pri nalaganju. Odvrzite sile?"</string>
+    <string name="backup_created">"Ustvarjeno je varnostno kopiranje"</string>
+    <string name="action_restore_backup">"Obnovi varnostno kopijo"</string>
+    <string name="action_delete_old_backups">"Izbriši stare varnostne kopije"</string>
+    <string name="delete_old_backups">"Želite izbrisati vse varnostne kopije, razen tistih iz trenutnega tedna?"</string>
+    <string name="no_external_storage_permission">"V meniju aplikacije Android aktivirajte 'Dovoljenja' za 'Shranjevanje'"</string>
+    <string name="commemorative_coins_full">"Komemorativni kovanci polni"</string>
+    <string name="pref_use_background_color">"Uporabi barvo ozadja"</string>
+    <string name="pref_background_color">"Barva ozadja"</string>
+    <string name="pref_hide_not_existing_coins">"Skrij ne obstoječe kovance"</string>
+    <string name="click_the_coin_set_expand_button">"Če želite odpreti skupino za nastavitev kovancev, se dotaknite gumba plus"</string>
+    <!-- v5.0 -->
+    <string name="pref_text_size_3">"Velikost besedila 3 (izbirni seznam)"</string>
+    <string name="version_history">"Zgodovina različice"</string>
+    <string name="pref_use_cloud_features">"Uporabite funkcije oblaka (internet)"</string>
+    <string name="backup_no_cloud_features_activated">"Funkcije oblaka (internet) so onemogočene. Varnostno kopiranje je shranjeno samo v telefonu."</string>
+    <string name="action_create_backup">"Ustvari varnostno kopijo"</string>
+    <string name="action_show_notifications">"Obvestila"</string>
+    <string name="action_show_info">"Informacije"</string>
+    <string name="action_save">"Shrani"</string>
+    <string name="help_cloud_features">"Ko so funkcije oblaka vključene, bodo tedenske varnostne kopije naložene tudi na spletno shranjevanje albuma Eurocoins. Jih lahko obnovite kot skupne varnostne kopije. \ NCloud funkcije uporablja edinstven ID uporabnika, ki ga ustvari ta aplikacija, da bi prepoznali vašo varnostno kopijo. Ta ID uporabnika lahko najdete v meniju Information - My User ID."</string>
+    <string name="help_email">"Vaš uporabniško ime bo poslano na e-poštni naslov, ki ste ga vnesli v nastavitvah - E-Mail."</string>
+    <string name="action_show_uuid">"Moj ID uporabnika"</string>
+    <string name="id_created">"Ustvarjen je ID uporabnika. Glejte meni: Informacije - Moj ID uporabnika"</string>
+    <string name="no_internet_no_backup">"Internet ni na voljo. Varnostno kopiranje ne bo naloženo v oblak."</string>
+    <string name="pref_email">"E-naslov"</string>
+    <string name="send_id">"Pošlji ID uporabnika"</string>
+    <string name="email_sent">"%1$s je bila poslana e-pošta"</string>
+    <string name="email_sent_confirm">"%1$s je bila poslana e-pošta. Preverite SPAM. Kliknite povezavo znotraj e-pošte, da potrdite svoj e-poštni naslov."</string>
+    <string name="enter_email">"Prosimo, registrirajte svoj e-poštni naslov."</string>
+    <string name="no_backups_available">"Brez varnostnih kopij ni na voljo"</string>
+    <string name="internet_not_available_for_backup">"Internet ni na voljo. Samo lokalne varnostne kopije bodo obdelane."</string>
+    <string name="register_email">"Registracija e-pošte"</string>
+    <string name="data_saved">"Podatki so bili shranjeni"</string>
+    <string name="switch_id">"Prenos ID uporabnika"</string>
+    <string name="enter_id_to_be_transferred">"Vnesite ID uporabnika, ki ga želite prevzeti. Ti podatki bodo združeni v vaš račun."</string>
+    <string name="no_internet_no_registration">"Internet ni na voljo. Aktivirajte dostop do interneta in registrirajte svojo pošto preko menijskega uporabnika."</string>
+    <string name="no_internet">"Internet ni na voljo"</string>
+    <string name="email_sent_confirm_delete_account">"%1$s je bila poslana e-pošta. Preverite SPAM. Prosimo, kliknite povezavo znotraj e-pošte, da izbrišete svoj spletni račun."</string>
+    <string name="help_transfer_id">"Če želite eno ID uporabnika prenesti v drugo napravo (telefon, tablični računalnik), vnesite ta ID uporabnika na ciljno napravo preko menija Information-&gt; My User ID&gt; Prenos ID uporabnika. Prvotni lastnik bo prejel e-pošto, kjer mora potrditi prenos. Vse vaše stare spletne varnostne kopije bodo premaknjene v novi ID uporabnika."</string>
+    <string name="delete_online_account">"Izbriši spletni račun"</string>
+    <!-- 5.1 -->
+    <string name="deletedBackups">"Izbrisane varnostne kopije v napravi: \ n %1$s \ nDeleted varnostne kopije v oblaku: \ n %2$s"</string>
+    <string name="backup_upload_error">"Napaka med nalaganjem varnostne kopije"</string>
+    <string name="action_share_with">"Deliti z…"</string>
+    <string name="action_add_share_with">"Dodaj novo"</string>
+    <string name="action_retract_share">"Umaknite se"</string>
+    <string name="share_with_ok">"V skupni rabi z %1$s"</string>
+    <string name="share_with_error">"Napaka pri skupni rabi z %1$s"</string>
+    <string name="action_unshare_with_ok">"Povrnjeno skupno rabo te zbirke z %1$s"</string>
+    <string name="enter_email_to_share_to">"Vnesite e-pošto s katero želite dati to zbirko"</string>
+    <string name="action_sync_collections">"Sinhroniziraj"</string>
+    <string name="collection_linked">"Zbirka skupne rabe v skupni rabi %1$s"</string>
+    <string name="start">"Začni"</string>
+    <string name="cancel">"Prekliči"</string>
+    <string name="sync_collection_ok">"Zbirka %1$s sinhronizirana"</string>
+    <string name="sync_collection_error">"Napaka pri sinhronizaciji za zbiranje %1$s"</string>
+    <string name="sync_collections_error">"Napaka pri sinhronizaciji"</string>
+    <string name="linked_collection_read_only">"Zbirke v skupni rabi, ki so povezane, so samo za branje"</string>
+    <string name="sync_collections_complete">"Zbirke so sinhronizirane"</string>
+    <string name="load_file_error">"Naloži napako v datoteko %1$s"</string>
+    <string name="no_cloud_features_activated">"Funkcije oblaka (internet) so onemogočene."</string>
+    <string name="not_saved_load_error">"Uporabnik %1$s ni bil shranjen zaradi prejšnje napake pri nalaganju. Odklenite način urejanja, da shranite silo."</string>
+    <string name="collection_infos_general">"Ime: %1$s \ nIzbor kode: %2$s \ nDroga: %3$s \ nOwner: %4$s \ nSinhronizirana: %5$s"</string>
+    <string name="collection_deleted">"Zbirka %1$s izbrisana"</string>
+    <string name="collection_sharing_retracted">"Skupna kolekcija %1$s je bila umaknjena s strani lastnika"</string>
+    <string name="collection_sharing_retracted_ok">"Zbirka v skupni rabi je bila umaknjena za %1$s"</string>
+    <string name="collection_retract_sharing">"Izberite elemente za umikanje skupne rabe"</string>
+    <string name="title_collection_shared_with_me">"Zbirka je skupna"</string>
+    <string name="ask_link_collection">"%1$s je dal vašo zbirko » %2$s « v skupno rabo z vami. Ali jo želite povezati?"</string>
+    <string name="wrong_app_version_update">"Aplikacijo posodobite na najnovejšo različico!"</string>
+    <string name="session_expired_try_again">"Seja je potekla. Prosim poskusite ponovno."</string>
+    <string name="forum">"Forum"</string>
+    <string name="logged_in">"Prijavljeni"</string>
+    <string name="pref_other_special_coins">"Drugi posebni kovanci"</string>
+    <string name="coin_parse_error">"Napaka pri nalaganju (glej obvestila za podrobnosti)"</string>
+    <string name="switch_id_error">"Napaka pri prenosu ID-ja uporabnika."</string>
+    <string name="register_mail_error">"Napaka pri registraciji poštnega naslova"</string>
+    <string name="login_error">"Napaka med prijavo"</string>
+    <string name="search_coin">"Iskalnik kovanca"</string>
+    <string name="enter_coin_search_text">"Vnesite besedilo za iskanje"</string>
+    <string name="no_matching_coins_found">"Nobenih ujemajočih kovancev ni bilo mogoče najti"</string>
+    <string name="pref_collect_series">"Zbirajte serije"</string>
+    <string name="pref_commemorative_coins">"Spominski kovanci"</string>
+    <!-- changed in 5.1 -->
+    <string name="pref_collect_two_euro_only">"Ne zberi standardnih kovancev"</string>
+
+    <!-- version 5.3 -->
+    <string name="enter_coin_value">"Vnesite vrednost kovanca"</string>
+    <string name="select_image">"Izberite sliko"</string>
+    <string name="no_camera_permission">"V meniju aplikacije Android aktivirajte 'Dovoljenja' za 'Camera'"</string>
+    <string name="pref_coin_photo_size">"Velikost slike kamere"</string>
+    <string name="permission_error">"Napaka v dovoljenju"</string>
+    <string name="image_load_error">"Pri nalaganju slike je prišlo do napake"</string>
+    <string name="not_registered_user_email">"' %1$s ' ni registrirana e-pošta uporabnika."</string>
+    <string name="action_force_sync_collections">"Sila sinhronizirati"</string>
+    <string name="is_2_euro_cc">"To je 2-metrski priložnostni kovanec"</string>
+    <string name="confirm_rename_collection_title">"Zbirka preimenovana"</string>
+    <string name="confirm_rename_collection">"Ali želite preimenovati zbirko » %1$s « v » %2$s «"</string>
+    <string name="show_newest_added_coins">"Najnovejši kovanci"</string>
+    <string name="i_dont_have_this_coin">"Nimam tega kovanca"</string>
+    <string name="create_as_multiview">"Ustvari več pogledov"</string>
+    <string name="select_collections">"Izberite zbirke"</string>
+    <string name="country_statistic">"Država statistika"</string>
+    <string name="country_statistic_message">"%1$s od %2$s možnih različnih kovancev, zbranih \ n %3$s kovancev, zbranih na splošno \ n %4$s € je nominalna vrednost \ n %5$s € je tisto, kar ste plačali \ n %6$s € je vrednost"</string>
+    <string name="compare_against_other_collection">"Primerjaj"</string>
+    <string name="no_differences_in_collections_found">"Razlike niso bile ugotovljene"</string>
+    <string name="error_saving_collection">"Napaka med shranjevanjem zbirke %1$s"</string>
+    <string name="invalid_value">"Neveljavna vrednost"</string>
+    <string name="invalid_year">"Neveljavno leto"</string>
+    <!-- version 5.4 -->
+    <string name="collection_modus_to_offline">"Upravljajte v napravi"</string>
+    <string name="collection_modus_to_online">"Upravljanje v spletu"</string>
+    <string name="no_internet_no_modus_on_offline">"Za preklop tega načina mora biti na voljo internetna povezava"</string>
+    <string name="set_collection_modus_error">"Napaka med preklopom načina zbiranja. Prosim poskusite kasneje."</string>
+    <string name="editing_only_in_collection_mode_online">"To zbirko nastavite za upravljanje v spletu na glavni napravi, da omogočite urejanje v vseh napravah"</string>
+    <string name="no_internet_no_editing">"Internet ni na voljo, vendar je obvezen za spletne upravljane zbirke."</string>
+    <string name="collection_editing_locked">"Zbirka, zaklenjena z drugo napravo"</string>
+    <string name="collection_not_locked">"Zbiranje ni bilo zaklenjeno ali je druga naprava odstranila zaklepanje"</string>
+    <string name="collection_editing_locked_force_unlock">"Ali jo želite prisiliti, da jo zaklenete za napravo? Ne bodo sinhronizirane spremembe izgubljene."</string>
+    <string name="request_edit_token_error">"Napaka pri zahtevanju spletnega načina urejanja"</string>
+    <string name="release_edit_token_error">"Napaka pri sprostitvi zaklepa za urejanje na spletu"</string>
+    <string name="collection_not_online_managed">"Zbirka se ne upravlja v spletu"</string>
+    <string name="close">"Zapri"</string>
+    <string name="pref_collect_german_mints">"Zberite nemške kovnice"</string>
+    <string name="pref_collect_greece_2002_foreign_mints">"Zbiranje tujih kovnic v Grčiji 2002"</string>
+    <string name="collect_no_years_but_german_mints_is_invalid">"Ni zbiranje let, a nemška kovnica je nepodprta kombinacija"</string>
+    <!-- version 5.6 -->
+    <string name="user_name_already_exists">"Ime že obstaja"</string>
+    <string name="user_name_contains_invalid_characters">"Ime vsebuje neveljavne znake"</string>
+
+    <string name="version_history_5_6">"
+        Različica 5.6.2 \ n Dodana 5 € Subtropska cona Nemčija 2018 \ n Fiksno iskanje kovancev \ n Številka števila kovancev v PDF \ n \ n Različica 5.6.1 \ n Fiksni PDF \ n Fiksni okvir za potrditev EU GDPR \ n \ n Različica 5.6 \ n Dodano je bilo veliko 2018 € priložnostnih kovancev \ n Dodano EU GDPR
+    "</string>
+
+    <string name="version_history_5_5">"
+        Različica 5.5.2 \ n Fiksna slika Nemčija 2018 Berlin \ n Popravljeno sesutje v barvnem pogovornem oknu \ n \ n Različica 5.5.1 \ n Popravljena sinhronizacija zbirk v skupni rabi \ n \ n Različica 5.5 \ n Fiksni kovanci iz Litve 2017 \ n Kovanec, ki izgubi kovanec zbrani datum, če spremenite jezik \ n Popravljena napaka narobe za 2 € kovanca
+    "</string>
+
+    <string name="version_history_5_4">"
+        Različica 5.4 \ n Dodane slike Vatikana 2017 \ n Dodane vse manjkajoče 2 € 2017 priložnostne kovance \ n Nova funkcija: urejanje zbirke na več napravah (upravljanje z zbirkami menijev na spletu) \ n Nova nastavitev: zbiranje nemških kovnic \ n Nova nastavitev: zbiranje grške kovance 2002 tuje minti \ n Izboljšane statistike v pogledu EU za večuporabniške zbirke \ n Prikaži zadnje uporabljene barve v nastavitvah za glave stolpcev \ n 5.4.1 Fixed 2 € priložnostne kovanice Letal \ n 5.4.2 Zmanjšana uporaba pomnilnika \ n 5.4.3 Fiksna \"majhna\" prikazovalna napaka; -) \ n 5.4.4 Dodane fotografije iz kovancev San Marino 2017 \ n 5.4.5 Popravljena napaka v zadnjih uporabljenih barvah \ n 5.4.6 Fixud bug napačna svetlost slik kovancev \ n 5.4.7 Dodani prevodi za španščini in ruski ter odstranili obstoječe kovance iz Litve
+    "</string>
+
+    <string name="version_history_5_3">"
+        Različica 5.3 \ n Nova funkcija: Fotografiranje uporabniško določenih kovancev \ n Nova funkcija: sinhronizacija uporabniškega menija uporabnika \ n Nova funkcija: zbiranje menijev - informacije - najnovejši kovanci \ n Nova funkcija: dodajanje informacij neizbrisanih kovancev \ n Nova funkcija : ustvari več pogledov po meri \ n Nova funkcija: primerja dve zbirki \ n Spremembe imen skladb povezanih zbirk \ n Izboljšano shranjevanje in sinhronizacija \ n Posodobljeno francosko besedilo \ n Popravljena napaka v ID stikala \ n Izboljšana stabilnost \ n Dodana 2 € kovanca Malte 2016 \"Ljubezen\" \ n Dodan 2 € kovanec Italija 2017 \"Tito Livio\"
+    "</string>
+
+    <string name="version_history_5_2">"
+        Različica 5.2 \ n Popravljena napaka Internet
+    "</string>
+
+    <string name="version_history_5_1">"
+        Različica 5.1 \ n Nova funkcija: zbirke delnic z drugimi uporabniki in napravami \ n Dodani 2 € kovanci 2017 \ n Dodani 2 € kovanec Grčija 2016 \ n Fiksne slike kovancev za Španijo 2010-2014 \ n Fiksna obdelava kovancev za Vatikan 2005 \ n funkcija: iskanje kovancev \ n Nova nastavitev: zbiranje serije kovancev \ n Nova nastavitev: zbiranje priložnostnih kovancev \ n Nova nastavitev: zbiranje drugih posebnih kovancev
+    "</string>
+
+    <string name="version_history_5_0">"
+        Različica 5.0 \ n Nova nastavitev: funkcije oblaka. Varnostno kopiranje bo dodatno shranjeno v oblaku (internet). \ N Nova nastavitev: e-pošta (vaš uporabniški ID bo poslan na ta naslov) \ n Nova nastavitev: velikost besedila izbirnih seznamov \ n Nov prevod: litovski \ n Nov elementi menija: informacije, shranite, zapustite \ n Zmanjšana uporaba pomnilnika \ n Dodana dnevnika obvestil (informacije o meniju -&gt; obvestila)
+    "</string>
+
+    <string name="version_history_4_4">"
+        Različica 4.4 \ n Pogled EU: v načinu države se dotaknite kovanca, da se prikažejo zbrana leta \ n Dodana uporaba povratnega gumba telefona \ n Dodana zgodovina različice (pomoč v meniju) \ n Zmanjšana poraba pomnilnika
+    "</string>
+
+    <string name="version_history_4_3">"
+        Različica 4.3 \ n dodana portugalščina
+    "</string>
+
+    <string name="version_history_4_2">"
+        Različica 4.2 \ n je dodala manjkajoče priložnostne kovance 2016 \ n izboljšan pogled EU
+    "</string>
+
+    <string name="version_history_4_1">"
+        Verzija 4.1 \ n napake pri določeni obremenitvi
+    "</string>
+
+    <string name="version_history_4_0">"
+        Različica 4.0 \ n kažejo 2 € priložnostne kovance v EU pogledu \ n preselila avstrijsko kovancev iz leta 2015 v leto 2016
+    "</string>
+
+    <string name="version_history_3_6">"
+        Različica 3.6 \ n določena napaka v razširitvi / strni \ n ne prikaže praznih stolpcev (če se zbirajo samo 2 evrokovanci)
+    "</string>
+
+    <string name="version_history_3_5">"
+        Različica 3.5 \ n Dodana 2 € 2016 Finnland \ n Nova funkcija: barva naslova kovancev (naslov naslova) \ n Nova funkcija: razširi / strnijo nemške nabore kovancev \ n Popravljene napake
+    "</string>
+
+    <string name="version_history_3_4">"
+        Različica 3.4 \ n Dodano 2 € 2014 Malte 200 let policija \ n Dodani prevodi za francoski in italijanski \ n Dodana podpora za več primerkov istega kovanca \ n Dodana avtomatska varnostna kopija vsak teden \ n Dodana možnost, da imate individualne nastavitve na uporabnika / zbirka \ n Dodane nastavitve za velikost besedila \ n Popravljena napaka pri upravljanju kovancev po 2 € \ n Popravljena napaka pri shranjevanju podatkov
+    "</string>
+
+    <string name="version_history_3_3">"
+        Različica 3.3 \ n velikost fiksne slike
+    "</string>
+
+    <string name="version_history_3_2">"
+        Različica 3.2 \ n dodala kovance za leto 2016 \ n fiksna slika za Grčijo 2013 Kreta
+    "</string>
+
+    <string name="version_history_3_1">"
+        Različica 3.1 \ n dodana 2x 2015 2 Euro kovancev za Andoro \ n fiksno Monaco 2 euro kovancev 2012
+    "</string>
+
+    <string name="version_history_3_0">"
+        Različica 3.0 \ n TEGA lahko dodate nove 2 EURO kovance. Ni treba čakati na naslednjo posodobitev! \ N Dodali smo vse manjkajoče 2 euro kovance. \ N Dodal je nov kovanec Vatikan Francis
+    "</string>
+
+    <string name="version_history_2_2">"
+        Različica 2.2 \ n dodan EU-pogled!
+    "</string>
+
+    <string name="version_history_2_0">"
+        Različica 2.0 \ n dodal pdf izvoz in statistiko
+    "</string>
+
+    <string name="coin_1cent">"1 cent"</string>
+    <string name="coin_2cent">"2 cent"</string>
+    <string name="coin_5cent">"5 cent"</string>
+    <string name="coin_10cent">"10 Cent"</string>
+    <string name="coin_20cent">"20 Cent"</string>
+    <string name="coin_50cent">"50 centov"</string>
+    <string name="coin_1euro">"1 evro"</string>
+    <string name="coin_2euro">"2 evra"</string>
+    <string name="coin_5euro">"5 evrov"</string>
+    <string name="coin_10euro">"10 evrov"</string>
+
+    <string name="countryname_eu">"EU"</string>
+    <string name="countryname_au">"Avstrija"</string>
+    <string name="countryname_ad">"Andora"</string>
+    <string name="countryname_be">"Belgija"</string>
+    <string name="countryname_cy">"Ciper"</string>
+    <string name="countryname_ee">"Estonija"</string>
+    <string name="countryname_fi">"Finska"</string>
+    <string name="countryname_fr">"Francija"</string>
+    <string name="countryname_de">"Nemčija"</string>
+    <string name="countryname_gr">"Grčija"</string>
+    <string name="countryname_ir">"Irska"</string>
+    <string name="countryname_it">"Italija"</string>
+    <string name="countryname_lt">"Litva"</string>
+    <string name="countryname_lu">"Luksemburg"</string>
+    <string name="countryname_lv">"Latvija"</string>
+    <string name="countryname_mt">"Malte"</string>
+    <string name="countryname_mc">"Monako"</string>
+    <string name="countryname_ne">"Nizozemska"</string>
+    <string name="countryname_po">"Portugalska"</string>
+    <string name="countryname_sk">"Slovaška"</string>
+    <string name="countryname_si">"Slovenija"</string>
+    <string name="countryname_sm">"San Marino"</string>
+    <string name="countryname_es">"Španija"</string>
+    <string name="countryname_va">"Vatikan"</string>
+
+    <string name="dsgvo_agree_data_privacy">"
+        \"Prebral sem in razumel kasnejšo izjavo o zasebnosti podatkov v aplikaciji. To je mogoče videti v aplikaciji v meniju\" Informacije - zasebnost podatkov \".
+    "</string>
+
+    <string name="dsgvo_1">"
+        \"Strinjam se, da bodo osebni podatki, ki sem jih vnesel v aplikacijo, obdelani, shranjeni in preneseni na tretje osebe, dokler jih potrebujejo za delovanje aplikacije.\"
+    "</string>
+
+</resources>
