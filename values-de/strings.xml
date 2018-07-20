@@ -209,6 +209,9 @@
     <string name="action_trading_partners">Tauschpartner</string>
 
     <string name="version_history_5_6">
+        Version 5.6.3\n
+        Alle 2€ Gedenkmünzen hinzugefügt, die 2018 noch kommen werden (ohne Bild)\n
+        \n
         Version 5.6.2\n
         5€ Subtropische Zone Deutschland 2018 hinzugefügt\n
         Fehler behoben, Münzsuche\n
@@ -430,7 +433,6 @@
     <string name="dsgvo_ack_title">WICHTIG</string>
     <string name="dsgvo_ack_yes">Ich stimme zu</string>
     <string name="dsgvo_ack_no">Ich stimme NICHT zu</string>
-    <string name="dsgvo_checkbox_text">Bitte markieren Sie das Feld (Checkbox), wenn Sie damit einverstanden sind.</string>
     <string name="dsgvo_agreed_message">Sie haben der Erklärung zum Datenschutz zugestimmt am: %1$s</string>
     <string name="dsgvo_data_privacy">
         "Erklärung zum Datenschutz von 'Eurocoins Album' nachfolgend 'App' genannt.\n\n"

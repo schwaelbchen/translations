@@ -213,6 +213,9 @@
     <string name="action_trading_partners">Trading partners</string>
 
     <string name="version_history_5_6">
+        Version 5.6.3\n
+        Added all 2€ commemorative coins coming in 2018 (without picture)\n
+        \n
         Version 5.6.2\n
         Added 5€ Subtropical Zone Germany 2018\n
         Fixed Coin search\n
@@ -1379,18 +1382,18 @@
     <string name="twoeuro_comm_2015_mt_2_date">23. Juni 2015</string>
     <string name="twoeuro_comm_2015_mt_2_abr" translatable="false">Re</string>
     <string name="twoeuro_comm_2015_mt_2_short_title">Republic</string>
-    <string name="twoeuro_comm_2015_po_title">Erste Kontakte Portugals mit Timor vor 500 Jahren</string>
-    <string name="twoeuro_comm_2015_po_desc">1515 landete das erste portugiesische Schiff auf Timor, einer der Kleinen Sundainseln – 1586 wurde ein Großteil der Insel zur Kolonie Portugiesisch-Timor erklärt. Nach der Ausrufung der Unabhängigkeit Osttimors 1975 besetzte Indonesien das Land. Die wechselvolle Geschichte Osttimors mündete 2002 in der Gründung der – portugiesischsprachigen – Demokratischen Republik Osttimor. Die von Fernando Fonseca gestaltete Gedenkmünze zeigt eine zeitgenössische portugiesische Karavelle mit dem Prankenkreuz des Christusordens auf den Segeln sowie das Dach eines traditionellen timoresischen Hauses mit Holzskulpturen, die an Mythen und Legenden im Kontext mit der animistischen traditionellen Religion erinnern. Der auf der Münze stilisiert dargestellte First zeigt die Geschichte der ersten Einwohner, die mit einem „Beiro“ genannten Boot vom Malayischen Archipel kamen, und die Bedeutung von Pferden als Transportmittel – angesichts der steilen Berge, die die Insel fast vollständig bedecken. Die Silhouette eines „Beiro“-Bootsrumpfes sowie fünf Pferde und ihre Reiter – drei nach rechts und zwei nach links gewandt – zieren den Dachfirst. Unten ist die Unterschrift des Münzgestalters dargestellt, rechts das Münzstättenzeichen INCM.</string>
+    <string name="twoeuro_comm_2015_po_title">150 Jahre Portugiesisches Rotes Kreuz</string>
+    <string name="twoeuro_comm_2015_po_desc">Das Münzmotiv besteht aus dem bekannten Kreuz-Emblem der Hilfsorganisation, das mehrfach aneinandergereiht wird, um die Ausweitung der humanitären Hilfe in Portugal und im Ausland zu veranschaulichen. Im Hintergrund ist der Umriss einer Hand zu sehen, die die verschiedenen Arten von Hilfe symbolisiert, die die Organisation den Menschen leistet. Auf der linken Seite verläuft halbkreisförmig der Schriftzug CRUZ VERMELHA PORTUGUESA. Oben finden sich das Wappen und der Name des Ausgabestaats PORTUGAL, unten die beiden Jahreszahlen 1865 und 2015, daneben das Münzstättenzeichen INCM und die Initialen des Münzgestalters António Marinho.</string>
     <string name="twoeuro_comm_2015_po_volume">520.000 Münzen</string>
-    <string name="twoeuro_comm_2015_po_date">15.07.2015</string>
-    <string name="twoeuro_comm_2015_po_abr" translatable="false">Ti</string>
-    <string name="twoeuro_comm_2015_po_short_title">Timor</string>
-    <string name="twoeuro_comm_2015_po_2_title">150 Jahre Portugiesisches Rotes Kreuz</string>
-    <string name="twoeuro_comm_2015_po_2_desc">Das Münzmotiv besteht aus dem bekannten Kreuz-Emblem der Hilfsorganisation, das mehrfach aneinandergereiht wird, um die Ausweitung der humanitären Hilfe in Portugal und im Ausland zu veranschaulichen. Im Hintergrund ist der Umriss einer Hand zu sehen, die die verschiedenen Arten von Hilfe symbolisiert, die die Organisation den Menschen leistet. Auf der linken Seite verläuft halbkreisförmig der Schriftzug CRUZ VERMELHA PORTUGUESA. Oben finden sich das Wappen und der Name des Ausgabestaats PORTUGAL, unten die beiden Jahreszahlen 1865 und 2015, daneben das Münzstättenzeichen INCM und die Initialen des Münzgestalters António Marinho.</string>
+    <string name="twoeuro_comm_2015_po_date">25.04.2015</string>
+    <string name="twoeuro_comm_2015_po_abr" translatable="false">RC</string>
+    <string name="twoeuro_comm_2015_po_short_title">Red Cross</string>
+    <string name="twoeuro_comm_2015_po_2_title">Erste Kontakte Portugals mit Timor vor 500 Jahren</string>
+    <string name="twoeuro_comm_2015_po_2_desc">1515 landete das erste portugiesische Schiff auf Timor, einer der Kleinen Sundainseln – 1586 wurde ein Großteil der Insel zur Kolonie Portugiesisch-Timor erklärt. Nach der Ausrufung der Unabhängigkeit Osttimors 1975 besetzte Indonesien das Land. Die wechselvolle Geschichte Osttimors mündete 2002 in der Gründung der – portugiesischsprachigen – Demokratischen Republik Osttimor. Die von Fernando Fonseca gestaltete Gedenkmünze zeigt eine zeitgenössische portugiesische Karavelle mit dem Prankenkreuz des Christusordens auf den Segeln sowie das Dach eines traditionellen timoresischen Hauses mit Holzskulpturen, die an Mythen und Legenden im Kontext mit der animistischen traditionellen Religion erinnern. Der auf der Münze stilisiert dargestellte First zeigt die Geschichte der ersten Einwohner, die mit einem „Beiro“ genannten Boot vom Malayischen Archipel kamen, und die Bedeutung von Pferden als Transportmittel – angesichts der steilen Berge, die die Insel fast vollständig bedecken. Die Silhouette eines „Beiro“-Bootsrumpfes sowie fünf Pferde und ihre Reiter – drei nach rechts und zwei nach links gewandt – zieren den Dachfirst. Unten ist die Unterschrift des Münzgestalters dargestellt, rechts das Münzstättenzeichen INCM.</string>
     <string name="twoeuro_comm_2015_po_2_volume">520.000 Münzen</string>
-    <string name="twoeuro_comm_2015_po_2_date">25.04.2015</string>
-    <string name="twoeuro_comm_2015_po_2_abr" translatable="false">RC</string>
-    <string name="twoeuro_comm_2015_po_2_short_title">Red Cross</string>
+    <string name="twoeuro_comm_2015_po_2_date">15.07.2015</string>
+    <string name="twoeuro_comm_2015_po_2_abr" translatable="false">Ti</string>
+    <string name="twoeuro_comm_2015_po_2_short_title">Timor</string>
     <string name="twoeuro_comm_2015_si_title">Emona – Ljubljana</string>
     <string name="twoeuro_comm_2015_si_desc">Emona, an der Stelle des heutigen Ljubljana, war ein vor 2000 Jahren gegründetes römisches Militärlager (lat. Castrum). Das von Matej Ramšak gestaltete Münzmotiv bilden eine Buchstabenkomposition des Wortes „EMONA“ bzw. „AEMONA“ und eine stilisierte Darstellung des Grundrisses der Siedlung. Das doppelte „M“ bedeutet in der Römischen Zahlschrift „2000“. Im unteren Bereich ist halbkreisförmig der Schriftzug „EMONA LJUBLJANA SLOVENIJA 2015“ aufgebracht.</string>
     <string name="twoeuro_comm_2015_si_volume">1.000.000 Münzen</string>
@@ -1421,6 +1424,13 @@
     <string name="twoeuro_comm_2015_va_date">6. Oktober 2015</string>
     <string name="twoeuro_comm_2015_va_abr" translatable="false">FP</string>
     <string name="twoeuro_comm_2015_va_short_title">Family Philadelphia</string>
+
+    <string name="twoeuro_comm_2016_ad_title">25 Jahre öffentlich-rechtlicher Rundfunk</string>
+    <string name="twoeuro_comm_2016_ad_desc"></string>
+    <string name="twoeuro_comm_2016_ad_volume">85000</string>
+    <string name="twoeuro_comm_2016_ad_date">01.07.2016</string>
+    <string name="twoeuro_comm_2016_ad_abr" translatable="false">Ru</string>
+    <string name="twoeuro_comm_2016_ad_short_title">25 Jahre Rundfunk</string>
     <string name="twoeuro_comm_2016_au_title">200. Jahrestag der Gründung der Oesterreichischen Nationalbank</string>
     <string name="twoeuro_comm_2016_au_desc">Das von Herbert Wähner gestaltete Motiv zeigt zwei Götter der römischen Mythologie, die auf dem steinernen Relief über dem Eingang des Hauptgebäudes der Oesterreichischen Nationalbank (OeNB) zu sehen sind:[720] Links Merkur, der Götterbote und Gott der Kaufleute und des Handels; rechts Fortuna, die Göttin des Schicksals und des Wohlstands, die mit einem Füllhorn dargestellt ist. Im Hintergrund des Münzinneren erstreckt sich das Hauptgebäude der OeNB vom linken zum rechten Rand. Entlang des unteren Rands des Münzinneren verläuft ein Band, das an das rot-weiß-rote Muster der österreichischen Flagge verweist; nach den heraldischen Regeln der Tingierung symbolisiert eine vertikale Schraffierung die Farbe Rot. Die Jahresangaben „1816“ und „2016“ links von Merkur beziehen sich auf das Gründungsjahr der OeNB und ihr zweihundertjähriges Jubiläum. Die Inschriften entlang der Ränder des Münzinneren lauten „Republik Österreich“ und „200 Jahre Oesterreichische Nationalbank“. Die ersten Exemplare der Gedenkmünze wurden mit dem Kursmünzensatz bereits im Dezember 2015 ausgegeben – die Rollenware folgt im Januar 2016.</string>
     <string name="twoeuro_comm_2016_au_volume">16.060.000 Münzen</string>
@@ -1535,12 +1545,12 @@
     <string name="twoeuro_comm_2016_lv_2_date">June 2016</string>
     <string name="twoeuro_comm_2016_lv_2_abr" translatable="false">AI</string>
     <string name="twoeuro_comm_2016_lv_2_short_title">Agricultural industry</string>
-    <string name="twoeuro_comm_2016_mo_title">The 150th anniversary of the foundation of Monte Carlo by Charles III</string>
-    <string name="twoeuro_comm_2016_mo_desc"></string>
-    <string name="twoeuro_comm_2016_mo_volume">15.000</string>
-    <string name="twoeuro_comm_2016_mo_date">June 2016</string>
-    <string name="twoeuro_comm_2016_mo_abr" translatable="false">FC</string>
-    <string name="twoeuro_comm_2016_mo_short_title">Foundation b. Charles III</string>
+    <string name="twoeuro_comm_2016_mc_title">The 150th anniversary of the foundation of Monte Carlo by Charles III</string>
+    <string name="twoeuro_comm_2016_mc_desc"></string>
+    <string name="twoeuro_comm_2016_mc_volume">15.000</string>
+    <string name="twoeuro_comm_2016_mc_date">June 2016</string>
+    <string name="twoeuro_comm_2016_mc_abr" translatable="false">FC</string>
+    <string name="twoeuro_comm_2016_mc_short_title">Foundation b. Charles III</string>
     <string name="twoeuro_comm_2016_mt_title">Ggantja Temples</string>
     <string name="twoeuro_comm_2016_mt_desc"></string>
     <string name="twoeuro_comm_2016_mt_volume">350.000</string>
@@ -1728,12 +1738,12 @@
     <string name="twoeuro_comm_2017_lv_2_date">14. November 2017</string>
     <string name="twoeuro_comm_2017_lv_2_abr" translatable="false">LG</string>
     <string name="twoeuro_comm_2017_lv_2_short_title">Lettgallen</string>
-    <string name="twoeuro_comm_2017_mo_title">200 Jahre Fürstliche Karabinierskompanie</string>
-    <string name="twoeuro_comm_2017_mo_desc">Abgebildet sind zwei Angehörige der Fürstlichen Karabinierskompanie vor der Westfassade und dem von Marc-Antoine Grigho um 1678 gestalteten Haupttor desFürstenpalastes,[966] das von dem Wappen Monacos überragt wird.[967] Hier residiert seit 1297 die Familie Grimaldi, ein ursprünglich genuesisches Adelsgeschlecht. Rechts ein restaurierterTurm mit Schwalbenschwanzzinnen, ehedem Teil der 1191 erbauten genuesischen Burg. Oben wird der Ausgabestaat „MONACO“ genannt, links flankiert von einem Füllhorn als französischem Münzstättenzeichen, rechts dem Münzmeisterzeichen von Yves Sampo. Unten stehen die Jahreszahlen „1817–2017 “ und „CARABINIERS DU PRINCE“ (Fürstliche Carabiniers).￼￼ Lettland14. November 2017Kurland[968][969]530.000Beschreibung:[970] Die von Laimonis Šēnbergs gestaltete Münze ist Kurland gewidmet und zeigt im Wappen der historischen Region Lettlands einen Löwen. Über dem Wappen steht als Ausgabestaat „LATVIJA“, unter dem Wappen der Schriftzug „KURZEME“. Auf der rechten Seite ist das Ausgabejahr „2017“ angegeben.</string>
-    <string name="twoeuro_comm_2017_mo_volume">15.000</string>
-    <string name="twoeuro_comm_2017_mo_date">13. November 2017</string>
-    <string name="twoeuro_comm_2017_mo_abr" translatable="false">CC</string>
-    <string name="twoeuro_comm_2017_mo_short_title">Karabinierskompanie</string>
+    <string name="twoeuro_comm_2017_mc_title">200 Jahre Fürstliche Karabinierskompanie</string>
+    <string name="twoeuro_comm_2017_mc_desc">Abgebildet sind zwei Angehörige der Fürstlichen Karabinierskompanie vor der Westfassade und dem von Marc-Antoine Grigho um 1678 gestalteten Haupttor desFürstenpalastes,[966] das von dem Wappen Monacos überragt wird.[967] Hier residiert seit 1297 die Familie Grimaldi, ein ursprünglich genuesisches Adelsgeschlecht. Rechts ein restaurierterTurm mit Schwalbenschwanzzinnen, ehedem Teil der 1191 erbauten genuesischen Burg. Oben wird der Ausgabestaat „MONACO“ genannt, links flankiert von einem Füllhorn als französischem Münzstättenzeichen, rechts dem Münzmeisterzeichen von Yves Sampo. Unten stehen die Jahreszahlen „1817–2017 “ und „CARABINIERS DU PRINCE“ (Fürstliche Carabiniers).￼￼ Lettland14. November 2017Kurland[968][969]530.000Beschreibung:[970] Die von Laimonis Šēnbergs gestaltete Münze ist Kurland gewidmet und zeigt im Wappen der historischen Region Lettlands einen Löwen. Über dem Wappen steht als Ausgabestaat „LATVIJA“, unter dem Wappen der Schriftzug „KURZEME“. Auf der rechten Seite ist das Ausgabejahr „2017“ angegeben.</string>
+    <string name="twoeuro_comm_2017_mc_volume">15.000</string>
+    <string name="twoeuro_comm_2017_mc_date">13. November 2017</string>
+    <string name="twoeuro_comm_2017_mc_abr" translatable="false">CC</string>
+    <string name="twoeuro_comm_2017_mc_short_title">Karabinierskompanie</string>
     <string name="twoeuro_comm_2017_mt_title">Unesco World Heritage Site: Maltese prehistoric temples of Hagar Qim</string>
     <string name="twoeuro_comm_2017_mt_desc">The design features Saint Peter and Saint Paul and their symbols, respectively the keys and the sword. At the top is the inscription ‘CITTÀ DEL VATICANO’, in semi-circle. At the bottom, in semi-circle is the inscription ‘1950o DEL MARTIRIO DEI SANTI PIETRO E PAOLO’. At the bottom left is the year of issuance ‘2017’ and at the bottom right is the mint mark ‘R’. Between them is the name of the artist ‘G. TITOTTO’. The coin’s outer ring bears the 12 stars of the European Union.</string>
     <string name="twoeuro_comm_2017_mt_volume">450.000</string>
@@ -1795,121 +1805,217 @@
     <string name="twoeuro_comm_2017_va_2_abr" translatable="false">FA</string>
     <string name="twoeuro_comm_2017_va_2_short_title">Fatima Apparitions</string>
 
-    <string name="twoeuro_comm_2018_ad_title">25th anniversary of the Andorran Constitution</string>
-    <string name="twoeuro_comm_2018_ad_desc"></string>
-    <string name="twoeuro_comm_2018_ad_volume">75000</string>
-    <string name="twoeuro_comm_2018_ad_date">12.04.2018</string>
-    <string name="twoeuro_comm_2018_ad_abr" translatable="false">Co</string>
-    <string name="twoeuro_comm_2018_ad_short_title">Andorran Constitution</string>
+    <string name="twoeuro_comm_2018_ad_title">"25-jähriges Jubiläum Verfassung von Andorra"</string>
+    <string name="twoeuro_comm_2018_ad_desc">"Die Münze zeigt das „Denkmal für die Männer und Frauen Andorras, die die Verfassung ins Leben gerufen haben“, das dem Platz des Parlaments („Consell General“) von Andorra steht. Dieses Denkmal zeigt die Umrisse eines Mannes und einer Frau und erinnert an den im Referendum vom 14. März 1993 zum Ausdruck gebrachten Willen Andorras, ein demokratischer und sozialer Rechtsstaat zu werden, so wie in Artikel 1 der Verfassung festgeschrieben. Auf der rechten Seite des Denkmals ist auf dem inneren Münzring die Karte Andorras mit dem lateinischen Schriftzug „VIRTVS VNITA FORTIOR“ (Tugend vereint ist stärker) zu sehen, dem staatlichen Motto des Fürstentums Andorra. Um das Bild herum ist der Schriftzug „25è ANIVERSARI DE LA CONSTITUCIÓ 1993-2018” (25. Jahrestag der Verfassung 1993-2018”) und der Ländername „ANDORRA” zu sehen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_ad_volume">"75.000"</string>
+    <string name="twoeuro_comm_2018_ad_date">"12.03.2018"</string>
+    <string name="twoeuro_comm_2018_ad_abr" translatable="false">"VA"</string>
+    <string name="twoeuro_comm_2018_ad_short_title">"Verfassung Andorras"</string>
+    <string name="twoeuro_comm_2018_ad_2_title">"70. Jahrestag der Allgemeinen Deklaration der Menschenrechte"</string>
+    <string name="twoeuro_comm_2018_ad_2_desc">"Das Motiv stellt einen abstrahierten Baum dar, in dessen Stamm Ausgabestaat „ANDORRA“ und die Jahreszahl „2018“ abzulesen sind. Die stufenartigen Äste mit feinen Blättern symbolisieren vermutlich die Stufen der Entwicklung und Ausbau der Menschenrechte. Im Hintergrund sind die Silhouette der Pyrenäen zu erkennen. Umgeben wird das Motiv vom Schriftzug „70 ANYS DE LA DECLARACIO UNIVERSALS DELS DRETS HUMANS“ (70. Jahrestag der Allgemeinen Deklaration der Menschenrechte). Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_ad_2_volume">"75.000"</string>
+    <string name="twoeuro_comm_2018_ad_2_date">"17.09.2018"</string>
+    <string name="twoeuro_comm_2018_ad_2_abr" translatable="false">"DM"</string>
+    <string name="twoeuro_comm_2018_ad_2_short_title">"Deklaration der Menschenrechte"</string>
     <string name="twoeuro_comm_2018_au_title">100 years since the foundation of the Republic of Austria</string>
     <string name="twoeuro_comm_2018_au_desc"></string>
     <string name="twoeuro_comm_2018_au_volume">18100100</string>
     <string name="twoeuro_comm_2018_au_date">06.12.2018</string>
     <string name="twoeuro_comm_2018_au_abr" translatable="false">FO</string>
     <string name="twoeuro_comm_2018_au_short_title">100y Austria</string>
-    <string name="twoeuro_comm_2018_de_title">100 years since the birth of Helmut Schmidt</string>
-    <string name="twoeuro_comm_2018_de_desc"></string>
-    <string name="twoeuro_comm_2018_de_volume">30000000</string>
-    <string name="twoeuro_comm_2018_de_date">30.01.2018</string>
-    <string name="twoeuro_comm_2018_de_abr" translatable="false">HS</string>
-    <string name="twoeuro_comm_2018_de_short_title">Helmut Schmidt</string>
-    <string name="twoeuro_comm_2018_de_2_title">Charlottenburg Palace in Berlin (Thirteenth of the Bundesländer series)</string>
-    <string name="twoeuro_comm_2018_de_2_desc"></string>
-    <string name="twoeuro_comm_2018_de_2_volume">30000000</string>
-    <string name="twoeuro_comm_2018_de_2_date">30.01.2018</string>
-    <string name="twoeuro_comm_2018_de_2_abr" translatable="false">CB</string>
-    <string name="twoeuro_comm_2018_de_2_short_title">Charlottenburg Berlin</string>
-    <string name="twoeuro_comm_2018_ee_title">100 years of Baltic States (common commemorative coin with Latvia and Lithuania)</string>
-    <string name="twoeuro_comm_2018_ee_desc"></string>
-    <string name="twoeuro_comm_2018_ee_volume">500000</string>
-    <string name="twoeuro_comm_2018_ee_date">31.01.2018</string>
-    <string name="twoeuro_comm_2018_ee_abr" translatable="false">IN</string>
-    <string name="twoeuro_comm_2018_ee_short_title">100y Baltic States</string>
-    <string name="twoeuro_comm_2018_ee_2_title">100 years independence</string>
-    <string name="twoeuro_comm_2018_ee_2_desc"></string>
-    <string name="twoeuro_comm_2018_ee_2_volume">1317800</string>
-    <string name="twoeuro_comm_2018_ee_2_date">19.02.2018</string>
-    <string name="twoeuro_comm_2018_ee_2_abr" translatable="false">IE</string>
-    <string name="twoeuro_comm_2018_ee_2_short_title">100 years </string>
-    <string name="twoeuro_comm_2018_es_title">Old town of Santiago de Compostela</string>
-    <string name="twoeuro_comm_2018_es_desc"></string>
-    <string name="twoeuro_comm_2018_es_volume">300000</string>
-    <string name="twoeuro_comm_2018_es_date">02.02.2018</string>
-    <string name="twoeuro_comm_2018_es_abr" translatable="false">SC</string>
-    <string name="twoeuro_comm_2018_es_short_title">Santiago de Compostela</string>
-    <string name="twoeuro_comm_2018_es_2_title">50 years since the birth of Felipe VI</string>
-    <string name="twoeuro_comm_2018_es_2_desc"></string>
-    <string name="twoeuro_comm_2018_es_2_volume">400000</string>
-    <string name="twoeuro_comm_2018_es_2_date">19.02.2018</string>
-    <string name="twoeuro_comm_2018_es_2_abr" translatable="false">BF</string>
-    <string name="twoeuro_comm_2018_es_2_short_title">50 years Felipe</string>
-    <string name="twoeuro_comm_2018_fi_title">National Landscape Koli</string>
-    <string name="twoeuro_comm_2018_fi_desc"></string>
-    <string name="twoeuro_comm_2018_fi_volume">1000000</string>
-    <string name="twoeuro_comm_2018_fi_date">28.05.2018</string>
-    <string name="twoeuro_comm_2018_fi_abr" translatable="false">NL</string>
-    <string name="twoeuro_comm_2018_fi_short_title">Landscape Koli</string>
-    <string name="twoeuro_comm_2018_fr_title">Bleuet de France</string>
-    <string name="twoeuro_comm_2018_fr_desc"></string>
-    <string name="twoeuro_comm_2018_fr_volume">10020000</string>
-    <string name="twoeuro_comm_2018_fr_date">19.02.2018</string>
-    <string name="twoeuro_comm_2018_fr_abr" translatable="false">BF</string>
-    <string name="twoeuro_comm_2018_fr_short_title">Bleuet de France</string>
-    <string name="twoeuro_comm_2018_it_title">70 years since the Constitution of Italy</string>
-    <string name="twoeuro_comm_2018_it_desc"></string>
-    <string name="twoeuro_comm_2018_it_volume">4000000</string>
-    <string name="twoeuro_comm_2018_it_date">02.01.2018</string>
-    <string name="twoeuro_comm_2018_it_abr" translatable="false">CI</string>
-    <string name="twoeuro_comm_2018_it_short_title">70y Constitution</string>
-    <string name="twoeuro_comm_2018_it_2_title">60 years since the formation of the Ministry of Health</string>
-    <string name="twoeuro_comm_2018_it_2_desc"></string>
-    <string name="twoeuro_comm_2018_it_2_volume">3000000</string>
-    <string name="twoeuro_comm_2018_it_2_date">05.03.2018</string>
-    <string name="twoeuro_comm_2018_it_2_abr" translatable="false">MH</string>
-    <string name="twoeuro_comm_2018_it_2_short_title">Ministry of Health</string>
-    <string name="twoeuro_comm_2018_lt_title">100 years since independence (common commemorative coin with Estonia and Latvia)</string>
-    <string name="twoeuro_comm_2018_lt_desc"></string>
-    <string name="twoeuro_comm_2018_lt_volume">1000000</string>
-    <string name="twoeuro_comm_2018_lt_date">31.01.2018</string>
-    <string name="twoeuro_comm_2018_lt_abr" translatable="false">IN</string>
-    <string name="twoeuro_comm_2018_lt_short_title">100y Independence</string>
-    <string name="twoeuro_comm_2018_lu_title">150 years since the Constitution of Luxembourg</string>
-    <string name="twoeuro_comm_2018_lu_desc"></string>
-    <string name="twoeuro_comm_2018_lu_volume">313500</string>
-    <string name="twoeuro_comm_2018_lu_date">27.12.2018</string>
-    <string name="twoeuro_comm_2018_lu_abr" translatable="false">CL</string>
-    <string name="twoeuro_comm_2018_lu_short_title">150y Luxembourg</string>
-    <string name="twoeuro_comm_2018_lv_title">100 years since independence (common commemorative coin with Estonia and Lithuania)</string>
-    <string name="twoeuro_comm_2018_lv_desc"></string>
-    <string name="twoeuro_comm_2018_lv_volume">512000</string>
-    <string name="twoeuro_comm_2018_lv_date">31.01.2018</string>
-    <string name="twoeuro_comm_2018_lv_abr" translatable="false">In</string>
-    <string name="twoeuro_comm_2018_lv_short_title">100y Independence</string>
-    <string name="twoeuro_comm_2018_po_title">250 anniversary of Portugal National Printing Works</string>
-    <string name="twoeuro_comm_2018_po_desc"></string>
-    <string name="twoeuro_comm_2018_po_volume">520000</string>
-    <string name="twoeuro_comm_2018_po_date">22.05.2018</string>
-    <string name="twoeuro_comm_2018_po_abr" translatable="false">NP</string>
-    <string name="twoeuro_comm_2018_po_short_title">National Printing Works</string>
-    <string name="twoeuro_comm_2018_si_title">World Bees Day</string>
-    <string name="twoeuro_comm_2018_si_desc"></string>
-    <string name="twoeuro_comm_2018_si_volume"></string>
-    <string name="twoeuro_comm_2018_si_date">14.05.2018</string>
-    <string name="twoeuro_comm_2018_si_abr" translatable="false">Be</string>
-    <string name="twoeuro_comm_2018_si_short_title">Bees Day</string>
-    <string name="twoeuro_comm_2018_sk_title">25th anniversary of the establishment of the Slovak Republic</string>
-    <string name="twoeuro_comm_2018_sk_desc"></string>
-    <string name="twoeuro_comm_2018_sk_volume">1000000</string>
-    <string name="twoeuro_comm_2018_sk_date">03.01.2018</string>
-    <string name="twoeuro_comm_2018_sk_abr" translatable="false">Es</string>
-    <string name="twoeuro_comm_2018_sk_short_title">25y Establishment</string>
-    <string name="twoeuro_comm_2018_sm_title">500 years since the birth of Tintoretto</string>
-    <string name="twoeuro_comm_2018_sm_desc"></string>
-    <string name="twoeuro_comm_2018_sm_volume">60500</string>
-    <string name="twoeuro_comm_2018_sm_date">05.04.2018</string>
-    <string name="twoeuro_comm_2018_sm_abr" translatable="false">Ti</string>
-    <string name="twoeuro_comm_2018_sm_short_title">Tintoretto</string>
-    
+    <string name="twoeuro_comm_2018_be_title">"50. Jahrestag der Ereignisse vom Mai 1968 in Belgien"</string>
+    <string name="twoeuro_comm_2018_be_desc">"Das Motiv zeigt Studenten mit einem Pamphlet und einer Flagge in der Hand und bezieht sich auf Studentendemonstrationen, die in Belgien im Mai 1968 im Zusammenhang mit den soziokulturellen Veränderungen stattfanden. Diese nun 50 Jahre zurückliegenden Ereignisse waren von landesweiter Bedeutung und haben sich auf die belgische Politik und nachfolgende Staatsreformen ausgewirkt. Das Münzzeichen von Utrecht (Hermesstab) und das belgische Zeichen der Münzmeister (Wappen der Gemeinde Herzele) sind links abgebildet. Die Jahreszahl 2018 und der Ländercode BE befinden sich ebenfalls links, und unmittelbar darunter stehen die Initialen LL des Münzdesigners Luc Luycx. Im Hintergrund ist ein Auditorium zu sehen, das auf den studentischen Kontext verweist. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_be_volume">"260.000"</string>
+    <string name="twoeuro_comm_2018_be_date">"31.05.2018"</string>
+    <string name="twoeuro_comm_2018_be_abr" translatable="false">"JM"</string>
+    <string name="twoeuro_comm_2018_be_short_title">"Mai 1968"</string>
+    <string name="twoeuro_comm_2018_de_title">"Berlin"</string>
+    <string name="twoeuro_comm_2018_de_desc">"Das Schloss Charlottenburg bildet das Motiv der 2-Euro-Gedenkmünze Berlin 2018.  Die Münze ist die dreizehnte Ausgabe der 2-Euro-Gedenkmünzenserie „Die Bundesländer“. Der Entwurf zeigt die Gartenseite des Charlottenburger Schlosses in Berlin. Die optische Hinführung auf das Hauptmotiv ist gut gelungen. Die sehr zarte und detailreiche Fassadenausarbeitung vermittelt Eleganz. Die ausgewogene Typografie ergänzt die Arbeit auf harmonische Weise."</string>
+    <string name="twoeuro_comm_2018_de_volume">"30.000.000"</string>
+    <string name="twoeuro_comm_2018_de_date">"30.01.2018"</string>
+    <string name="twoeuro_comm_2018_de_abr" translatable="false">"BE"</string>
+    <string name="twoeuro_comm_2018_de_short_title">"Berlin"</string>
+    <string name="twoeuro_comm_2018_de_2_title">"100. Geburtstag von Helmut Schmidt"</string>
+    <string name="twoeuro_comm_2018_de_2_desc">"Das Motiv zeigt Helmut Schmidt in typischer Haltung im Gespräch. Rechts oben ist halbkreisförmig sein Name „HELMUT SCHMIDT“ zu lesen, darunter stehen rechts die Jahreszahlen „1918-2015“. Das Münzzeichen der betreffenden Münzprägeanstalt ist unter den Jahreszahlen zu lesen. Links steht das Kürzel des Ausgabestaats, „D“, darunter das Jahr der Ausstellung, „2018“. Ganz unten befinden sich die Initialen des Künstlers. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_de_2_volume">"30.000.000"</string>
+    <string name="twoeuro_comm_2018_de_2_date">"30.01.2018"</string>
+    <string name="twoeuro_comm_2018_de_2_abr" translatable="false">"HS"</string>
+    <string name="twoeuro_comm_2018_de_2_short_title">"Helmut Schmidt"</string>
+    <string name="twoeuro_comm_2018_ee_title">"Baltische Gemeinschaftsausgabe - 100 Jahre Unabhängigkeit"</string>
+    <string name="twoeuro_comm_2018_ee_desc">"Die drei baltischen Mitgliedstaaten werden symbolisch als ein Zopf dargestellt. Sie sind durch ihre Geschichte verbunden: eine gemeinsame Vergangenheit, Gegenwart und Zukunft. Eine stilisierte Ziffer zum 100. Jahrestag und die heraldischen Zeichen aller drei Mitgliedstaaten sind ebenfalls dargestellt. Auf der linken Seite steht der Name des Ausgabestaates „EESTI" und auf der rechten Seite das Ausgabejahr „2018". Das Münzmotiv wurde nach einer öffentlichen Abstimmung in allen drei baltischen Ländern ausgewählt. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_ee_volume">"515.000"</string>
+    <string name="twoeuro_comm_2018_ee_date">"31.01.2018"</string>
+    <string name="twoeuro_comm_2018_ee_abr" translatable="false">"GU"</string>
+    <string name="twoeuro_comm_2018_ee_short_title">"100 Jahre Unabhängigkeit"</string>
+    <string name="twoeuro_comm_2018_ee_2_title">"100 Jahre Republik Estland"</string>
+    <string name="twoeuro_comm_2018_ee_2_desc">"In dem Motiv lassen sich sowohl die Zahl 18 als auch die Zahl 100 erkennen. Dies symbolisiert den Zeitpunkt, zu dem Estland unabhängig wurde, spiegelt aber zugleich die vergangenen hundert Jahre wider. Unten rechts ist der Text „SADA AASTAT EESTI VABARIIKI“ zu lesen, daran schließen sich der Name des Landes, „EESTI“, und das Jahr der Ausstellung, „2018“, an. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_ee_2_volume">"1.317.800"</string>
+    <string name="twoeuro_comm_2018_ee_2_date">"19.02.2018"</string>
+    <string name="twoeuro_comm_2018_ee_2_abr" translatable="false">"JE"</string>
+    <string name="twoeuro_comm_2018_ee_2_short_title">"100 Jahre Estland"</string>
+    <string name="twoeuro_comm_2018_es_title">"UNESCO Welterbeserie - Altstadt von Santiago de Compostela"</string>
+    <string name="twoeuro_comm_2018_es_desc">"Die Stadt Santiago de Compostela wurde im Jahr 1985 aufgrund ihrer Schönheit und Denkmäler sowie der spirituellen und kulturellen Bedeutung der Stadt im Mittelalter (Pilgerweg „Camino de Santiago" oder „Jakobsweg") zum Weltkulturerbe der UNESCO erklärt. Beim „Camino de Santiago" oder „Jakobsweg" handelt es sich um ein großes Netz alter Pilgerwege in ganz Europa, die am Grab von St. Jakob in der Stadt Santiago de Compostela im Nordwesten Spaniens zusammenlaufen. Das Münzmotiv stellt die Skulptur von St. Jakob inmitten der heiligen Pforte der Kathedrale von Santiago de Compostela dar. Auf dem linken inneren Münzring steht halbkreisförmig das Wort „ESPAÑA" über dem Ausgabejahr „2018". Darunter ist das Münzzeichen zu sehen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_es_volume">"300.000"</string>
+    <string name="twoeuro_comm_2018_es_date">"01.02.2018"</string>
+    <string name="twoeuro_comm_2018_es_abr" translatable="false">"SC"</string>
+    <string name="twoeuro_comm_2018_es_short_title">"Santiago de Compostela"</string>
+    <string name="twoeuro_comm_2018_es_2_title">"50. Geburtstag von König Felipe VI."</string>
+    <string name="twoeuro_comm_2018_es_2_desc">"Das Münzmotiv stellt das Wappen von König Felipe VI dar. Auf der linken Seite steht im Halbkreis das Wort „ESPAÑA" und darunter das Ausgabejahr 2018. Am unteren rechten Rand steht im Halbkreis der Schriftzug „50 ANIVERSARIO DE S.M. FELIPE VI". Das Zeichen der Münzstätte ist rechts oben zu sehen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_es_2_volume">"400.000"</string>
+    <string name="twoeuro_comm_2018_es_2_date">"01.02.2018"</string>
+    <string name="twoeuro_comm_2018_es_2_abr" translatable="false">"KF"</string>
+    <string name="twoeuro_comm_2018_es_2_short_title">"Geburtstag von König Felipe VI."</string>
+    <string name="twoeuro_comm_2018_fi_title">"Finnische Nationallandschaft - Koli"</string>
+    <string name="twoeuro_comm_2018_fi_desc">"Das Münzinnere zeigt eine Zeichnung der Aussicht von der Spitze des Berges Koli auf den gleichnamigen Nationalpark. Das Ausgabejahr „2018“ ist unten in der Mitte angegeben. Das Kürzel des Ausgabestaats „FI“ ist in der Mitte links und das Münzzeichen in der Mitte rechts zu sehen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_fi_volume">"1.000.000"</string>
+    <string name="twoeuro_comm_2018_fi_date">"28.05.2018"</string>
+    <string name="twoeuro_comm_2018_fi_abr" translatable="false">"Ko"</string>
+    <string name="twoeuro_comm_2018_fi_short_title">"Finnische Nationallandschaft"</string>
+    <string name="twoeuro_comm_2018_fi_2_title">"Finnische Saunakultur"</string>
+    <string name="twoeuro_comm_2018_fi_2_desc">"Das Münzinnere zeigt eine finnische Landschaft mit einer typischen finnischen Strandsauna in der Mitte. Das Ausgabejahr „2018“ ist unten in der Mitte angegeben. Das Kürzel des Ausgabestaats „FI“ ist in der Mitte links und das Münzzeichen in der Mitte rechts zu sehen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_fi_2_volume">"1.000.000"</string>
+    <string name="twoeuro_comm_2018_fi_2_date">"22.10.2018"</string>
+    <string name="twoeuro_comm_2018_fi_2_abr" translatable="false">"FS"</string>
+    <string name="twoeuro_comm_2018_fi_2_short_title">"Finnische Saunakultur"</string>
+    <string name="twoeuro_comm_2018_fr_title">"Kornblume von Frankreich"</string>
+    <string name="twoeuro_comm_2018_fr_desc">"Seit 100 Jahren repräsentiert die Kornblume das Gedenken und die Solidarität Frankreichs. Entstanden ist sie als Zeichen des Willens, aus dem Ersten Weltkrieg 1914-1918 heimkehrenden Veteranen Unterstützung zu leisten. Rasch wurde diese kleine Blume zum Symbol der gesamten französischen Nation, mit der das Opfer ihrer Soldaten beim Kampf für ihr Land und ihre Ideale anerkannt wurde. Heutzutage wird mit der „Bleuet de France" ihre traditionelle Aufgabe der moralischen und finanziellen Unterstützung der Veteranen und Kriegsopfer der Vergangenheit und der Gegenwart sowie den Opfern des Terrorismus Rechnung getragen. Diese kleine Blume trägt ebenfalls zur Übermittlung von Standpunkten und Werten wie Respekt, Frieden und Toleranz für junge Menschen bei. Das Gedenken gilt all jenen, die für unsere Freiheit kämpften und immer noch kämpfen."</string>
+    <string name="twoeuro_comm_2018_fr_volume">"15.000.000"</string>
+    <string name="twoeuro_comm_2018_fr_date">"21.02.2018"</string>
+    <string name="twoeuro_comm_2018_fr_abr" translatable="false">"KB"</string>
+    <string name="twoeuro_comm_2018_fr_short_title">"Kornblume"</string>
+    <string name="twoeuro_comm_2018_fr_2_title">"Simone Veil"</string>
+    <string name="twoeuro_comm_2018_fr_2_desc">"Das Münzmotiv zeigt ein Porträt von Simone Veil, einer Leitfigur im Kampf für die Rechte der Frauen. Simone Veil, geborene Jacob, ist im Juni 2017 im Alter von 89 Jahren verstorben. Sie überlebte die Deportation nach Auschwitz und wurde zu einer der wichtigsten Figuren beim Aufbau Europas. Von 1979 bis 1982 war sie die erste gewählte Präsidentin des Europäischen Parlaments. Sie steht für die Legalisierung des Schwangerschaftsabbruchs, für die sie sich einsetzte und die 1975 durch ein nach ihr benanntes Gesetz beschlossen wurde. Seit 2008 war sie Mitglied der Académie française. Ihre Häftlingsnummer erscheint auf ihrem Kragen. Im Hintergrund ist das Europäische Parlament abgebildet und stehen ihr Name, das Geburts- und das Todesjahr, die Länderbezeichnung „RF“, das Ausgabejahr „2018“ sowie die Münzzeichen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_fr_2_volume">"15.000.000"</string>
+    <string name="twoeuro_comm_2018_fr_2_date">"29.06.2018"</string>
+    <string name="twoeuro_comm_2018_fr_2_abr" translatable="false">"SV"</string>
+    <string name="twoeuro_comm_2018_fr_2_short_title">"Simone Veil"</string>
+    <string name="twoeuro_comm_2018_gr_title">"70. Jahrestag der Vereinigung des Dodekanes mit Griechenland"</string>
+    <string name="twoeuro_comm_2018_gr_desc">"Das Münzinnere zeigt als zentrales Motiv eine Rose als Zeichen für Rhodos, inspiriert durch eine von der antiken Stadt Rhodos geprägten Münze, die eine der charakteristischsten Münzen des Dodekanes ist; von der Mitte aus fließen stilisierte Wellen nach außen. Entlang des inneren Rands sind die Worte „1948-2018 VEREINIGUNG DES DODEKANES MIT GRIECHENLAND“ und „HELLENISCHE REPUBLIK“ (in griechischer Schrift) zu lesen. Ferner sind links eine Palmette (Münzzeichen der griechischen Prägeanstalt) und rechts das Monogramm des Münzdesigners (George Stamatopoulos) zu sehen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_gr_volume">"750.000"</string>
+    <string name="twoeuro_comm_2018_gr_date">"30.07.2018"</string>
+    <string name="twoeuro_comm_2018_gr_abr" translatable="false">"VD"</string>
+    <string name="twoeuro_comm_2018_gr_short_title">"Vereinigung Dodekanes mit Griechenland"</string>
+    <string name="twoeuro_comm_2018_gr_2_title">"75. Todestag von Kostis Palamas"</string>
+    <string name="twoeuro_comm_2018_gr_2_desc">"Das Münzinnere zeigt ein Porträt des griechischen Dichters Kostis Palamas (1859-1943). Entlang des inneren Münzrands sind links die Worte „HELLENISCHE REPUBLIK“ und der Name „KOSTIS PALAMAS“ (in griechischer Schrift) zu lesen. Ferner sind eine Palmette (Münzzeichen der griechischen Prägeanstalt) und das Ausgabejahr „2018“ zu sehen. Unten rechts befindet sich das Monogramm des Münzdesigners (George Stamatopoulos). Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_gr_2_volume">"750.000"</string>
+    <string name="twoeuro_comm_2018_gr_2_date">"30.07.2018"</string>
+    <string name="twoeuro_comm_2018_gr_2_abr" translatable="false">"KP"</string>
+    <string name="twoeuro_comm_2018_gr_2_short_title">"Kostis Palamas"</string>
+    <string name="twoeuro_comm_2018_it_title">"70. Jahrestag der Entstehung der italienischen Verfassung"</string>
+    <string name="twoeuro_comm_2018_it_desc">"Enrico De Nicola fertigt als vorläufiges Staatsoberhaupt am 27. Dezember 1947 die Verfassung der Italienischen Republik aus. Rechts von De Nicolas ist Regierungschef Alcide De Gasperi zu sehen, zu seiner Linken der Präsident der Verfassunggebenden Versammlung Italiens, Umberto Terracini. Im oberen Teil der Münze sind der Schriftzug „CONSTITUZIONE“ sowie das Monogramm der Italienischen Republik, „RI“, zu lesen. Im unteren Teil der nationalen Seite stehen der Schriftzug „CON SICURA COSCIENZA“, das Münzzeichen der Münze von Rom, „R“, und die Daten „1948 • 2018“, also das Jahr des Inkrafttretens der italienischen Verfassung und das Ausgabejahr der Münze. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_it_volume">"4.000.000"</string>
+    <string name="twoeuro_comm_2018_it_date">"02.01.2018"</string>
+    <string name="twoeuro_comm_2018_it_abr" translatable="false">"IV"</string>
+    <string name="twoeuro_comm_2018_it_short_title">"Italienischen Verfassung"</string>
+    <string name="twoeuro_comm_2018_it_2_title">"60. Jahrestag der Gründung des Gesundheitsministeriums"</string>
+    <string name="twoeuro_comm_2018_it_2_desc">"Das Münzinnere zeigt eine allegorische Darstellung der Gesundheit sowie einige Symbole für die Tätigkeiten des Ministeriums: Umwelt, Forschung, Ernährung und Medizin. Links ist das Kürzel der Republik Italien „RI“ und oben das Münzzeichen der Münze von Rom „R“ zu sehen; an der Basis der weiblichen Figur sind die Initialen der Künstlerin Silvia Petrassi abgebildet. Von links nach rechts sind im Halbkreis der Schriftzug „MINISTERO DELLA SALUTE“ (Gesundheitsministerium) und die Jahreszahlen „1958-2018“ zu lesen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_it_2_volume">"3.000.000"</string>
+    <string name="twoeuro_comm_2018_it_2_date">"05.03.2018"</string>
+    <string name="twoeuro_comm_2018_it_2_abr" translatable="false">"GU"</string>
+    <string name="twoeuro_comm_2018_it_2_short_title">"100 Jahre Unabhängigkeit"</string>
+    <string name="twoeuro_comm_2018_lt_title">"Baltische Gemeinschaftsausgabe - 100 Jahre Unabhängigkeit"</string>
+    <string name="twoeuro_comm_2018_lt_desc">"Die drei baltischen Mitgliedstaaten werden symbolisch als ein Zopf dargestellt. Sie sind durch ihre Geschichte verbunden: eine gemeinsame Vergangenheit, Gegenwart und Zukunft. Eine stilisierte Ziffer zum 100. Jahrestag und die heraldischen Zeichen aller drei Mitgliedstaaten sind ebenfalls dargestellt. Auf der linken Seite stehen der Name des Ausgabestaates „LIETUVA" und das Münzzeichen, und auf der rechten Seite das Ausgabejahr "2018" und das Zeichen des Künstlers „JP". Das Münzmotiv wurde nach einer öffentlichen Abstimmung in allen drei baltischen Ländern ausgewählt. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_lt_volume">"1.000.000"</string>
+    <string name="twoeuro_comm_2018_lt_date">"31.01.2018"</string>
+    <string name="twoeuro_comm_2018_lt_abr" translatable="false">"JU"</string>
+    <string name="twoeuro_comm_2018_lt_short_title">"100 Jahre Unabhängigkeit"</string>
+    <string name="twoeuro_comm_2018_lt_2_title">"Gesang- und Tanzfestival 2018"</string>
+    <string name="twoeuro_comm_2018_lt_2_desc">"Das Münzinnere zeigt stilisierte Abbildungen von Menschen und Vögeln, die für die zur litauischen Volkskunst zählenden Scherenschnitt-Kunst typisch sind und Volkstänze und Gesang symbolisieren. Unten in der Mitte ist der Ausgabestaat „LIETUVA“, links das Ausgabejahr „2018“ und rechts das Münzzeichen der litauischen Münzprägeanstalt eingraviert. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_lt_2_volume">"500.000"</string>
+    <string name="twoeuro_comm_2018_lt_2_date">"26.06.2018"</string>
+    <string name="twoeuro_comm_2018_lt_2_abr" translatable="false">"GT"</string>
+    <string name="twoeuro_comm_2018_lt_2_short_title">"Gesang- und Tanzfestival"</string>
+    <string name="twoeuro_comm_2018_lu_title">"150. Jahrestag der Luxemburger Verfassung"</string>
+    <string name="twoeuro_comm_2018_lu_desc">"Die nationale Seite zeigt links ein Bildnis Seiner Königlichen Hoheit Henri, Großherzog von Luxemburg, der nach rechts blickt. Rechts sind die Jahreszahlen „1868-2018“ sowie „150 Jahre“ zu lesen. Unter dem Bildnis des Großherzogs steht „Verfassung des Großherzogtums Luxemburgs“, zudem ist der Querschnitt eines aufgeschlagenen Buchs zu sehen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_lu_volume">"316.000"</string>
+    <string name="twoeuro_comm_2018_lu_date">"08.01.2018"</string>
+    <string name="twoeuro_comm_2018_lu_abr" translatable="false">"LV"</string>
+    <string name="twoeuro_comm_2018_lu_short_title">"Luxemburger Verfassung"</string>
+    <string name="twoeuro_comm_2018_lu_2_title">"175. Todestag von Großherzog Guillaume I."</string>
+    <string name="twoeuro_comm_2018_lu_2_desc">"Die Münze zeigt ein Abbild von Großherzog Guillaume I."</string>
+    <string name="twoeuro_comm_2018_lu_2_volume">"300.000"</string>
+    <string name="twoeuro_comm_2018_lu_2_date">"01.11.2018"</string>
+    <string name="twoeuro_comm_2018_lu_2_abr" translatable="false">"GG"</string>
+    <string name="twoeuro_comm_2018_lu_2_short_title">"Großherzog Guillaume I."</string>
+    <string name="twoeuro_comm_2018_lv_title">"Baltische Gemeinschaftsausgabe - 100 Jahre Unabhängigkeit"</string>
+    <string name="twoeuro_comm_2018_lv_desc">"Die drei baltischen Mitgliedstaaten werden symbolisch als ein Zopf dargestellt. Sie sind durch ihre Geschichte verbunden: eine gemeinsame Vergangenheit, Gegenwart und Zukunft. Eine stilisierte Ziffer zum 100. Jahrestag und die heraldischen Zeichen aller drei Mitgliedstaaten sind ebenfalls dargestellt. Auf der linken Seite steht der Name des Ausgabestaates „LATVIJA" und auf der rechten Seite das Ausgabejahr „2018". Das Münzmotiv wurde nach einer öffentlichen Abstimmung in allen drei baltischen Ländern ausgewählt. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_lv_volume">"512.000"</string>
+    <string name="twoeuro_comm_2018_lv_date">"31.01.2018"</string>
+    <string name="twoeuro_comm_2018_lv_abr" translatable="false">"JU"</string>
+    <string name="twoeuro_comm_2018_lv_short_title">"100 Jahre Unabhängigkeit"</string>
+    <string name="twoeuro_comm_2018_lv_2_title">"Regionen Lettlands - Semgallen/ Zemgale"</string>
+    <string name="twoeuro_comm_2018_lv_2_desc">"Wappen der Region Zemgale. Darüber ist der Name des Ausgabestaats „LATVIJA“ eingraviert, unter dem Wappen der Schriftzug „ZEMGALE“. Auf der rechten Seite ist das Ausgabejahr „2018“ zu lesen."</string>
+    <string name="twoeuro_comm_2018_lv_2_volume">"530.000"</string>
+    <string name="twoeuro_comm_2018_lv_2_date">"10.09.2018"</string>
+    <string name="twoeuro_comm_2018_lv_2_abr" translatable="false">"SZ"</string>
+    <string name="twoeuro_comm_2018_lv_2_short_title">"Semgallen - Zemgale"</string>
+    <string name="twoeuro_comm_2018_mt_title">"Mnajdra (Serie Prähistorische Stätten Maltas)"</string>
+    <string name="twoeuro_comm_2018_mt_desc">"Das Münzinnere zeigt die prähistorischen maltesischen Tempel von Mnajdra, die Teil des UNESCO-Weltkulturerbes sind. Die prähistorischen Stätten von Mnajdra bestehen aus drei Tempeln, die um einen ovalen Vorplatz gruppiert sind. Sie befinden sich an der Südküste Maltas, in rund 500 m Entfernung von Hagar Qim. Mnajdra ist bekannt für seine astronomische Ausrichtung; der Süd-Tempel wurde offenbar errichtet, um die Tagundnachtgleiche und die Sommersonnenwende zu markieren. Die ältesten Teile des Komplexes datieren von etwa 3600-3200 v. Chr. Am oberen rechten Rand des Münzmotivs befinden sich untereinander angebracht die Aufschriften „MNAJDRA“, „TEMPLES“ und die Jahreszahlen „3600-2500 BC“. Am unteren linken Rand des Münzinneren sind der Name des Ausgabestaates „MALTA“ und darunter das Ausgabejahr „2018“ zu sehen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_mt_volume">"335.000"</string>
+    <string name="twoeuro_comm_2018_mt_date">"16.07.2018"</string>
+    <string name="twoeuro_comm_2018_mt_abr" translatable="false">"MJ"</string>
+    <string name="twoeuro_comm_2018_mt_short_title">"Mnajdra"</string>
+    <string name="twoeuro_comm_2018_mt_2_title">"Kulturelles Erbe (Serie: Von Kindern mit Solidarität)"</string>
+    <string name="twoeuro_comm_2018_mt_2_desc">"Ab 2016 erscheint in Malta eine auf 5 Jahre angelegte Serie mit dem Thema „Mit-tfal b'Solidarjetà“ (dt. Von Kindern mit Solidarität). Das Programm, welches in Zusammenarbeit mit „The Malta Community Chest Fund“ (dt. etwa Gemeindeverfügungsfonds) offiziell am 5. Juni 2015 durch die Präsidentin von Malta Marie-Louise Coleiro Preca eröffnet wurde. Was das Design angeht, so wird in den Schulen Maltas ein Wettbewerb veranstaltet werden. Das Münzdesign wird symbolisiert die Liebe im weiteren Sinne, um den wichtigen Aspekt der Solidarität Rechnung zu tragen. Nach einer Auswahl von 5 Projekten für jedes Jahr, wird eine Wahl den jeweiligen Sieger küren. Die folgenden Plätze werden auch ausgezeichnet und auf den Gedenkmünzen Maltas in den kommenden Jahren abgebildet."</string>
+    <string name="twoeuro_comm_2018_mt_2_volume">"320.000"</string>
+    <string name="twoeuro_comm_2018_mt_2_date">"05.11.2018"</string>
+    <string name="twoeuro_comm_2018_mt_2_abr" translatable="false">"KE"</string>
+    <string name="twoeuro_comm_2018_mt_2_short_title">"Kulturelles Erbe"</string>
+    <string name="twoeuro_comm_2018_mc_title">"250. Geburtstag von François-Joseph Bosio"</string>
+    <string name="twoeuro_comm_2018_mc_desc">"Das Motiv zeigt das linkerhand das Porträt von François-Joseph Bosio (1768-1845), den monegassischen Bildhauer, Maler, Zeichner und Kupferstecher. Rechts davon ist die Statue der Nymphe Salmacis abgebildet. Unterhalb ist der Schriftzug „FRANÇOIS JOSEPH BOSIO“, „1768 · SCULPTEUR · 2018“ und die Prägezeichen der französischen Münzstätte und von Yves Sampo zu sehen. Oberhalb des Motivs ist der Ausgabestaat „MONACO“ zu erkennen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_mc_volume">"15.000"</string>
+    <string name="twoeuro_comm_2018_mc_date">"16.07.2018"</string>
+    <string name="twoeuro_comm_2018_mc_abr" translatable="false">"JB"</string>
+    <string name="twoeuro_comm_2018_mc_short_title">"François-Joseph Bosio"</string>
+    <string name="twoeuro_comm_2018_po_title">"250 Jahre Nationale Druckerei"</string>
+    <string name="twoeuro_comm_2018_po_desc">"Das Motiv zeigt einen achtzeiligen Schriftzug zum Gedenken an den 250. Jahrestag der Gründung der nationalen Prägestätte: „1768 – 2018, IMPRENSA, NACIONAL, DUZENTOS E, CINQUENTA, 250 ANOS, PORTUGAL, MMMXVIII“. Die Zahlen und Buchstaben sind dabei ähnlich zu Büchern in einem Büchereiregal angeordnet. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_po_volume">"520.000"</string>
+    <string name="twoeuro_comm_2018_po_date">"22.05.2018"</string>
+    <string name="twoeuro_comm_2018_po_abr" translatable="false">"ND"</string>
+    <string name="twoeuro_comm_2018_po_short_title">"Nationale Druckerei"</string>
+    <string name="twoeuro_comm_2018_po_2_title">"250 Jahre Botanische Gärten von Ajuda in Lissabon"</string>
+    <string name="twoeuro_comm_2018_po_2_desc">"Kanarischer Drachenbaum (Dracaena draco) im botanischen Garten von Ajuda (Jardim Botânico da Ajuda) in Lissabon. Die Umschrift oberhalb lautet „250 ANOS JARDIM BOTANICO DA AJUDA“ und unterhalb „PORTUGAL 2018“."</string>
+    <string name="twoeuro_comm_2018_po_2_volume">"520.000"</string>
+    <string name="twoeuro_comm_2018_po_2_date">"09.07.2018"</string>
+    <string name="twoeuro_comm_2018_po_2_abr" translatable="false">"BG"</string>
+    <string name="twoeuro_comm_2018_po_2_short_title">"Botanische Gärten"</string>
+    <string name="twoeuro_comm_2018_si_title">"Weltbienentag"</string>
+    <string name="twoeuro_comm_2018_si_desc">"Das Motiv zeigt eine Bienenwabe in Form einer Weltkugel, die die östliche Hemisphäre zeigt, abgebildet. Um die Bienenwabe herum befindet sich links oben der Schriftzug „SVETOVNI DAN CEBEL“ (Weltbienentag) und unten rechts der Schriftzug „SLOVENIJA 2018“.  Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge zu sehen."</string>
+    <string name="twoeuro_comm_2018_si_volume">"1.000.000"</string>
+    <string name="twoeuro_comm_2018_si_date">"14.05.2018"</string>
+    <string name="twoeuro_comm_2018_si_abr" translatable="false">"WB"</string>
+    <string name="twoeuro_comm_2018_si_short_title">"Weltbienentag"</string>
+    <string name="twoeuro_comm_2018_sk_title">"25. Jahrestag der Republik Slowakei"</string>
+    <string name="twoeuro_comm_2018_sk_desc">"Das Motiv symbolisiert den Beitritt der Slowakei zur Europäischen Union und zum Euro-Währungsgebiet. Gezeigt ist ein stilisiertes Portal, das sowohl eine Landkarte der Slowakei als auch ein von den Sternen der Europäischen Union umgebenes Euro-Symbol überspannt; einige der Sterne sind von der Landkarte verdeckt. Auf der linken Seite des Motivs ist das Wappen der Slowakei zu sehen. Im linken unteren Teil steht halbkreisförmig der Name des Ausgabestaats: „SLOVENSKÁ REPUBLIKA“. Das Datum der Gründung der Slowakischen Republik, 1.1.1993, sowie das Ausgabejahr der Münze, 2018, sind unter dem rechten Teil der Landkarte untereinander angeordnet. Zwischen der Landkarte und den Daten sind zwischen zwei Prägeformen das Zeichen „MK“ der Münzprägeanstalt Kremnica (Mincovna Kremnica) sowie die stilisierten Initialen „PK“ des Münzgestalters Pavel Károly zu erkennen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_sk_volume">"1.000.000"</string>
+    <string name="twoeuro_comm_2018_sk_date">"03.01.2018"</string>
+    <string name="twoeuro_comm_2018_sk_abr" translatable="false">"JT"</string>
+    <string name="twoeuro_comm_2018_sk_short_title">"25. Jahrestag Slowakei"</string>
+    <string name="twoeuro_comm_2018_sm_title">"500. Geburtstag von Jacopo Tintoretto"</string>
+    <string name="twoeuro_comm_2018_sm_desc">"Die Bildseite der von Luciana de Simoni entworfenen Münze zeigt einen Ausschnitt aus Tintorettos Gemälde „Visitazione“ (dt. Mariä Heimsuchung). Es entstand in der „Scuola Grande di San Rocco”, Venedig im Jahre 1588 und zeigt die schwangere Maria, die sich auf den Weg machte, um ihre Verwandte Elisabeth zu besuchen, um die Freude mit ihr zu teilen. Am linken oberen Bildrand ist der Ausgabestaat „SAN MARINO“ sowie das Prägezeichen der römischen Münzstätte „R“ zu sehen. Unterhalb des Motives sind die Jahreszahlen „1518“ und „2018“ sowie der Name des großen Malers „TINTORETTO“ abgebildet. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_sm_volume">"60.500"</string>
+    <string name="twoeuro_comm_2018_sm_date">"05.04.2018"</string>
+    <string name="twoeuro_comm_2018_sm_abr" translatable="false">"JT"</string>
+    <string name="twoeuro_comm_2018_sm_short_title">"Jacopo Tintoretto"</string>
+    <string name="twoeuro_comm_2018_sm_2_title">"420. Geburtstag von Gian Lorenzo Bernini"</string>
+    <string name="twoeuro_comm_2018_sm_2_desc">"Die Bildseite der von Luciana de Simoni entworfenen Münze zeigt einen Ausschnitt aus Tintorettos Gemälde „Visitazione“ (dt. Mariä Heimsuchung). Es entstand in der „Scuola Grande di San Rocco”, Venedig im Jahre 1588 und zeigt die schwangere Maria, die sich auf den Weg machte, um ihre Verwandte Elisabeth zu besuchen, um die Freude mit ihr zu teilen. Am linken oberen Bildrand ist der Ausgabestaat „SAN MARINO“ sowie das Prägezeichen der römischen Münzstätte „R“ zu sehen. Unterhalb des Motives sind die Jahreszahlen „1518“ und „2018“ sowie der Name des großen Malers „TINTORETTO“ abgebildet. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_sm_2_volume">"60.500"</string>
+    <string name="twoeuro_comm_2018_sm_2_date">"17.09.2018"</string>
+    <string name="twoeuro_comm_2018_sm_2_abr" translatable="false">"LB"</string>
+    <string name="twoeuro_comm_2018_sm_2_short_title">"Gian Lorenzo Bernini"</string>
+    <string name="twoeuro_comm_2018_va_title">"Europäisches Jahr des Kulturerbes"</string>
+    <string name="twoeuro_comm_2018_va_desc">"Die Münze zeigt die auch unter dem Namen Laokoon-Gruppe bekannte Statue von Laokoon und seinen Söhnen, ein sowohl für die weltweite Bildhauerkunst als auch für die Vatikanischen Museen fundamentales Werk. Unten in der Mitte ist der Name des Ausgabestaates „Città del VATICANO“ eingraviert. Von links nach rechts ist im Halbkreis die Inschrift „ANNO EUROPEO DEL Patrimonio Culturale“ (Europäisches Jahr des Kulturerbes) zu sehen. Oben rechts sind das Ausgabejahr „2018“ und das Münzzeichen „R“ angebracht. Unten rechts ist der Name des Künstlers „D. LONGO“ zu lesen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_va_volume">"101.000"</string>
+    <string name="twoeuro_comm_2018_va_date">"31.05.2018"</string>
+    <string name="twoeuro_comm_2018_va_abr" translatable="false">"EK"</string>
+    <string name="twoeuro_comm_2018_va_short_title">"Jahr des Kulturerbes"</string>
+    <string name="twoeuro_comm_2018_va_2_title">"50. Jahrestag des Todes von Padre Pio"</string>
+    <string name="twoeuro_comm_2018_va_2_desc">"Das Motiv zeigt den beliebtesten Volksheiligen Italiens im Halbprofil nach rechts blickend. Oberhalb ist der Ausgabestaat „CITTA‘ DEL VATICANO“ zu sehen. Links ist die Jahreszahl „1968“ und rechts neben dem Porträt das aktuelle Ausgabejahr „2018“ zu sehen. Unterhalb ist der geschwungene Schriftzug „PADRE PIO“ abgebildet. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_va_2_volume">"101.000"</string>
+    <string name="twoeuro_comm_2018_va_2_date">"24.09.2018"</string>
+    <string name="twoeuro_comm_2018_va_2_abr" translatable="false">"Pi"</string>
+    <string name="twoeuro_comm_2018_va_2_short_title">"Padre Pio"</string>
+
     <string name="twoeuro_comm_2007_eu_rv_title">50. Jahrestag der Unterzeichnung des Vertrags von Rom</string>
     <string name="twoeuro_comm_2007_eu_rv_desc">Das Münzinnere zeigt das von den sechs Gründungsländern unterzeichnete Vertragswerk vor einem Hintergrund, der an die (von Michelangelo entworfene) Pflasterung des Kapitolsplatzes in Rom erinnert, wo der Vertrag am 25. März 1957 unterzeichnet wurde. Die Aufschriften „Vertrag von Rom 50 Jahre“ und „EUROPA“ sowie der Name des Ausgabelandes sind in den jeweiligen Sprachen des Euroraums oder in Latein zu sehen. Der Text variiert daher von Land zu Land, das Münzbild hingegen ist identisch. Der Vertrag von Rom begründete die Europäische Wirtschaftsgemeinschaft und führte letztendlich zur Einführung des Euro im Jahr 1999 sowie der Euro-Banknoten und -Münzen im Jahr 2002. Der Jahrestag wird am 25. März 2007 gefeiert. Die Länder des Euroraums haben beschlossen, aus diesem Anlass gemeinsam diese Gedenkmünze auszugeben. Das Design wurde nach der Durchführung eines von den europäischen Münzstätten organisierten Wettbewerbs ausgewählt. </string>
     <string name="twoeuro_comm_2007_eu_rv_volume">von Land zu Land unterschiedlich</string>
@@ -2063,7 +2169,6 @@ limitations under the License.
     <string name="dsgvo_ack_title">IMPORTANT</string>
     <string name="dsgvo_ack_yes">I agree</string>
     <string name="dsgvo_ack_no">I do NOT agree</string>
-    <string name="dsgvo_checkbox_text">Please mark the checkbox if you agree to this.</string>
     <string name="dsgvo_agreed_message">You agreed at: %1$s</string>
     <string name="dsgvo_data_privacy">
         "Data privacy declaration of 'Eurocoins Album' named as 'App'.\n\n"
