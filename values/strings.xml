@@ -1271,14 +1271,21 @@
     <string name="twoeuro_comm_2015_va_date">6. Oktober 2015</string>
     <string name="twoeuro_comm_2015_va_short_title">Family Philadelphia</string>
 
-    <string name="twoeuro_comm_2016_ad_title">25 Jahre öffentlich-rechtlicher Rundfunk</string>
-    <string name="twoeuro_comm_2016_ad_desc"></string>
-    <string name="twoeuro_comm_2016_ad_volume">85000</string>
-    <string name="twoeuro_comm_2016_ad_date">01.07.2016</string>
-    <string name="twoeuro_comm_2016_ad_short_title">25 Jahre Rundfunk</string>
+    <string name="twoeuro_comm_2016_ad_title">"25 Jahre öffentlich-rechtlicher Rundfunk"</string>
+    <string name="twoeuro_comm_2016_ad_desc">"Mikrofon und eine Antenne, umgeben von mehreren kreisförmigen Linien. Außerdem sind der Schriftzug „25è ANIVERSARI DE RÀDIO I TELEVISIÓ D’ANDORRA“, das Ausgabejahr „2016“ und der Ausgabestaat „ANDORRA“ zu lesen. Mit der Gedenkmünze wird das 25-jährige Jubiläum der öffentlich-rechtlichen Rundfunkanstalt Andorras und damit der Beginn der Ausstrahlung des andorranischen öffentlichen Radios und Fernsehens begangen."</string>
+    <string name="twoeuro_comm_2016_ad_volume">"85.000"</string>
+    <string name="twoeuro_comm_2016_ad_date">"01.06.2017"</string>
+    <string name="twoeuro_comm_2016_ad_abr" translatable="false">"Ru"</string>
+    <string name="twoeuro_comm_2016_ad_short_title">"25 Jahre Rundfunk"</string>
+    <string name="twoeuro_comm_2016_ad_2_title">"150-jähriges Jubiläum der Neuen Reform von 1866"</string>
+    <string name="twoeuro_comm_2016_ad_2_desc">"Hauptsaal der „Casa de la Vall“ (Sitz des andorranischen Parlaments) mit dem Schriftzug „150 ANYS DE LA NOVA REFORMA DE 1866“, dem Ausgabejahr „2016“ und dem Ausgabestaat „ANDORRA“. Mit dieser Gedenkmünze wird das 150. Jubiläum des Neuen Reformdekrets begangen — einer der bedeutendsten Meilensteine in der Geschichte des Landes und des andorranischen Parlaments („Consell General“), der einen gesellschaftlichen und politischen Wandel im Fürstentum Andorra einläutete."</string>
+    <string name="twoeuro_comm_2016_ad_2_volume">"85.000"</string>
+    <string name="twoeuro_comm_2016_ad_2_date">"01.06.2017"</string>
+    <string name="twoeuro_comm_2016_ad_2_abr" translatable="false">"Rt"</string>
+    <string name="twoeuro_comm_2016_ad_2_short_title">"Jubiläum der Neuen Reform"</string>
     <string name="twoeuro_comm_2016_au_title">200. Jahrestag der Gründung der Oesterreichischen Nationalbank</string>
     <string name="twoeuro_comm_2016_au_desc">Das von Herbert Wähner gestaltete Motiv zeigt zwei Götter der römischen Mythologie, die auf dem steinernen Relief über dem Eingang des Hauptgebäudes der Oesterreichischen Nationalbank (OeNB) zu sehen sind:[720] Links Merkur, der Götterbote und Gott der Kaufleute und des Handels; rechts Fortuna, die Göttin des Schicksals und des Wohlstands, die mit einem Füllhorn dargestellt ist. Im Hintergrund des Münzinneren erstreckt sich das Hauptgebäude der OeNB vom linken zum rechten Rand. Entlang des unteren Rands des Münzinneren verläuft ein Band, das an das rot-weiß-rote Muster der österreichischen Flagge verweist; nach den heraldischen Regeln der Tingierung symbolisiert eine vertikale Schraffierung die Farbe Rot. Die Jahresangaben „1816“ und „2016“ links von Merkur beziehen sich auf das Gründungsjahr der OeNB und ihr zweihundertjähriges Jubiläum. Die Inschriften entlang der Ränder des Münzinneren lauten „Republik Österreich“ und „200 Jahre Oesterreichische Nationalbank“. Die ersten Exemplare der Gedenkmünze wurden mit dem Kursmünzensatz bereits im Dezember 2015 ausgegeben – die Rollenware folgt im Januar 2016.</string>
-    <string name="twoeuro_comm_2016_au_volume">16.060.000 Münzen</string>
+    <string name="twoeuro_comm_2016_au_volume">16.060.000</string>
     <string name="twoeuro_comm_2016_au_date">2.12.2015</string>
     <string name="twoeuro_comm_2016_au_short_title">National Bank</string>
     <string name="twoeuro_comm_2016_be_title">Olympische Spiele Rio 2016</string>
@@ -1756,12 +1763,14 @@
     <string name="twoeuro_comm_2018_va_title">"Europäisches Jahr des Kulturerbes"</string>
     <string name="twoeuro_comm_2018_va_desc">"Die Münze zeigt die auch unter dem Namen Laokoon-Gruppe bekannte Statue von Laokoon und seinen Söhnen, ein sowohl für die weltweite Bildhauerkunst als auch für die Vatikanischen Museen fundamentales Werk. Unten in der Mitte ist der Name des Ausgabestaates „Città del VATICANO“ eingraviert. Von links nach rechts ist im Halbkreis die Inschrift „ANNO EUROPEO DEL Patrimonio Culturale“ (Europäisches Jahr des Kulturerbes) zu sehen. Oben rechts sind das Ausgabejahr „2018“ und das Münzzeichen „R“ angebracht. Unten rechts ist der Name des Künstlers „D. LONGO“ zu lesen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
     <string name="twoeuro_comm_2018_va_volume">"101.000"</string>
-    <string name="twoeuro_comm_2018_va_date">"31.05.2018"</string>
+    <string name="twoeuro_comm_2018_va_date">"24.09.2018"</string>
+    <string name="twoeuro_comm_2018_va_abr" translatable="false">"EK"</string>
     <string name="twoeuro_comm_2018_va_short_title">"Jahr des Kulturerbes"</string>
     <string name="twoeuro_comm_2018_va_2_title">"50. Jahrestag des Todes von Padre Pio"</string>
     <string name="twoeuro_comm_2018_va_2_desc">"Das Motiv zeigt den beliebtesten Volksheiligen Italiens im Halbprofil nach rechts blickend. Oberhalb ist der Ausgabestaat „CITTA‘ DEL VATICANO“ zu sehen. Links ist die Jahreszahl „1968“ und rechts neben dem Porträt das aktuelle Ausgabejahr „2018“ zu sehen. Unterhalb ist der geschwungene Schriftzug „PADRE PIO“ abgebildet. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
     <string name="twoeuro_comm_2018_va_2_volume">"101.000"</string>
-    <string name="twoeuro_comm_2018_va_2_date">"24.09.2018"</string>
+    <string name="twoeuro_comm_2018_va_2_date">"31.05.2018"</string>
+    <string name="twoeuro_comm_2018_va_2_abr" translatable="false">"Pi"</string>
     <string name="twoeuro_comm_2018_va_2_short_title">"Padre Pio"</string>
 
     <string name="twoeuro_comm_2007_eu_rv_title">50. Jahrestag der Unterzeichnung des Vertrags von Rom</string>
