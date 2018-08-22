@@ -138,11 +138,10 @@ Copias de seguridad eliminadas en la nube:\n
     <string name="sync_collection_error">"Error de sincronización para la recopilación %1$s"</string>
     <string name="sync_collections_error">"Error de sincronización"</string>
     <string name="linked_collection_read_only">"Las colecciones compartidas enlazadas son de solo lectura"</string>
-    <string name="sync_collections_complete">"Colecciones sincronizadas"</string>
     <string name="load_file_error">"Cargar archivo de error %1$s"</string>
     <string name="no_cloud_features_activated">"Las funciones de la nube (Internet) están deshabilitadas."</string>
     <string name="not_saved_load_error">"El usuario %1$s no se guardó debido a un error de carga anterior. Desbloquee el modo de edición para forzar guardar."</string>
-    <string name="collection_infos_general">"Nombre: %1$s \ nID de recolección: %2$s \ nCompartido: %3$s \ nPropietario: %4$s \ nSincronizado: %5$s"</string>
+    <string name="collection_infos_general">"Nombre: %1$s\nID de recolección: %2$s\nPublic Nombre: %3$s\nCompartido: %4$s\nPropietario: %5$s\nSincronizado: %6$s\nTrading Partners: %7$s"</string>
     <string name="collection_deleted">"Colección %1$s eliminada"</string>
     <string name="collection_sharing_retracted">"La colección compartida %1$s fue retractada por el propietario"</string>
     <string name="collection_sharing_retracted_ok">"La colección compartida fue retractada por %1$s"</string>

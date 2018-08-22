@@ -137,11 +137,10 @@
     <string name="sync_collection_error">"Ошибка синхронизации для сбора %1$s"</string>
     <string name="sync_collections_error">"Ошибка синхронизации"</string>
     <string name="linked_collection_read_only">"Связанные общие коллекции доступны только для чтения"</string>
-    <string name="sync_collections_complete">"Коллекции синхронизированы"</string>
     <string name="load_file_error">"Ошибка загрузки файла %1$s"</string>
     <string name="no_cloud_features_activated">"Функции Cloud (Интернет) отключены."</string>
     <string name="not_saved_load_error">"Пользователь %1$s не сохраняется из-за предыдущей ошибки загрузки. Разблокируйте режим редактирования, чтобы принудительно сохранить."</string>
-    <string name="collection_infos_general">"Имя: %1$s \nКоллективный идентификатор: %2$s \nОбработа: %3$s \nНайдер: %4$s \nSynchronized: %5$s"</string>
+    <string name="collection_infos_general">"Имя: %1$s \nКоллективный идентификатор: %2$s \nPublic Имя: %3$s \nОбработа: %4$s \nНайдер: %5$s \nSynchronized: %6$s\nTrading Partners: %7$s"</string>
     <string name="collection_deleted">"Сбор %1$s удален"</string>
     <string name="collection_sharing_retracted">"Общая коллекция %1$s была убрана владельцем"</string>
     <string name="collection_sharing_retracted_ok">"Общая коллекция была убрана за %1$s"</string>

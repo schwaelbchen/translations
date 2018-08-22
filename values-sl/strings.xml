@@ -137,7 +137,7 @@
     <string name="load_file_error">"Naloži napako v datoteko %1$s"</string>
     <string name="no_cloud_features_activated">"Funkcije oblaka (internet) so onemogočene."</string>
     <string name="not_saved_load_error">"Uporabnik %1$s ni bil shranjen zaradi prejšnje napake pri nalaganju. Odklenite način urejanja, da shranite silo."</string>
-    <string name="collection_infos_general">"Ime: %1$s \ nIzbor kode: %2$s \ nDroga: %3$s \ nOwner: %4$s \ nSinhronizirana: %5$s"</string>
+    <string name="collection_infos_general">"Ime: %1$s \nIzbor kode: %2$s \nPublic Ime: %3$s \nDroga: %4$s \nOwner: %5$s \nSinhronizirana: %6$s\nTrading Partners: %7$s"</string>
     <string name="collection_deleted">"Zbirka %1$s izbrisana"</string>
     <string name="collection_sharing_retracted">"Skupna kolekcija %1$s je bila umaknjena s strani lastnika"</string>
     <string name="collection_sharing_retracted_ok">"Zbirka v skupni rabi je bila umaknjena za %1$s"</string>

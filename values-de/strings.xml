@@ -8,7 +8,7 @@
     <string name="action_collection">Sammlung</string>
     <string name="action_mode">Editiermodus umschalten</string>
     <string name="new_collection">Neue Sammlung</string>
-    <string name="enter_new_name">Bitte neuen Name eingeben</string>
+    <string name="enter_new_name">Bitte neuen Namen eingeben</string>
     <string name="delete_collection">Löschen</string>
     <string name="change_name">Name ändern</string>
     <string name="default_collection_name">Sammlung1</string>
@@ -133,11 +133,10 @@
     <string name="sync_collection_error">Fehler beim Synchronisieren der Sammlung %1$s</string>
     <string name="sync_collections_error">Fehler beim Synchronisieren</string>
     <string name="linked_collection_read_only">Mit mir geteilte Sammlungen können nicht verändert werden.</string>
-    <string name="sync_collections_complete">Sammlungen synchronisiert</string>
     <string name="load_file_error">Fehler beim Laden der Datei %1$s</string>
     <string name="no_cloud_features_activated">Cloud (Internet) Funktionalitäten sind deaktiviert.</string>
     <string name="not_saved_load_error">User %1$s not saved because of previous load error. Unlock edit mode to force save.</string>
-    <string name="collection_infos_general">Name: %1$s\nSammlung Nummer: %2$s\nGeteilt: %3$s\nBesitzer: %4$s\nSynchronisiert: %5$s</string>
+    <string name="collection_infos_general">Name: %1$s\nSammlung Nummer: %2$s\nGeteilt: %3$s\nÖffentlicher Name: %4$s\nBesitzer: %5$s\nSynchronisiert: %6$s\nTauschpartner: %7$s</string>
     <string name="collection_deleted">Sammlung %1$s gelöscht</string>
     <string name="collection_sharing_retracted">Mit mir geteilte Sammlung %1$s wurde vom Besitzer zurückgezogen</string>
     <string name="collection_sharing_retracted_ok">Geteilte Sammlung wurde für %1$s zurückgezogen</string>
@@ -204,11 +203,24 @@
     <!-- version 5.6 -->
     <string name="user_name_already_exists">Name existiert bereits</string>
     <string name="user_name_contains_invalid_characters">Name enthält ungültige Zeichen</string>
+    <!-- version 5.6.4 -->
+    <string name="transfer_collection">"Sammlungen übertragen"</string>
+    <string name="not_my_collection_title">"Eigentümer der Sammlung wurde geändert"</string>
+    <string name="not_my_collection_message">"Möchten Sie die Sammlung '%1$s' behalten?"</string>
+    <string name="not_master_title">"Sammlung wurde übertragen"</string>
+    <string name="not_master_message">"Möchten Sie die Sammlung '%1$s' behalten?"</string>
 
     <!-- version 6.0 -->
-    <string name="action_trading_partners">Tauschpartner</string>
+    <string name="action_trading_partners">"Tauschpartner"</string>
+    <string name="no_trading_partners_found">"Keine Tauschpartner gefunden"</string>
+    <string name="enter_new_public_name">"Bitte neuen öffentlichen Namen eingeben"</string>
+    <string name="change_public_name">"Öffentlichen Namen ändern"</string>
+    <string name="collection_is_not_public">"Die Sammlung ist nicht öffentlich"</string>
 
     <string name="version_history_5_6">
+        Version 5.6.4\n
+        Sammlungen übertragen vereinfacht\n
+        \n
         Version 5.6.3\n
         Alle 2€ Gedenkmünzen hinzugefügt, die 2018 noch kommen werden (ohne Bild)\n
         \n
