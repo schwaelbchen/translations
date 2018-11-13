@@ -75,7 +75,6 @@
     <string name="new_coin">Neue</string>
     <string name="attention">Achtung</string>
     <string name="force_unlock_user">Dieser Benutzer hatte einen Ladefehler. Editiermodus erzwingen?</string>
-    <string name="backup_created">Sicherung erzeugt</string>
     <string name="action_restore_backup">Sicherung wiederherstellen</string>
     <string name="action_delete_old_backups">Alte Sicherungen löschen</string>
     <string name="delete_old_backups">Alle Sicherungen außer die der aktuellen Woche löschen?</string>
@@ -124,7 +123,7 @@
     <string name="share_with_ok">Geteilt mit %1$s</string>
     <string name="share_with_error">Fehler beim Teilen mit %1$s</string>
     <string name="action_unshare_with_ok">Die geteilte Sammlung wurde für %1$s zurückgezogen</string>
-    <string name="enter_email_to_share_to">Geben Sie die E-Mail Adresse ein, mit der Sie diese Sammlung teilen möchten</string>
+    <string name="enter_email_to_share_to">Geben Sie die E-Mail Adresse ein, mit der Sie diese Sammlung teilen möchten.</string>
     <string name="action_sync_collections">Synchronisieren</string>
     <string name="collection_linked">Mit mir geteilte Sammlung verbunden für %1$s</string>
     <string name="start">Start</string>
@@ -216,10 +215,29 @@
     <string name="enter_new_public_name">"Bitte neuen öffentlichen Namen eingeben"</string>
     <string name="change_public_name">"Öffentlichen Namen ändern"</string>
     <string name="collection_is_not_public">"Die Sammlung ist nicht öffentlich"</string>
+    <string name="coin_to_trading_basket_added">"Münze wurde zur Tauschaktion hinzugefügt"</string>
+    <string name="enter_star_to_publish_trading">"Geben Sie ein Stern '*' ein, um die Sammlung zum Tauschen zu veröffentlichen (ein zusätzlicher Bestätigungsdialog erscheint im Anschluss)."</string>
+    <string name="confirm_publish_trading_collection">Möchten Sie Ihre Sammlung wirklich als Tauschsammlung veröffentlichen? Alle Daten (z.B. Notizen zu Münzen) der Sammlung werden für andere sichtbar.</string>
+    <string name="collection_is_trading">"Diese Sammlung kann noch nicht gelöscht werden, da sie in den folgenden Tauschsammlungen verwendet wird:%1$s"</string>
+    <string name="action_get_next_trading_partners">"Nächster"</string>
+    <string name="action_reset_trading_partners">"Neustart"</string>
+    <string name="trading_partners_resetted">"Alte Tauschpartner wurden wieder aktiviert."</string>
+    <string name="ask_link_trading_collection">"Ein Benutzer möchte Münzen mit Ihrer öffentliche Sammlung '%1$s' tauschen. Die Tauschsammlung '%2$s' wird geladen."</string>
+    <string name="action_help_trading_partners">"Anleitung"</string>
+    <string name="not_your_trading_turn">"Sie können die Tauschsammlung jetzt nicht editieren, da Ihr Tauschpartner am Zug ist."</string>
+    <string name="trading_confirmed">"Diese Tauschsammlung wurde bereits beidseitig bestätigt."</string>
+    <string name="action_send_to_trading_partner">"An Tauschpartner senden"</string>
+    <string name="action_confirm_trade">"Tauschhandel bestätigen"</string>
+    <string name="device_time_too_old">"Die aktuelle Uhrzeit auf Ihrem Gerät ist zu alt."</string>
+    <string name="trading_session_empty_no_sending">"Es wurden keine Münzen ausgewählt. Bitte Münzen auswählen, bevor die Tauschsammlung an den Tauschpartner gesendet wird."</string>
+    <string name="trading_collection_deleted_by_counterparty">"Die Tauschsammlung wurde vom Tauschpartner gelöscht."</string>
+    <string name="ok">"Ok"</string>
 
     <string name="version_history_5_6">
         Version 5.6.4\n
         Sammlungen übertragen vereinfacht\n
+        Fehler behoben, Scrolling in Detailansicht Münze\n
+        Fehlende Beschreibungen der Gedenkmünzen hinzugefügt (Danke Jens)\n
         \n
         Version 5.6.3\n
         Alle 2€ Gedenkmünzen hinzugefügt, die 2018 noch kommen werden (ohne Bild)\n

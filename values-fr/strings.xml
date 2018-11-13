@@ -72,7 +72,6 @@
     <string name="new_coin">Nouveau</string>
     <string name="attention">Attention</string>
     <string name="force_unlock_user">Cet utilisateur a eu une erreur de charge. Force de débloquer?</string> <!-- ????????? -->
-    <string name="backup_created">Sauvegarde créée</string>
     <string name="action_restore_backup">Restaurer la sauvegarde</string>
     <string name="action_delete_old_backups">Supprimer les anciennes sauvegardes</string>
     <string name="delete_old_backups">Supprimer les anciennes sauvegardes ?</string>

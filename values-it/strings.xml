@@ -72,7 +72,6 @@
     <string name="new_coin">Nuova</string>
     <string name="attention">Attenzione</string>
     <string name="force_unlock_user">Questo utente ha avuto un errore di caricamento. Forza sbloccare?</string>
-    <string name="backup_created">Backup creato</string>
     <string name="action_restore_backup">ripristinare il backup</string>
     <string name="action_delete_old_backups">Elimiare i vecchi backup</string>
     <string name="delete_old_backups">Elimiare i vecchi backup?</string>

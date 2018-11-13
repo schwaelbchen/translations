@@ -127,7 +127,7 @@
     <string name="share_with_ok">Shared with %1$s</string>
     <string name="share_with_error">Error while sharing with %1$s</string>
     <string name="action_unshare_with_ok">Retracted sharing this collection with %1$s</string>
-    <string name="enter_email_to_share_to">Enter the e-mail you want to share this collection with</string>
+    <string name="enter_email_to_share_to">Enter the e-mail you want to share this collection with.</string>
     <string name="action_sync_collections">Synchronize</string>
     <string name="collection_linked">Linked shared collection %1$s</string>
     <string name="start">Start</string>
@@ -219,10 +219,58 @@
     <string name="enter_new_public_name">"Enter new public collection name"</string>
     <string name="change_public_name">"Change public name"</string>
     <string name="collection_is_not_public">"Collection is not public"</string>
+    <string name="coin_to_trading_basket_added">"Coin added to trading basket"</string>
+    <string name="enter_star_to_publish_trading">"Enter a star '*' to publish as tradable collection (an additional confirmation dialog will shown next)."</string>
+    <string name="confirm_publish_trading_collection">Do you really want to publish your collection as a tradable collection? All data (for example notes of coins) of the collection will be visible to others.</string>
+    <string name="collection_is_trading">"This collection cannot be deleted because it is being used in the following trading collections:%1$s"</string>
+    <string name="action_get_next_trading_partners">"Get next"</string>
+    <string name="action_reset_trading_partners">"Restart"</string>
+    <string name="trading_partners_resetted">"Old trading partners have been reactivated."</string>
+    <string name="ask_link_trading_collection">"A user want's to trade coins with your public collection '%1$s'. The trading collection '%2$s' will be loaded."</string>
+    <string name="action_help_trading_partners">"Usage"</string>
+    <string name="not_your_trading_turn">"You cannot edit the trading collection now because it's your counterparty's turn."</string>
+    <string name="trading_confirmed">"This trading collection was already confirmed from both sides."</string>
+    <string name="action_send_to_trading_partner">"Send to counterparty"</string>
+    <string name="action_confirm_trade">"Confirm trade"</string>
+    <string name="device_time_too_old">"The current time on your device is too old."</string>
+    <string name="trading_session_empty_no_sending">"No coins for trading selected. Please add coins before sending to counterparty."</string>
+    <string name="trading_collection_deleted_by_counterparty">"The trading collection was deleted by the counterparty."</string>
+    <string name="ok">"Ok"</string>
+    <string name="how_trading_partner_works">"
+- You can get trading partners for your selected collection.
+- To get a trading partner you first need to share your collection to the public.
+- All coins of your collection will be available to others for selection and trading.
+- If you don't want that all your coins are available for trading you have to split your collection first.
+- Your collection needs to get a public name which will be visible to others.
+- All information inside your collection will be visible to others (notes etc.).
+- You will receive one counterparty collection per request.
+- The counterparty collection will be downloaded and linked on your device too so that you can browse it fully.
+- A new trading collection will be created on your device which combines your collection and the counterparty collection (base collections).
+- The trading collection shows only these coins which only one of both base collections contain.
+- The coins which your collection does NOT contain but are part of the counterparty collection will be shown with a darker image.
+- the coins which your collection contains but are NOT part of the counterparty collection will be shown with a brighter image.
+- Initially a '0' is shown on each coin indicating that this coin is not part of the trading basket.
+- Touch one of the coins to view the details of that coin.
+- In the Detail-View you can use the 'add' button to add that coin to the trading basket.
+- With the 'remove' button you can remove it.
+- You can add and remove both sides: the coins you want to have and those you will give away.
+- You should only add and remove coins of your counterparty when you have a good reason.
+- After you add a coin to the trading basket it will show up a '1' indicating that one of these type of coins was selected.
+- If your collection or the counterparty collection contain muliple coins of one specific coin then you can browse in the details view each of those coins. Choose exactly this coin you want to add to the trading basket which you want to have. Different coins may be in differnt conditions.
+- Once you finished your selection send the trading request to the counterparty.
+- The counterparty user will be informed that a new trading session was initiated. Now your counterparty can edit the trading collection and send it back to you.
+- Both users can edit the trading basket after each other until one user does not change the collection any more but confirm the trade.
+- After the trade was settled you and your counterparty will receive an email with the postal addresses, the e-mail-addresses and a list with the coins which have been selected for trading.
+- If you do not want to start or continue a trading session you can simply delete the trading collection. You will be asked if you want to delete the underlying counterparty selection too.
+- After you deleted the underlying counterparty collection your own collection will in the future not be machted against this collection again until you select 'restart'.
+        "</string>
 
     <string name="version_history_5_6">
         Version 5.6.4\n
         Simplified tranfer of collections\n
+        Fixed scrolling in coin details dialog\n
+        Add missing descriptions of commemorative coins (thank you Jens)\n
+        Added pictures for 2€ commemorative coins 2018\n
         \n
         Version 5.6.3\n
         Added all 2€ commemorative coins coming in 2018 (without picture)\n
@@ -1764,13 +1812,11 @@
     <string name="twoeuro_comm_2018_va_desc">"Die Münze zeigt die auch unter dem Namen Laokoon-Gruppe bekannte Statue von Laokoon und seinen Söhnen, ein sowohl für die weltweite Bildhauerkunst als auch für die Vatikanischen Museen fundamentales Werk. Unten in der Mitte ist der Name des Ausgabestaates „Città del VATICANO“ eingraviert. Von links nach rechts ist im Halbkreis die Inschrift „ANNO EUROPEO DEL Patrimonio Culturale“ (Europäisches Jahr des Kulturerbes) zu sehen. Oben rechts sind das Ausgabejahr „2018“ und das Münzzeichen „R“ angebracht. Unten rechts ist der Name des Künstlers „D. LONGO“ zu lesen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
     <string name="twoeuro_comm_2018_va_volume">"101.000"</string>
     <string name="twoeuro_comm_2018_va_date">"24.09.2018"</string>
-    <string name="twoeuro_comm_2018_va_abr" translatable="false">"EK"</string>
     <string name="twoeuro_comm_2018_va_short_title">"Jahr des Kulturerbes"</string>
     <string name="twoeuro_comm_2018_va_2_title">"50. Jahrestag des Todes von Padre Pio"</string>
     <string name="twoeuro_comm_2018_va_2_desc">"Das Motiv zeigt den beliebtesten Volksheiligen Italiens im Halbprofil nach rechts blickend. Oberhalb ist der Ausgabestaat „CITTA‘ DEL VATICANO“ zu sehen. Links ist die Jahreszahl „1968“ und rechts neben dem Porträt das aktuelle Ausgabejahr „2018“ zu sehen. Unterhalb ist der geschwungene Schriftzug „PADRE PIO“ abgebildet. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
     <string name="twoeuro_comm_2018_va_2_volume">"101.000"</string>
     <string name="twoeuro_comm_2018_va_2_date">"31.05.2018"</string>
-    <string name="twoeuro_comm_2018_va_2_abr" translatable="false">"Pi"</string>
     <string name="twoeuro_comm_2018_va_2_short_title">"Padre Pio"</string>
 
     <string name="twoeuro_comm_2007_eu_rv_title">50. Jahrestag der Unterzeichnung des Vertrags von Rom</string>

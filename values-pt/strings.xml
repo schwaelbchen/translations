@@ -61,7 +61,6 @@
     <string name="new_coin">Nova</string>
     <string name="attention">Atenção</string>
     <string name="force_unlock_user">Erro ao carregar o carregar o utilizador. Forçar desbloqueio?</string>
-    <string name="backup_created">Criada cópia de segurança</string>
     <string name="action_restore_backup">Restaurar cópia de segurança</string>
     <string name="action_delete_old_backups">Apagar cópias de segurança antigas</string>
     <string name="delete_old_backups">Apagar cópias de segurança antigas?</string>

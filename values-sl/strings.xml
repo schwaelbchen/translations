@@ -75,7 +75,6 @@
     <string name="new_coin">"Novo"</string>
     <string name="attention">"Pozor"</string>
     <string name="force_unlock_user">"Ta uporabnik je imel napako pri nalaganju. Odvrzite sile?"</string>
-    <string name="backup_created">"Ustvarjeno je varnostno kopiranje"</string>
     <string name="action_restore_backup">"Obnovi varnostno kopijo"</string>
     <string name="action_delete_old_backups">"Izbriši stare varnostne kopije"</string>
     <string name="delete_old_backups">"Želite izbrisati vse varnostne kopije, razen tistih iz trenutnega tedna?"</string>
@@ -133,7 +132,6 @@
     <string name="sync_collection_error">"Napaka pri sinhronizaciji za zbiranje %1$s"</string>
     <string name="sync_collections_error">"Napaka pri sinhronizaciji"</string>
     <string name="linked_collection_read_only">"Zbirke v skupni rabi, ki so povezane, so samo za branje"</string>
-    <string name="sync_collections_complete">"Zbirke so sinhronizirane"</string>
     <string name="load_file_error">"Naloži napako v datoteko %1$s"</string>
     <string name="no_cloud_features_activated">"Funkcije oblaka (internet) so onemogočene."</string>
     <string name="not_saved_load_error">"Uporabnik %1$s ni bil shranjen zaradi prejšnje napake pri nalaganju. Odklenite način urejanja, da shranite silo."</string>

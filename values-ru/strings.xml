@@ -77,7 +77,6 @@
     <string name="new_coin">"новый"</string>
     <string name="attention">"Внимание"</string>
     <string name="force_unlock_user">"У этого пользователя была ошибка загрузки. Разблокировать силы?"</string>
-    <string name="backup_created">"Создан резерв"</string>
     <string name="action_restore_backup">"Восстановить резервную копию"</string>
     <string name="action_delete_old_backups">"Удаление старых резервных копий"</string>
     <string name="delete_old_backups">"Удалить все резервные копии, кроме тех, что были на текущей неделе?"</string>
@@ -128,7 +127,7 @@
     <string name="share_with_ok">"Совместно с %1$s"</string>
     <string name="share_with_error">"Ошибка при совместном использовании с %1$s"</string>
     <string name="action_unshare_with_ok">"Снято с этой коллекции с %1$s"</string>
-    <string name="enter_email_to_share_to">"Введите электронное письмо, которое вы хотите поделиться этой коллекцией, с"</string>
+    <string name="enter_email_to_share_to">"Введите электронное письмо, которое вы хотите поделиться этой коллекцией, с."</string>
     <string name="action_sync_collections">"Синхронизировать"</string>
     <string name="collection_linked">"Связанная общая коллекция %1$s"</string>
     <string name="start">"Старт"</string>

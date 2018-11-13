@@ -77,7 +77,6 @@
     <string name="new_coin">"New"</string>
     <string name="attention">"     Atención"</string>
     <string name="force_unlock_user">"Este usuario tuvo un error de carga. Desbloqueo forzado?"</string>
-    <string name="backup_created">"Respaldo creado"</string>
     <string name="action_restore_backup">"Restaurar copia de seguridad"</string>
     <string name="action_delete_old_backups">"Eliminar copias de seguridad antiguas"</string>
     <string name="delete_old_backups">"¿Eliminar todas las copias de seguridad, excepto las de la semana actual?"</string>
@@ -129,7 +128,7 @@ Copias de seguridad eliminadas en la nube:\n
     <string name="share_with_ok">"Compartido con %1$s"</string>
     <string name="share_with_error">"Error al compartir con %1$s"</string>
     <string name="action_unshare_with_ok">"Retracted compartiendo esta colección con %1$s"</string>
-    <string name="enter_email_to_share_to">"Ingrese el correo electrónico con el que desea compartir esta colección"</string>
+    <string name="enter_email_to_share_to">"Ingrese el correo electrónico con el que desea compartir esta colección."</string>
     <string name="action_sync_collections">"Sincronizar"</string>
     <string name="collection_linked">"Colección compartida enlazada %1$s"</string>
     <string name="start">"Inicio"</string>

@@ -77,7 +77,6 @@
     <string name="new_coin">Nieuw</string>
     <string name="attention">Attentie</string>
     <string name="force_unlock_user">Fout met de data bij deze gebruiker. Doorgaan?</string>
-    <string name="backup_created">Back-up gemaakt</string>
     <string name="action_restore_backup">Back-up herstellen</string>
     <string name="action_delete_old_backups">Verwijder oude backups</string>
     <string name="delete_old_backups">Verwijder alle oude back-ups?</string>

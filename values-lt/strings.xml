@@ -76,7 +76,6 @@
 	<string name="new_coin">Nauja</string>
 	<string name="attention">Dėmesio</string>
 	<string name="force_unlock_user">Klaida kraunant vartotojo informaciją. Ar atrakinti priverstinai?</string>
-	<string name="backup_created">Rezervinė kopija sukurta</string>
 	<string name="action_restore_backup">Atstatyti iš kopijos</string>
 	<string name="action_delete_old_backups">Ištrinti senas kopijas</string>
 	<string name="delete_old_backups">Ištrinti visas senas kopijas?</string>
