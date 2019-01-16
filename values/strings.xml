@@ -1773,18 +1773,6 @@
     <string name="twoeuro_comm_2018_va_2_abr" translatable="false">"Pi"</string>
     <string name="twoeuro_comm_2018_va_2_short_title">"Padre Pio"</string>
     
-	<string name="twoeuro_comm_2019_ad_title">"?"</string>
-	<string name="twoeuro_comm_2019_ad_desc">"?"</string>
-	<string name="twoeuro_comm_2019_ad_volume">"?"</string>
-	<string name="twoeuro_comm_2019_ad_date">"2019"</string>
-	<string name="twoeuro_comm_2019_ad_abr" translatable="false">"QA"</string>
-	<string name="twoeuro_comm_2019_ad_short_title">"?"</string>
-	<string name="twoeuro_comm_2019_ad_2_title">"?"</string>
-	<string name="twoeuro_comm_2019_ad_2_desc">"?"</string>
-	<string name="twoeuro_comm_2019_ad_2_volume">"?"</string>
-	<string name="twoeuro_comm_2019_ad_2_date">"2019"</string>
-	<string name="twoeuro_comm_2019_ad_2_abr" translatable="false">"QB"</string>
-	<string name="twoeuro_comm_2019_ad_2_short_title">"?"</string>
 	<string name="twoeuro_comm_2019_be_title">"25. Gründungstag des Europäischen Währungsinstituts"</string>
 	<string name="twoeuro_comm_2019_be_desc">"Porträt von Alexandre Lamfalussy, dem ersten Präsidenten des EWI und unterhalb unterhalb unterhalb unterhalb unterhalb unterhalb unterhalb unterhalb sein Name. Linkerhand mittig die Abkürzung „EMI“ und darüber die Jahreszahl „1994“, als das Währungsinstitut gegründet und Lamfalussy zum ersten Präsidenten ernannt wurde. Unter dem Schriftzug „EMI“ sind mehrere aufeinander fallende Münzen mit der Aufschrift „EUR“, „ECU“ bzw. „BEF“ (von oben nach unten) abgebildet. Oberhalb links befindet sich der Schriftzug „European Monetary Institute“."</string>
 	<string name="twoeuro_comm_2019_be_volume">"155.000"</string>
@@ -1815,18 +1803,6 @@
 	<string name="twoeuro_comm_2019_ee_2_date">"2019"</string>
 	<string name="twoeuro_comm_2019_ee_2_abr" translatable="false">"UT"</string>
 	<string name="twoeuro_comm_2019_ee_2_short_title">"Universität Tartu"</string>
-	<string name="twoeuro_comm_2019_fi_title">"?"</string>
-	<string name="twoeuro_comm_2019_fi_desc">"?"</string>
-	<string name="twoeuro_comm_2019_fi_volume">"?"</string>
-	<string name="twoeuro_comm_2019_fi_date">"2019"</string>
-	<string name="twoeuro_comm_2019_fi_abr" translatable="false">"QC"</string>
-	<string name="twoeuro_comm_2019_fi_short_title">"?"</string>
-	<string name="twoeuro_comm_2019_fi_2_title">"?"</string>
-	<string name="twoeuro_comm_2019_fi_2_desc">"?"</string>
-	<string name="twoeuro_comm_2019_fi_2_volume">"?"</string>
-	<string name="twoeuro_comm_2019_fi_2_date">"2019"</string>
-	<string name="twoeuro_comm_2019_fi_2_abr" translatable="false">"QD"</string>
-	<string name="twoeuro_comm_2019_fi_2_short_title">"?"</string>
 	<string name="twoeuro_comm_2019_fr_title">"30 Jahre Fall der Berliner Mauer"</string>
 	<string name="twoeuro_comm_2019_fr_desc">"Zwei bemalte und beschriftete Fragmente der Berliner Mauer. Das linke Fragment zeigt zugleich den Ausgabeanlass „30 ANS LA CHUTE DU MUR DE BERLIN – 30 JAHRE MAUERFALL“ Sie wurde in der Mitte durchbrochen und es strömen jubelnde Menschen mit erhobenen Händen durch sie hindurch. Darüber fliegen drei Tauben, die den Frieden in Europa symbolisieren. Im Hintergrund, am oberen Bildrand, ist das Brandenburger Tor zu sehen. Am rechten Bildrand die das Signet der Französischen Republik „RF” abgebildet, unten die Jahreszahl „2019“ und die Münzzeichen der Prägestätte in Pessac, des Münzmeisters Yves Sampo sowie das Rechteck des Künstlers Joaquin Jimenez."</string>
 	<string name="twoeuro_comm_2019_fr_volume">"15.000.000"</string>
@@ -1863,24 +1839,6 @@
 	<string name="twoeuro_comm_2019_it_date">"01/2019"</string>
 	<string name="twoeuro_comm_2019_it_abr" translatable="false">"LD"</string>
 	<string name="twoeuro_comm_2019_it_short_title">"Leonardo da Vinci"</string>
-	<string name="twoeuro_comm_2019_it_2_title">"?"</string>
-	<string name="twoeuro_comm_2019_it_2_desc">"?"</string>
-	<string name="twoeuro_comm_2019_it_2_volume">"?"</string>
-	<string name="twoeuro_comm_2019_it_2_date">"2019"</string>
-	<string name="twoeuro_comm_2019_it_2_abr" translatable="false">"QE"</string>
-	<string name="twoeuro_comm_2019_it_2_short_title">"?"</string>
-	<string name="twoeuro_comm_2019_lv_title">"?"</string>
-	<string name="twoeuro_comm_2019_lv_desc">"?"</string>
-	<string name="twoeuro_comm_2019_lv_volume">"?"</string>
-	<string name="twoeuro_comm_2019_lv_date">"2019"</string>
-	<string name="twoeuro_comm_2019_lv_abr" translatable="false">"QF"</string>
-	<string name="twoeuro_comm_2019_lv_short_title">"?"</string>
-	<string name="twoeuro_comm_2019_lv_2_title">"?"</string>
-	<string name="twoeuro_comm_2019_lv_2_desc">"?"</string>
-	<string name="twoeuro_comm_2019_lv_2_volume">"?"</string>
-	<string name="twoeuro_comm_2019_lv_2_date">"2019"</string>
-	<string name="twoeuro_comm_2019_lv_2_abr" translatable="false">"QG"</string>
-	<string name="twoeuro_comm_2019_lv_2_short_title">"?"</string>
 	<string name="twoeuro_comm_2019_lt_title">"Litauische Volkslieder - Sutartines"</string>
 	<string name="twoeuro_comm_2019_lt_desc">"Stilisierte Komposition, in der sich mittig drei singende Frauen befinden, deren langen Haare sich in feinen Linien zum Bildrand hin winden. Darin sind traditionelle litauische Ornamente enthalten. Oberhalb ist der Name des Ausgabestaates „LIETUVA“ sowie die Initialen des Münzgestalters Liudas Parulskis, rechterhand das Ausgabejahr „2019“ und unterhalb davon der litauische Wappenreiter Vytis und das Münzzeichen der litauischen Prägestätte abgebildet. Linkerhand ist das Ausgabethema „SUTARTINES“ zwischen zwei Vögeln zu sehen."</string>
 	<string name="twoeuro_comm_2019_lt_volume">"505.000"</string>
@@ -1923,12 +1881,6 @@
 	<string name="twoeuro_comm_2019_mc_date">"2019"</string>
 	<string name="twoeuro_comm_2019_mc_abr" translatable="false">"FH"</string>
 	<string name="twoeuro_comm_2019_mc_short_title">"Fürst Honoré"</string>
-	<string name="twoeuro_comm_2019_at_title">"?"</string>
-	<string name="twoeuro_comm_2019_at_desc">"?"</string>
-	<string name="twoeuro_comm_2019_at_volume">"?"</string>
-	<string name="twoeuro_comm_2019_at_date">"2019"</string>
-	<string name="twoeuro_comm_2019_at_abr" translatable="false">"QH"</string>
-	<string name="twoeuro_comm_2019_at_short_title">"?"</string>
 	<string name="twoeuro_comm_2019_po_title">"500 Jahre Magellan Weltumsegelung"</string>
 	<string name="twoeuro_comm_2019_po_desc">"Porträt eines bärtigen Ferdinand Magellan im Dreiviertelprofil. Die Umschrift „2019 · PORTUGAL“ linkerhand sowie rechts unterhalb „CIRCUM NAVEGACÃO 1519 FERNÃO · DE · MAGALHÃES“ ergänzen das Motiv. Oberhalb des Motivs ist eine stilisierte Armillarsphäre abgebildet."</string>
 	<string name="twoeuro_comm_2019_po_volume">"750.000"</string>
@@ -1971,24 +1923,12 @@
 	<string name="twoeuro_comm_2019_es_date">"1. Quartal 2019"</string>
 	<string name="twoeuro_comm_2019_es_abr" translatable="false">"AA"</string>
 	<string name="twoeuro_comm_2019_es_short_title">"Altstadt von Ávila"</string>
-	<string name="twoeuro_comm_2019_es_2_title">"?"</string>
-	<string name="twoeuro_comm_2019_es_2_desc">"?"</string>
-	<string name="twoeuro_comm_2019_es_2_volume">"?"</string>
-	<string name="twoeuro_comm_2019_es_2_date">"2019"</string>
-	<string name="twoeuro_comm_2019_es_2_abr" translatable="false">"QI"</string>
-	<string name="twoeuro_comm_2019_es_2_short_title">"?"</string>
 	<string name="twoeuro_comm_2019_va_title">"25 Jahre seit Abschluss der Restaurierung der Sixtinischen Kapelle"</string>
 	<string name="twoeuro_comm_2019_va_desc">"Das Jüngste Gericht von Michelangelo Buonarroti zeigen soll. Es wurde von ihm in den Jahren 1534 – 1541 in der Sixtinischen Kapelle in Auftrag von Papst Paul III. zentral über dem Altar angebracht. 1994 wurden nach einer umfassenden Restaurierung Luftentfeuchter, Klimaanlage und Filter in der Kapelle installiert, da die veraltete Technik dem zunehmenden Besucheransturm nicht mehr gewachsen war. Und seit 2014 erstrahlen die weltberühmten Fresken wieder in voller Farbenpracht, da nach dreijähriger Bauphase zusätzlich eine komplett neue LED-Lichtanlage und ein modernes Belüftungssystem fertiggestellt."</string>
 	<string name="twoeuro_comm_2019_va_volume">"101.000"</string>
 	<string name="twoeuro_comm_2019_va_date">"2019"</string>
 	<string name="twoeuro_comm_2019_va_abr" translatable="false">"SK"</string>
 	<string name="twoeuro_comm_2019_va_short_title">"Sixtinische Kapelle"</string>
-	<string name="twoeuro_comm_2019_va_2_title">"?"</string>
-	<string name="twoeuro_comm_2019_va_2_desc">"?"</string>
-	<string name="twoeuro_comm_2019_va_2_volume">"?"</string>
-	<string name="twoeuro_comm_2019_va_2_date">"2019"</string>
-	<string name="twoeuro_comm_2019_va_2_abr" translatable="false">"QJ"</string>
-	<string name="twoeuro_comm_2019_va_2_short_title">"?"</string>
     
     <string name="twoeuro_comm_2007_eu_rv_title">50. Jahrestag der Unterzeichnung des Vertrags von Rom</string>
     <string name="twoeuro_comm_2007_eu_rv_desc">Das Münzinnere zeigt das von den sechs Gründungsländern unterzeichnete Vertragswerk vor einem Hintergrund, der an die (von Michelangelo entworfene) Pflasterung des Kapitolsplatzes in Rom erinnert, wo der Vertrag am 25. März 1957 unterzeichnet wurde. Die Aufschriften „Vertrag von Rom 50 Jahre“ und „EUROPA“ sowie der Name des Ausgabelandes sind in den jeweiligen Sprachen des Euroraums oder in Latein zu sehen. Der Text variiert daher von Land zu Land, das Münzbild hingegen ist identisch. Der Vertrag von Rom begründete die Europäische Wirtschaftsgemeinschaft und führte letztendlich zur Einführung des Euro im Jahr 1999 sowie der Euro-Banknoten und -Münzen im Jahr 2002. Der Jahrestag wird am 25. März 2007 gefeiert. Die Länder des Euroraums haben beschlossen, aus diesem Anlass gemeinsam diese Gedenkmünze auszugeben. Das Design wurde nach der Durchführung eines von den europäischen Münzstätten organisierten Wettbewerbs ausgewählt. </string>
