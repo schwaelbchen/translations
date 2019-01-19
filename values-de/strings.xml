@@ -208,6 +208,8 @@
     <string name="not_my_collection_message">"Möchten Sie die Sammlung '%1$s' behalten?"</string>
     <string name="not_master_title">"Sammlung wurde übertragen"</string>
     <string name="not_master_message">"Möchten Sie die Sammlung '%1$s' behalten?"</string>
+    <!-- version 5.6.5 -->
+    <string name="building_album_please_wait">"Album wird vorbereitet - bitte warten"</string>
 
     <!-- version 6.0 -->
     <string name="action_trading_partners">"Tauschpartner"</string>
@@ -234,6 +236,27 @@
     <string name="ok">"Ok"</string>
 
     <string name="version_history_5_6">
+        Version 5.6.9\n
+        Alle derzeit bekannten Gedenkmünzen für 2019 hizugefügt, aber noch ohne Münzebilder\n
+        Fehler behoben, dass beim Drücken auf einer der gemeinsame Münzenbilder (linke Seite) zu viele Auswahlmöglichkeiten gezeigt werden\n
+        In der EU-Ansicht werden die gesammelten Gedenkmünzen angezeigt, wenn auf eine dieser gedrückt wird\n
+        Erneutes Erstellen der Album-Ansicht beim Schließen einige Dialoge unterbunden\n
+        \n
+        Version 5.6.8\n
+        Fehler behoben, dass die App beim Drehen abstürzt\n
+        \n
+        Added russion
+        Version 5.6.7\n
+        Fehler behoben, dass die App beim Starten abstürzt, wenn keine Verbindung zum Internet besteht\n
+        \n
+        Version 5.6.6\n
+        Kleine Veränderung in der Benutzeroberfläche\n
+        \n
+        Version 5.6.5\n
+        Programmabstürze behoben\n
+        Andorra 2€ 2016 hinzugefügt\n
+        Einige Informationen zu seltenen Münzen hinzugefügt\n
+        \n
         Version 5.6.4\n
         Sammlungen übertragen vereinfacht\n
         Fehler behoben, Scrolling in Detailansicht Münze\n

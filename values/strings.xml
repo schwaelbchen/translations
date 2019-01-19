@@ -212,6 +212,8 @@
     <string name="not_my_collection_message">"Do you want to keep '%1$s'?"</string>
     <string name="not_master_title">"Collection has been transfered"</string>
     <string name="not_master_message">"Do you want to keep '%1$s'?"</string>
+    <!-- version 5.6.5 -->
+    <string name="building_album_please_wait">"Building album - please wait"</string>
 
     <!-- version 6.0 -->
     <string name="action_trading_partners">"Trading partners"</string>
@@ -266,8 +268,28 @@
         "</string>
 
     <string name="version_history_5_6">
+        Version 5.6.9\n
+        Added all known commemorative coins for 2019 but with a common picture only\n
+        Fixed bug if a common coin (left side) was touched\n
+        In EU view show collected commemorative coins when clicked on it\n
+        Avoid rebuilding the album view when closing certain dialogs\n
+        \n
+        Version 5.6.8\n
+        Fixed crash while rotating the device fast\n
+        \n
+        Version 5.6.7\n
+        Fixed crash on start up if Internet is not available\n
+        \n
+        Version 5.6.6\n
+        Small UI change\n
+        \n
+        Version 5.6.5\n
+        Fixed crashes\n
+        Added Andorra 2€ 2016\n
+        Added information for a some rare coins\n
+        \n
         Version 5.6.4\n
-        Simplified tranfer of collections\n
+        Simplified transfer of collections\n
         Fixed scrolling in coin details dialog\n
         Add missing descriptions of commemorative coins (thank you Jens)\n
         Added pictures for 2€ commemorative coins 2018\n
@@ -1663,16 +1685,16 @@
     <string name="twoeuro_comm_2018_be_volume">"260.000"</string>
     <string name="twoeuro_comm_2018_be_date">"31.05.2018"</string>
     <string name="twoeuro_comm_2018_be_short_title">"Mai 1968"</string>
-    <string name="twoeuro_comm_2018_de_title">"Berlin"</string>
-    <string name="twoeuro_comm_2018_de_desc">"Das Schloss Charlottenburg bildet das Motiv der 2-Euro-Gedenkmünze Berlin 2018.  Die Münze ist die dreizehnte Ausgabe der 2-Euro-Gedenkmünzenserie „Die Bundesländer“. Der Entwurf zeigt die Gartenseite des Charlottenburger Schlosses in Berlin. Die optische Hinführung auf das Hauptmotiv ist gut gelungen. Die sehr zarte und detailreiche Fassadenausarbeitung vermittelt Eleganz. Die ausgewogene Typografie ergänzt die Arbeit auf harmonische Weise."</string>
+    <string name="twoeuro_comm_2018_de_title">"100. Geburtstag von Helmut Schmidt"</string>
+    <string name="twoeuro_comm_2018_de_desc">"Das Motiv zeigt Helmut Schmidt in typischer Haltung im Gespräch. Rechts oben ist halbkreisförmig sein Name „HELMUT SCHMIDT“ zu lesen, darunter stehen rechts die Jahreszahlen „1918-2015“. Das Münzzeichen der betreffenden Münzprägeanstalt ist unter den Jahreszahlen zu lesen. Links steht das Kürzel des Ausgabestaats, „D“, darunter das Jahr der Ausstellung, „2018“. Ganz unten befinden sich die Initialen des Künstlers. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
     <string name="twoeuro_comm_2018_de_volume">"30.000.000"</string>
     <string name="twoeuro_comm_2018_de_date">"30.01.2018"</string>
-    <string name="twoeuro_comm_2018_de_short_title">"Berlin"</string>
-    <string name="twoeuro_comm_2018_de_2_title">"100. Geburtstag von Helmut Schmidt"</string>
-    <string name="twoeuro_comm_2018_de_2_desc">"Das Motiv zeigt Helmut Schmidt in typischer Haltung im Gespräch. Rechts oben ist halbkreisförmig sein Name „HELMUT SCHMIDT“ zu lesen, darunter stehen rechts die Jahreszahlen „1918-2015“. Das Münzzeichen der betreffenden Münzprägeanstalt ist unter den Jahreszahlen zu lesen. Links steht das Kürzel des Ausgabestaats, „D“, darunter das Jahr der Ausstellung, „2018“. Ganz unten befinden sich die Initialen des Künstlers. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
+    <string name="twoeuro_comm_2018_de_short_title">"Helmut Schmidt"</string>
+    <string name="twoeuro_comm_2018_de_2_title">"Berlin"</string>
+    <string name="twoeuro_comm_2018_de_2_desc">"Das Schloss Charlottenburg bildet das Motiv der 2-Euro-Gedenkmünze Berlin 2018.  Die Münze ist die dreizehnte Ausgabe der 2-Euro-Gedenkmünzenserie „Die Bundesländer“. Der Entwurf zeigt die Gartenseite des Charlottenburger Schlosses in Berlin. Die optische Hinführung auf das Hauptmotiv ist gut gelungen. Die sehr zarte und detailreiche Fassadenausarbeitung vermittelt Eleganz. Die ausgewogene Typografie ergänzt die Arbeit auf harmonische Weise."</string>
     <string name="twoeuro_comm_2018_de_2_volume">"30.000.000"</string>
     <string name="twoeuro_comm_2018_de_2_date">"30.01.2018"</string>
-    <string name="twoeuro_comm_2018_de_2_short_title">"Helmut Schmidt"</string>
+    <string name="twoeuro_comm_2018_de_2_short_title">"Berlin"</string>
     <string name="twoeuro_comm_2018_ee_title">"Baltische Gemeinschaftsausgabe - 100 Jahre Unabhängigkeit"</string>
     <string name="twoeuro_comm_2018_ee_desc">"Die drei baltischen Mitgliedstaaten werden symbolisch als ein Zopf dargestellt. Sie sind durch ihre Geschichte verbunden: eine gemeinsame Vergangenheit, Gegenwart und Zukunft. Eine stilisierte Ziffer zum 100. Jahrestag und die heraldischen Zeichen aller drei Mitgliedstaaten sind ebenfalls dargestellt. Auf der linken Seite steht der Name des Ausgabestaates „EESTI" und auf der rechten Seite das Ausgabejahr „2018". Das Münzmotiv wurde nach einer öffentlichen Abstimmung in allen drei baltischen Ländern ausgewählt. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
     <string name="twoeuro_comm_2018_ee_volume">"515.000"</string>
