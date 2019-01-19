@@ -1840,7 +1840,164 @@
     <string name="twoeuro_comm_2018_va_2_volume">"101.000"</string>
     <string name="twoeuro_comm_2018_va_2_date">"31.05.2018"</string>
     <string name="twoeuro_comm_2018_va_2_short_title">"Padre Pio"</string>
-
+    
+	<string name="twoeuro_comm_2019_be_title">"25. Gründungstag des Europäischen Währungsinstituts"</string>
+	<string name="twoeuro_comm_2019_be_desc">"Porträt von Alexandre Lamfalussy, dem ersten Präsidenten des EWI und unterhalb unterhalb unterhalb unterhalb unterhalb unterhalb unterhalb unterhalb sein Name. Linkerhand mittig die Abkürzung „EMI“ und darüber die Jahreszahl „1994“, als das Währungsinstitut gegründet und Lamfalussy zum ersten Präsidenten ernannt wurde. Unter dem Schriftzug „EMI“ sind mehrere aufeinander fallende Münzen mit der Aufschrift „EUR“, „ECU“ bzw. „BEF“ (von oben nach unten) abgebildet. Oberhalb links befindet sich der Schriftzug „European Monetary Institute“."</string>
+	<string name="twoeuro_comm_2019_be_volume">"155.000"</string>
+	<string name="twoeuro_comm_2019_be_date">"01/2019"</string>
+	<string name="twoeuro_comm_2019_be_abr" translatable="false">"EW"</string>
+	<string name="twoeuro_comm_2019_be_short_title">"Europäisches Währungsinstitut"</string>
+	<string name="twoeuro_comm_2019_be_2_title">"450. Todestag von Pieter Bruegel dem Älteren"</string>
+	<string name="twoeuro_comm_2019_be_2_desc">"Porträt des berühmten belgischen Malers Pieter Bruegel des Älteren zusammen mit einem Gemälde auf einer Staffelei. Darüber finden sich der Name „P. BRUEGEL“, die Jahreszahl „1569“ mit einem dezenten Kreuz für das Todesjahr sowie das Ausgabejahr „2019“. Linkerhand das Münzzeichen von Utrecht, ein Hermesstab, und das belgische Zeichen der Münzmeisterin Ingrid Herzele, das Wappen der Gemeinde Herzele, sowie der Ländercode BE. Die Initialen LL des Münzdesigners Luc Luycx befinden sich rechts."</string>
+	<string name="twoeuro_comm_2019_be_2_volume">"155.000"</string>
+	<string name="twoeuro_comm_2019_be_2_date">"01/2019"</string>
+	<string name="twoeuro_comm_2019_be_2_abr" translatable="false">"PB"</string>
+	<string name="twoeuro_comm_2019_be_2_short_title">"Pieter Bruegel"</string>
+	<string name="twoeuro_comm_2019_de_title">"70 Jahre Bundesrat"</string>
+	<string name="twoeuro_comm_2019_de_desc">"Perspektivische Darstellung des Garten- und Gebäudeensembles des Bundesrats. Unten mittig ist der Name der Institution „BUNDESRAT“ und das „D“ für den Ausgabestaat zu erkennen. Über dem Bild ist das Ausgabejahr „2019“ und links davon das Zeichen der jeweiligen Prägeanstalt („A“, „D“, „F“, „G“ bzw. „J“) zu lesen. Die Initialen des Künstlers Michael Otto runden das Motiv nach rechts oben hin ab. Auflagen der Prägestätten: A: 6.000.000, D: 6.300.000, F: 7.200.000, G: 4.200.000, J: 6.300.000"</string>
+	<string name="twoeuro_comm_2019_de_volume">"30.000.000"</string>
+	<string name="twoeuro_comm_2019_de_date">"29.01.2019"</string>
+	<string name="twoeuro_comm_2019_de_abr" translatable="false">"BR"</string>
+	<string name="twoeuro_comm_2019_de_short_title">"Bundesrat"</string>
+	<string name="twoeuro_comm_2019_ee_title">"150. Jahrestag des ersten estnischen Liederfestivals"</string>
+	<string name="twoeuro_comm_2019_ee_desc">"Die Tradition des estnischen Liederfests wurde 1869 begründet. Sie ist im Kontext des Erstarkens eines estnischen Nationalbewusstseins zu sehen. Das estnische Liederfest findet derzeit alle fünf Jahre in Tallinn statt. Beim Liederfest 2014 traten über 33.000 Sänger vor fast 153.000 Zuhörern auf. Der gemeinsame Chor bestand aus 22.000 Sängern. Die Bildseite zeigt drei singende Kinder mittig, umgeben von Noten auf Notenlinien, die an den Wänden der Sängerbühne (Laululava) in Tallinn widerhallen und sich mit einem Schal mit traditionellen Mustern verwebt."</string>
+	<string name="twoeuro_comm_2019_ee_volume">"Auflage noch unbekannt"</string>
+	<string name="twoeuro_comm_2019_ee_date">"Erste Hälfte 2019"</string>
+	<string name="twoeuro_comm_2019_ee_abr" translatable="false">"LF"</string>
+	<string name="twoeuro_comm_2019_ee_short_title">"Estnisches Liederfestival"</string>
+	<string name="twoeuro_comm_2019_ee_2_title">"100. Jahrestag der Gründung der Universität Tartu"</string>
+	<string name="twoeuro_comm_2019_ee_2_desc">"Die Universität Tartu ist die älteste Universität Estlands und dessen einzige Volluniversität. Sie wurde 1632 von König Gustav II. Adolf von Schweden in Dorpat gegründet, der Stadt, die heute Tartu heißt. Seit der estnischen Unabhängigkeit von Russland im Jahr 1918/19 heißt sie Tartu Ülikool („Universität Tartu“) und ist die erste estnischsprachige Universität weltweit."</string>
+	<string name="twoeuro_comm_2019_ee_2_volume">"Auflage noch unbekannt"</string>
+	<string name="twoeuro_comm_2019_ee_2_date">"2019"</string>
+	<string name="twoeuro_comm_2019_ee_2_abr" translatable="false">"UT"</string>
+	<string name="twoeuro_comm_2019_ee_2_short_title">"Universität Tartu"</string>
+	<string name="twoeuro_comm_2019_fr_title">"30 Jahre Fall der Berliner Mauer"</string>
+	<string name="twoeuro_comm_2019_fr_desc">"Zwei bemalte und beschriftete Fragmente der Berliner Mauer. Das linke Fragment zeigt zugleich den Ausgabeanlass „30 ANS LA CHUTE DU MUR DE BERLIN – 30 JAHRE MAUERFALL“ Sie wurde in der Mitte durchbrochen und es strömen jubelnde Menschen mit erhobenen Händen durch sie hindurch. Darüber fliegen drei Tauben, die den Frieden in Europa symbolisieren. Im Hintergrund, am oberen Bildrand, ist das Brandenburger Tor zu sehen. Am rechten Bildrand die das Signet der Französischen Republik „RF” abgebildet, unten die Jahreszahl „2019“ und die Münzzeichen der Prägestätte in Pessac, des Münzmeisters Yves Sampo sowie das Rechteck des Künstlers Joaquin Jimenez."</string>
+	<string name="twoeuro_comm_2019_fr_volume">"15.000.000"</string>
+	<string name="twoeuro_comm_2019_fr_date">"11.2019"</string>
+	<string name="twoeuro_comm_2019_fr_abr" translatable="false">"BM"</string>
+	<string name="twoeuro_comm_2019_fr_short_title">"Fall Berliner Mauer"</string>
+	<string name="twoeuro_comm_2019_fr_2_title">"60 Jahre Asterix"</string>
+	<string name="twoeuro_comm_2019_fr_2_desc">"60 Jahre Asterix"</string>
+	<string name="twoeuro_comm_2019_fr_2_volume">"15.000.000"</string>
+	<string name="twoeuro_comm_2019_fr_2_date">"01.02.2019"</string>
+	<string name="twoeuro_comm_2019_fr_2_abr" translatable="false">"AX"</string>
+	<string name="twoeuro_comm_2019_fr_2_short_title">"Asterix"</string>
+	<string name="twoeuro_comm_2019_gr_title">"150 Jahre Gedenken an Andreas Kalvos"</string>
+	<string name="twoeuro_comm_2019_gr_desc">"Mit dieser 2 Euro Gedenkmünze erinnert Griechenland 2019 an den Tod des Schriftsteller Andreas Kalvos im Jahr 1869."</string>
+	<string name="twoeuro_comm_2019_gr_volume">"750.000"</string>
+	<string name="twoeuro_comm_2019_gr_date">"2019"</string>
+	<string name="twoeuro_comm_2019_gr_abr" translatable="false">"AK"</string>
+	<string name="twoeuro_comm_2019_gr_short_title">"Andreas Kalvos"</string>
+	<string name="twoeuro_comm_2019_gr_2_title">"100. Geburtstag von Manolis Andronikos"</string>
+	<string name="twoeuro_comm_2019_gr_2_desc">"In Erinnerung an den 100. Geburtstag von Manolis Andronikos im Jahr 1919 wird diese 2 Euro Münze von Griechenland herausgegeben. Der griechische Archäolge lebte von 1919 bis 1992."</string>
+	<string name="twoeuro_comm_2019_gr_2_volume">"750.000"</string>
+	<string name="twoeuro_comm_2019_gr_2_date">"2019"</string>
+	<string name="twoeuro_comm_2019_gr_2_abr" translatable="false">"MK"</string>
+	<string name="twoeuro_comm_2019_gr_2_short_title">"Manolis Andronikos"</string>
+	<string name="twoeuro_comm_2019_ir_title">"100. Jahrestag der ersten Versammlung in Dáil Éireann"</string>
+	<string name="twoeuro_comm_2019_ir_desc">"Darstellung der ersten Sitzung des Dail Eireann im "Round Room" des Mansion House (offizielle Residenz des Lord Mayor von Dublin) . Der obere "Balken" stellt die Empore mit Zuschauern dar, die sich über den großen Plenarsaal mit den vielen durch Punkten dargestellten Köpfen darunter wölbt. Zentral ist der Schriftzug „An Chead Dail“ (sinngemäß Parlamentssitzung des ersten Dail) in irischer Schrift zu sehen, oberhalb das Jahr „1919“. Der Landesname „EIRE“ und das Ausgabejahr „2019“ runden das Motiv nach unten hin ab."</string>
+	<string name="twoeuro_comm_2019_ir_volume">"1.000.000"</string>
+	<string name="twoeuro_comm_2019_ir_date">"21.01.2019"</string>
+	<string name="twoeuro_comm_2019_ir_abr" translatable="false">"DE"</string>
+	<string name="twoeuro_comm_2019_ir_short_title">"Versammlung in Dáil Éireann"</string>
+	<string name="twoeuro_comm_2019_it_title">"500. Todestag von Leonardo da Vinci"</string>
+	<string name="twoeuro_comm_2019_it_desc">"Ausschnitt aus dem Gemälde „Dama con l'ermellino“ (dt. Die Dame mit dem Hermelin) von Leonardo da Vinci, welches im Czartoryjski-Museum in Krakau ausgestellt ist. Linkerhand die Inschrift „Leonardo“, die Initialen „M.A.C.“ der Künstlerin Maria Angela Cassol und die Initialen der italienischen Republik „RI“, rechts neben dem Porträt ist das Münzzeichen „R“ der Münzstätte Rom sowie die Daten „1519“, das Todesjahr von da Vinci und „2019“ als Ausgabe- und Jubiläumsjahr zu sehen."</string>
+	<string name="twoeuro_comm_2019_it_volume">"3.018.000"</string>
+	<string name="twoeuro_comm_2019_it_date">"01/2019"</string>
+	<string name="twoeuro_comm_2019_it_abr" translatable="false">"LD"</string>
+	<string name="twoeuro_comm_2019_it_short_title">"Leonardo da Vinci"</string>
+	<string name="twoeuro_comm_2019_lt_title">"Litauische Volkslieder - Sutartines"</string>
+	<string name="twoeuro_comm_2019_lt_desc">"Stilisierte Komposition, in der sich mittig drei singende Frauen befinden, deren langen Haare sich in feinen Linien zum Bildrand hin winden. Darin sind traditionelle litauische Ornamente enthalten. Oberhalb ist der Name des Ausgabestaates „LIETUVA“ sowie die Initialen des Münzgestalters Liudas Parulskis, rechterhand das Ausgabejahr „2019“ und unterhalb davon der litauische Wappenreiter Vytis und das Münzzeichen der litauischen Prägestätte abgebildet. Linkerhand ist das Ausgabethema „SUTARTINES“ zwischen zwei Vögeln zu sehen."</string>
+	<string name="twoeuro_comm_2019_lt_volume">"505.000"</string>
+	<string name="twoeuro_comm_2019_lt_date">"3. Quartal 2019"</string>
+	<string name="twoeuro_comm_2019_lt_abr" translatable="false">"LV"</string>
+	<string name="twoeuro_comm_2019_lt_short_title">"Litauische Volkslieder - Sutartines"</string>
+	<string name="twoeuro_comm_2019_lt_2_title">"Litauische Ethnographische Regionen: Zemaitija"</string>
+	<string name="twoeuro_comm_2019_lt_2_desc">"Litauische Ethnographische Regionen: Zemaitija"</string>
+	<string name="twoeuro_comm_2019_lt_2_volume">"505.000"</string>
+	<string name="twoeuro_comm_2019_lt_2_date">"2019"</string>
+	<string name="twoeuro_comm_2019_lt_2_abr" translatable="false">"LZ"</string>
+	<string name="twoeuro_comm_2019_lt_2_short_title">"Litauische Regionen - Zemaitija"</string>
+	<string name="twoeuro_comm_2019_lu_title">"100. Jahrestag Thronbesteigung von Großherzogin Charlotte"</string>
+	<string name="twoeuro_comm_2019_lu_desc">"Linkerhand das Porträt seiner Königlichen Hoheit Großherzog Henri und rechts das Porträt der Großherzogin Charlotte. Unten sind der Ausgabestaat „LUXEMBOURG“ und darunter das Ausgabejahr „2019“ zu lesen. Oben befindet sich halbkreisförmig um die Kopfbildnisse der Schriftzug „Centenaire de l’accession au trône de la Grande-Duchesse Charlotte“."</string>
+	<string name="twoeuro_comm_2019_lu_volume">"500.000"</string>
+	<string name="twoeuro_comm_2019_lu_date">"01/2019"</string>
+	<string name="twoeuro_comm_2019_lu_abr" translatable="false">"GC"</string>
+	<string name="twoeuro_comm_2019_lu_short_title">"Großherzogin Charlotte"</string>
+	<string name="twoeuro_comm_2019_lu_2_title">"100 Jahre Allgemeines Wahlrecht in Luxemburg"</string>
+	<string name="twoeuro_comm_2019_lu_2_desc">"100 Jahre Allgemeines Wahlrecht in Luxemburg"</string>
+	<string name="twoeuro_comm_2019_lu_2_volume">"400.000"</string>
+	<string name="twoeuro_comm_2019_lu_2_date">"4. Quartal 2019"</string>
+	<string name="twoeuro_comm_2019_lu_2_abr" translatable="false">"AW"</string>
+	<string name="twoeuro_comm_2019_lu_2_short_title">"Allgemeines Wahlrecht"</string>
+	<string name="twoeuro_comm_2019_mt_title">"Erbe & Tradition (Serie: Von Kindern mit Solidarität)"</string>
+	<string name="twoeuro_comm_2019_mt_desc">"Das Programm, welches in Zusammenarbeit mit „The Malta Community Chest Fund“ (dt. etwa Gemeindeverfügungsfonds) offiziell am 5. Juni 2015 durch die Präsidentin von Malta Marie-Louise Coleiro Preca eröffnet wurde. Was das Design angeht, so wird in den Schulen Maltas ein Wettbewerb veranstaltet werden. Das Münzdesign wird symbolisiert die Liebe im weiteren Sinne, um den wichtigen Aspekt der Solidarität Rechnung zu tragen. Nach einer Auswahl von 5 Projekten für jedes Jahr, wird eine Wahl den jeweiligen Sieger küren. Die folgenden Plätze werden auch ausgezeichnet und auf den Gedenkmünzen Maltas in den kommenden Jahren abgebildet."</string>
+	<string name="twoeuro_comm_2019_mt_volume">"300.000"</string>
+	<string name="twoeuro_comm_2019_mt_date">"2019"</string>
+	<string name="twoeuro_comm_2019_mt_abr" translatable="false">"ET"</string>
+	<string name="twoeuro_comm_2019_mt_short_title">"Erbe und Tradition"</string>
+	<string name="twoeuro_comm_2019_mt_2_title">"Ta’ Hagrat (Serie: Prähistorische Stätten Maltas)"</string>
+	<string name="twoeuro_comm_2019_mt_2_desc">"Ta’ Hagrat (Serie: Prähistorische Stätten Maltas)"</string>
+	<string name="twoeuro_comm_2019_mt_2_volume">"300.000"</string>
+	<string name="twoeuro_comm_2019_mt_2_date">"2019"</string>
+	<string name="twoeuro_comm_2019_mt_2_abr" translatable="false">"TH"</string>
+	<string name="twoeuro_comm_2019_mt_2_short_title">"Ta’ Hagrat"</string>
+	<string name="twoeuro_comm_2019_mc_title">"200. Todestag von Fürst Honoré IV."</string>
+	<string name="twoeuro_comm_2019_mc_desc">"Die 2 Euro Gedenkmünze 2019 aus Monaco erinnert an den 200. Todestag von Fürst Honoré IV. von Monaco. Honoré IV. lebte von 1758 bis 1819 und war von 1814 bis zu seinem Tod regierender Fürst von Monaco."</string>
+	<string name="twoeuro_comm_2019_mc_volume">"15.000"</string>
+	<string name="twoeuro_comm_2019_mc_date">"2019"</string>
+	<string name="twoeuro_comm_2019_mc_abr" translatable="false">"FH"</string>
+	<string name="twoeuro_comm_2019_mc_short_title">"Fürst Honoré"</string>
+	<string name="twoeuro_comm_2019_po_title">"500 Jahre Magellan Weltumsegelung"</string>
+	<string name="twoeuro_comm_2019_po_desc">"Porträt eines bärtigen Ferdinand Magellan im Dreiviertelprofil. Die Umschrift „2019 · PORTUGAL“ linkerhand sowie rechts unterhalb „CIRCUM NAVEGACÃO 1519 FERNÃO · DE · MAGALHÃES“ ergänzen das Motiv. Oberhalb des Motivs ist eine stilisierte Armillarsphäre abgebildet."</string>
+	<string name="twoeuro_comm_2019_po_volume">"750.000"</string>
+	<string name="twoeuro_comm_2019_po_date">"07/2019"</string>
+	<string name="twoeuro_comm_2019_po_abr" translatable="false">"MW"</string>
+	<string name="twoeuro_comm_2019_po_short_title">"Magellan Weltumsegelung"</string>
+	<string name="twoeuro_comm_2019_po_2_title">"600 Jahre Entdeckung der Insel Madeira"</string>
+	<string name="twoeuro_comm_2019_po_2_desc">"Umrisse der Inselgruppe, die aus den drei Inseln Madeira, Porto Santo sowie Desertas besteht. Im Hintergrund ist der Ausschnitt historischer „Längen- und Breitenkreise“ einer Portolankarte zu erkennen. Die Umschrift lautet „600 anos do Descobrimento da Madeira e de Porto Santo“ (dt. 600 Jahre Entdeckung von Madeira und Porto Santo). Das Signet des Designers (?) ist unterhalb des Wortes „Madeira“ zu sehen."</string>
+	<string name="twoeuro_comm_2019_po_2_volume">"500.000"</string>
+	<string name="twoeuro_comm_2019_po_2_date">"10/2019"</string>
+	<string name="twoeuro_comm_2019_po_2_abr" translatable="false">"IM"</string>
+	<string name="twoeuro_comm_2019_po_2_short_title">"Insel Madeira"</string>
+	<string name="twoeuro_comm_2019_sm_title">"550. Todestag von Filippo Lippi"</string>
+	<string name="twoeuro_comm_2019_sm_desc">"550. Todestag von Filippo Lippi"</string>
+	<string name="twoeuro_comm_2019_sm_volume">"60.500"</string>
+	<string name="twoeuro_comm_2019_sm_date">"2019"</string>
+	<string name="twoeuro_comm_2019_sm_abr" translatable="false">"FL"</string>
+	<string name="twoeuro_comm_2019_sm_short_title">"Filippo Lippi"</string>
+	<string name="twoeuro_comm_2019_sm_2_title">"500. Todestag von Leonardo da Vinci"</string>
+	<string name="twoeuro_comm_2019_sm_2_desc">"500. Todestag von Leonardo da Vinci"</string>
+	<string name="twoeuro_comm_2019_sm_2_volume">"60.500"</string>
+	<string name="twoeuro_comm_2019_sm_2_date">"2019"</string>
+	<string name="twoeuro_comm_2019_sm_2_abr" translatable="false">"DV"</string>
+	<string name="twoeuro_comm_2019_sm_2_short_title">"Leonardo da Vinci"</string>
+	<string name="twoeuro_comm_2019_sk_title">"100. Todestag von Milan Rastislav Štefánik"</string>
+	<string name="twoeuro_comm_2019_sk_desc">"Porträt von Milan Rastislav Štefánik in Militäruniform. Am linken Rand des Münzinneren ist der Ausgabestaat „SLOVENSKO“ von unten nach oben abgebildet, innerhalb davon in umgekehrter Richtung „MILAN RATISLAV ŠTEFÁNIK“ sowie zwischen Text und Porträt die Daten „1880 – 1919“. Das Ausgabejahr „2019“ ist am rechten Bildrand zu sehen."</string>
+	<string name="twoeuro_comm_2019_sk_volume">"1.000.000"</string>
+	<string name="twoeuro_comm_2019_sk_date">"04/2019"</string>
+	<string name="twoeuro_comm_2019_sk_abr" translatable="false">"RS"</string>
+	<string name="twoeuro_comm_2019_sk_short_title">"Rastislav Štefánik"</string>
+	<string name="twoeuro_comm_2019_si_title">"100. Jahrestag der Gründung der Universität von Ljubljana"</string>
+	<string name="twoeuro_comm_2019_si_desc">"Rechteckiges Logo der Laibacher Universität. Auf der linken Seite der Münze ist die Fassade der Universität oberhalb des soliden Rechtecks, welches Teil des ursprünglichen Logos darstellt, durch den Schriftzug „100 LET UNIVERZE V LJUBLJANI“ ersetzt worden. Die Hintergrundfläche des Münzkerns ist texturiert, um ein größeren Effekt bei der Inschrift mit dem soliden Rechteck zu erzielen. Am unteren rechten Bildrand ist der Schriftzug „SLOVENIJA 2019“ abgebildet."</string>
+	<string name="twoeuro_comm_2019_si_volume">"1.000.000"</string>
+	<string name="twoeuro_comm_2019_si_date">"4. Quartal 2019"</string>
+	<string name="twoeuro_comm_2019_si_abr" translatable="false">"UL"</string>
+	<string name="twoeuro_comm_2019_si_short_title">"Universität von Ljubljana"</string>
+	<string name="twoeuro_comm_2019_es_title">"UNESCO Welterbeserie - Altstadt von Ávila und Kirchen außerhalb der Stadtmauer"</string>
+	<string name="twoeuro_comm_2019_es_desc">"Die Bildseite zeigt mittig einen Teil der Stadtmauer von Ávila. Der Name des Ausgabestaates „ESPANA“ erscheint am oberen rechten Rand des inneren Kreises verlaufend und darunter das Ausgabejahr „2019“. Das Münzzeichen der spanischen Prägestätte ist am rechten Bildrand platziert."</string>
+	<string name="twoeuro_comm_2019_es_volume">"1.000.000"</string>
+	<string name="twoeuro_comm_2019_es_date">"1. Quartal 2019"</string>
+	<string name="twoeuro_comm_2019_es_abr" translatable="false">"AA"</string>
+	<string name="twoeuro_comm_2019_es_short_title">"Altstadt von Ávila"</string>
+	<string name="twoeuro_comm_2019_va_title">"25 Jahre seit Abschluss der Restaurierung der Sixtinischen Kapelle"</string>
+	<string name="twoeuro_comm_2019_va_desc">"Das Jüngste Gericht von Michelangelo Buonarroti zeigen soll. Es wurde von ihm in den Jahren 1534 – 1541 in der Sixtinischen Kapelle in Auftrag von Papst Paul III. zentral über dem Altar angebracht. 1994 wurden nach einer umfassenden Restaurierung Luftentfeuchter, Klimaanlage und Filter in der Kapelle installiert, da die veraltete Technik dem zunehmenden Besucheransturm nicht mehr gewachsen war. Und seit 2014 erstrahlen die weltberühmten Fresken wieder in voller Farbenpracht, da nach dreijähriger Bauphase zusätzlich eine komplett neue LED-Lichtanlage und ein modernes Belüftungssystem fertiggestellt."</string>
+	<string name="twoeuro_comm_2019_va_volume">"101.000"</string>
+	<string name="twoeuro_comm_2019_va_date">"2019"</string>
+	<string name="twoeuro_comm_2019_va_abr" translatable="false">"SK"</string>
+	<string name="twoeuro_comm_2019_va_short_title">"Sixtinische Kapelle"</string>
+    
     <string name="twoeuro_comm_2007_eu_rv_title">50. Jahrestag der Unterzeichnung des Vertrags von Rom</string>
     <string name="twoeuro_comm_2007_eu_rv_desc">Das Münzinnere zeigt das von den sechs Gründungsländern unterzeichnete Vertragswerk vor einem Hintergrund, der an die (von Michelangelo entworfene) Pflasterung des Kapitolsplatzes in Rom erinnert, wo der Vertrag am 25. März 1957 unterzeichnet wurde. Die Aufschriften „Vertrag von Rom 50 Jahre“ und „EUROPA“ sowie der Name des Ausgabelandes sind in den jeweiligen Sprachen des Euroraums oder in Latein zu sehen. Der Text variiert daher von Land zu Land, das Münzbild hingegen ist identisch. Der Vertrag von Rom begründete die Europäische Wirtschaftsgemeinschaft und führte letztendlich zur Einführung des Euro im Jahr 1999 sowie der Euro-Banknoten und -Münzen im Jahr 2002. Der Jahrestag wird am 25. März 2007 gefeiert. Die Länder des Euroraums haben beschlossen, aus diesem Anlass gemeinsam diese Gedenkmünze auszugeben. Das Design wurde nach der Durchführung eines von den europäischen Münzstätten organisierten Wettbewerbs ausgewählt. </string>
     <string name="twoeuro_comm_2007_eu_rv_volume">von Land zu Land unterschiedlich</string>
@@ -2015,7 +2172,7 @@ limitations under the License.
     </string>
 
     <string name="dsgvo_agree_data_privacy">
-        "I read and understood the follwoing declaration of data privacy of the App. This is viewable in the App at menu "Information - Data Privacy."
+        "I read and understood the following declaration of data privacy of the App. This is viewable in the App at menu "Information - Data Privacy."
     </string>
 
     <string name="dsgvo_1">
