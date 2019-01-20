@@ -109,107 +109,14 @@
     <string name="no_internet_no_registration">Internet non disponible. Activez l’accès internet et reconfigurer votre e-mail.</string>
     <string name="no_internet">Internet non disponible</string>
 
-    <string name="version_history_5_0">
-        Version 5.0\n
-        Nouveau réglage : fonctionnalitées cloud. Les sauvegardes seront également copiées sur le cloud (Internet).\n
-        Nouveau réglage : e-mail (votre ID sera envoyé à cette adresse)\n
-        Nouveau réglage : taille du texte de la liste de sélection\n
-        Nouvelle traduction : Lithuanien\n
-        Nouvel item menu : information, sauvegarde, quitter
-        Optimisation de l’utilisation de la mémoire\n
-        Addition d’un journal de notifications (menu info -> notifications)
-    </string> <!-- paragraph updated -->
+    <string name="version_history_current">" Version 5.6.9\n
+        Ajout de toutes les pièces commémoratives connues pour 2019, mais avec une image commune seulement.\n
+        Correction d'un bogue si une pièce commune (côté gauche) était touchée\n
+        Dans la vue de l'UE, l'exposition montre les pièces commémoratives collectées lorsqu'on clique dessus.\n
+        Éviter de reconstruire l'affichage de l'album lors de la fermeture de certaines boîtes de dialogue"</string>
 
-    <string name="version_history_4_4">
-        Version 4.4\n
-        Vue UE : en mode pays, appuyer sur une pièce pour afficher les années collectées\n
-        Addition de l’utilisation du bouton retour du téléphone\n
-        Addition de l’historique de version (menu help)\n
-        Optimisation de l’utilisation de la mémoire
-    </string> <!-- paragraph updated -->
-
-
-    <string name="version_history_4_3">
-        Version 4.3\n
-        Nouvelle traduction : portugais
-    </string> <!-- paragraph updated -->
-
-    <string name="version_history_4_2">
-        Version 4.2\n
-        Addition des pièces commémoratives manquantes de 2016\n
-        Amélioration de la vue UE
-    </string> <!-- paragraph updated -->
-
-    <string name="version_history_4_1">
-        Version 4.1\n
-        Correction d’erreurs de chargement
-    </string> <!-- paragraph updated -->
-
-    <string name="version_history_4_0">
-        Version 4.0\n
-        Affichage des pièces commémoratives dans la vue UE\n
-        Déplacement des pièces de la banque d’Autriche de 2015 vers 2016
-    </string> <!-- paragraph updated -->
-
-    <string name="version_history_3_6">
-        Version 3.6\n
-        Correction de bug dans l’affichage et le masquage de groupe de pièces\n
-        dans les colonnes dont seules des pièces commémoratives avaient été collectées
-    </string> <!-- paragraph updated -->
-
-    <string name="version_history_3_5">
-        Version 3.5\n
-        Addition des pièces de 2 euros de Finlande 2016\n
-        Nouveau réglage : couleur des entêtes de colonne\n
-        Nouvelle fonctionnalité : Affichage/masquage des tirages allemands\n
-        Correction de bugs
-    </string> <!-- paragraph updated -->
-
-    <string name="version_history_3_4">
-        Version 3.4\n
-        Addition des pièces de 2 euros de Malte 2014 - 200 ans de la police\n
-        Addition de la traduction pour le français et l’italien\n
-        Nouvelle fonctionnalité : possibilité d’avoir plusieurs instances d’une même pièce\n
-        Nouvelle fonctionnalité : sauvegarde hebdomadaire automatique\n
-        Nouvelle fonctionnalité : possibilité d’avoir des réglages individuels pour chaque utilisateur/collection\n
-        Nouvelle fonctionnalité : réglage de la taille des polices de caractères\n
-        Correction de bug dans la gestion des 2 euros personnalisés\n
-        Correction de bug dans la sauvegarde des données
-    </string><!-- paragraph updated -->
-
-    <string name="version_history_3_3">
-        Version 3.3\n
-        Correction de la taille des images
-    </string><!-- paragraph updated -->
-
-    <string name="version_history_3_2">
-        Version 3.2\n
-        Addition des pièces de l’année 2016\n
-        Correction de l’image pour la Grèce 2013 Crète
-    </string><!-- paragraph updated -->
-
-    <string name="version_history_3_1">
-        Version 3.1\n
-        Addition des 2x 2015 2 Euro pour Andorre\n
-        Correction des propriétés pour la pièce de Monaco 2 Euro 2012
-    </string><!-- paragraph updated -->
-
-    <string name="version_history_3_0">
-        Version 3.0\n
-        Maintenant vous pouvez ajouter de nouvelles pièces de 2 euros. Plus besoin d’attendre la prochaine mise à jour !\n
-        Addition de toutes les pièces de 2 euros manquantes.\n
-        Addition des nouvelles pièces du set François du Vatican
-    </string><!-- paragraph updated -->
-
-    <string name="version_history_2_2">
-        Version 2.2\n
-        Addition de la vue UE!
-    </string><!-- paragraph updated -->
-
-    <string name="version_history_2_0">
-        Version 2.0\n
-        Addition de l’export en PDF et des statistiques
-    </string><!-- paragraph updated -->
+    <string name="version_history_last">"Version 5.6.8\n
+        Correction d'un crash lors de la rotation rapide de l'appareil"</string>
 
     <string name="coin_1cent">1 Centime</string>
     <string name="coin_2cent">2 Centimes</string>

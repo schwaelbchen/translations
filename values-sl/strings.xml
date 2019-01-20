@@ -203,89 +203,14 @@
     <string name="user_name_already_exists">"Ime že obstaja"</string>
     <string name="user_name_contains_invalid_characters">"Ime vsebuje neveljavne znake"</string>
 
-    <string name="version_history_5_6">"
-        Različica 5.6.2 \ n Dodana 5 € Subtropska cona Nemčija 2018 \ n Fiksno iskanje kovancev \ n Številka števila kovancev v PDF \ n \ n Različica 5.6.1 \ n Fiksni PDF \ n Fiksni okvir za potrditev EU GDPR \ n \ n Različica 5.6 \ n Dodano je bilo veliko 2018 € priložnostnih kovancev \ n Dodano EU GDPR
-    "</string>
+    <string name="version_history_current">"Različica 5.6.9\n
+         Vsi znani spominski kovanci so bili dodani za leto 2019, vendar s skupno sliko\n
+         Popravljen napako, če se je dotaknil skupni kovanec (leva stran)\n
+         Po mnenju EU so zbrani spominski kovanci, ko so kliknili nanj\n
+         Izogibajte se ponovni izdelavi pogleda albuma, ko zaprete določena pogovorna okna"</string>
 
-    <string name="version_history_5_5">"
-        Različica 5.5.2 \ n Fiksna slika Nemčija 2018 Berlin \ n Popravljeno sesutje v barvnem pogovornem oknu \ n \ n Različica 5.5.1 \ n Popravljena sinhronizacija zbirk v skupni rabi \ n \ n Različica 5.5 \ n Fiksni kovanci iz Litve 2017 \ n Kovanec, ki izgubi kovanec zbrani datum, če spremenite jezik \ n Popravljena napaka narobe za 2 € kovanca
-    "</string>
-
-    <string name="version_history_5_4">"
-        Različica 5.4 \ n Dodane slike Vatikana 2017 \ n Dodane vse manjkajoče 2 € 2017 priložnostne kovance \ n Nova funkcija: urejanje zbirke na več napravah (upravljanje z zbirkami menijev na spletu) \ n Nova nastavitev: zbiranje nemških kovnic \ n Nova nastavitev: zbiranje grške kovance 2002 tuje minti \ n Izboljšane statistike v pogledu EU za večuporabniške zbirke \ n Prikaži zadnje uporabljene barve v nastavitvah za glave stolpcev \ n 5.4.1 Fixed 2 € priložnostne kovanice Letal \ n 5.4.2 Zmanjšana uporaba pomnilnika \ n 5.4.3 Fiksna \"majhna\" prikazovalna napaka; -) \ n 5.4.4 Dodane fotografije iz kovancev San Marino 2017 \ n 5.4.5 Popravljena napaka v zadnjih uporabljenih barvah \ n 5.4.6 Fixud bug napačna svetlost slik kovancev \ n 5.4.7 Dodani prevodi za španščini in ruski ter odstranili obstoječe kovance iz Litve
-    "</string>
-
-    <string name="version_history_5_3">"
-        Različica 5.3 \ n Nova funkcija: Fotografiranje uporabniško določenih kovancev \ n Nova funkcija: sinhronizacija uporabniškega menija uporabnika \ n Nova funkcija: zbiranje menijev - informacije - najnovejši kovanci \ n Nova funkcija: dodajanje informacij neizbrisanih kovancev \ n Nova funkcija : ustvari več pogledov po meri \ n Nova funkcija: primerja dve zbirki \ n Spremembe imen skladb povezanih zbirk \ n Izboljšano shranjevanje in sinhronizacija \ n Posodobljeno francosko besedilo \ n Popravljena napaka v ID stikala \ n Izboljšana stabilnost \ n Dodana 2 € kovanca Malte 2016 \"Ljubezen\" \ n Dodan 2 € kovanec Italija 2017 \"Tito Livio\"
-    "</string>
-
-    <string name="version_history_5_2">"
-        Različica 5.2 \ n Popravljena napaka Internet
-    "</string>
-
-    <string name="version_history_5_1">"
-        Različica 5.1 \ n Nova funkcija: zbirke delnic z drugimi uporabniki in napravami \ n Dodani 2 € kovanci 2017 \ n Dodani 2 € kovanec Grčija 2016 \ n Fiksne slike kovancev za Španijo 2010-2014 \ n Fiksna obdelava kovancev za Vatikan 2005 \ n funkcija: iskanje kovancev \ n Nova nastavitev: zbiranje serije kovancev \ n Nova nastavitev: zbiranje priložnostnih kovancev \ n Nova nastavitev: zbiranje drugih posebnih kovancev
-    "</string>
-
-    <string name="version_history_5_0">"
-        Različica 5.0 \ n Nova nastavitev: funkcije oblaka. Varnostno kopiranje bo dodatno shranjeno v oblaku (internet). \ N Nova nastavitev: e-pošta (vaš uporabniški ID bo poslan na ta naslov) \ n Nova nastavitev: velikost besedila izbirnih seznamov \ n Nov prevod: litovski \ n Nov elementi menija: informacije, shranite, zapustite \ n Zmanjšana uporaba pomnilnika \ n Dodana dnevnika obvestil (informacije o meniju -&gt; obvestila)
-    "</string>
-
-    <string name="version_history_4_4">"
-        Različica 4.4 \ n Pogled EU: v načinu države se dotaknite kovanca, da se prikažejo zbrana leta \ n Dodana uporaba povratnega gumba telefona \ n Dodana zgodovina različice (pomoč v meniju) \ n Zmanjšana poraba pomnilnika
-    "</string>
-
-    <string name="version_history_4_3">"
-        Različica 4.3 \ n dodana portugalščina
-    "</string>
-
-    <string name="version_history_4_2">"
-        Različica 4.2 \ n je dodala manjkajoče priložnostne kovance 2016 \ n izboljšan pogled EU
-    "</string>
-
-    <string name="version_history_4_1">"
-        Verzija 4.1 \ n napake pri določeni obremenitvi
-    "</string>
-
-    <string name="version_history_4_0">"
-        Različica 4.0 \ n kažejo 2 € priložnostne kovance v EU pogledu \ n preselila avstrijsko kovancev iz leta 2015 v leto 2016
-    "</string>
-
-    <string name="version_history_3_6">"
-        Različica 3.6 \ n določena napaka v razširitvi / strni \ n ne prikaže praznih stolpcev (če se zbirajo samo 2 evrokovanci)
-    "</string>
-
-    <string name="version_history_3_5">"
-        Različica 3.5 \ n Dodana 2 € 2016 Finnland \ n Nova funkcija: barva naslova kovancev (naslov naslova) \ n Nova funkcija: razširi / strnijo nemške nabore kovancev \ n Popravljene napake
-    "</string>
-
-    <string name="version_history_3_4">"
-        Različica 3.4 \ n Dodano 2 € 2014 Malte 200 let policija \ n Dodani prevodi za francoski in italijanski \ n Dodana podpora za več primerkov istega kovanca \ n Dodana avtomatska varnostna kopija vsak teden \ n Dodana možnost, da imate individualne nastavitve na uporabnika / zbirka \ n Dodane nastavitve za velikost besedila \ n Popravljena napaka pri upravljanju kovancev po 2 € \ n Popravljena napaka pri shranjevanju podatkov
-    "</string>
-
-    <string name="version_history_3_3">"
-        Različica 3.3 \ n velikost fiksne slike
-    "</string>
-
-    <string name="version_history_3_2">"
-        Različica 3.2 \ n dodala kovance za leto 2016 \ n fiksna slika za Grčijo 2013 Kreta
-    "</string>
-
-    <string name="version_history_3_1">"
-        Različica 3.1 \ n dodana 2x 2015 2 Euro kovancev za Andoro \ n fiksno Monaco 2 euro kovancev 2012
-    "</string>
-
-    <string name="version_history_3_0">"
-        Različica 3.0 \ n TEGA lahko dodate nove 2 EURO kovance. Ni treba čakati na naslednjo posodobitev! \ N Dodali smo vse manjkajoče 2 euro kovance. \ N Dodal je nov kovanec Vatikan Francis
-    "</string>
-
-    <string name="version_history_2_2">"
-        Različica 2.2 \ n dodan EU-pogled!
-    "</string>
-
-    <string name="version_history_2_0">"
-        Različica 2.0 \ n dodal pdf izvoz in statistiko
-    "</string>
+    <string name="version_history_last">"Različica 5.6.8\n
+         Popravil je sesutje, medtem ko je naprava hitro vrtela"</string>
 
     <string name="coin_1cent">"1 cent"</string>
     <string name="coin_2cent">"2 cent"</string>

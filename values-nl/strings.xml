@@ -109,105 +109,14 @@
     <string name="internet_not_available_for_backup">Internet niet beschikbaar. Alleen lokale back-ups worden gemaakt.</string>
     <string name="register_email">Registreer e-mail</string>
 
-    <string name="version_history_5_0">
-        Versie 5.0\n
-        Nieuwe functie: cloud mogelijkheid. Back-ups worden aanvullend bewaard in de cloud (Internet).\n
-        Nieuwe functie: e-mail (voor het versturen van je ID-nr)\n
-        Nieuwe instelling: tekstgrootte van de keuzelijst\n
-        Nieuwe vertaling: Litouws\n
-        Nieuwe vertaling: Nederlands\n
-        Geheugen gebruik verminderd\n
-        Meldingenlogboek toegevoegd (menu info -> meldingen)
-    </string>
+    <string name="version_history_current">"Versie 5.6.9\n
+        Alle bekende herdenkingsmunten voor 2019 toegevoegd, maar met alleen een gemeenschappelijke foto\n
+        Bug verholpen als een gemeenschappelijke munt (linkerzijde) werd aangeraakt\n
+        In EU-weergave tonen verzamelde herdenkingsmunten wanneer erop wordt geklikt\n
+        Vermijd het opnieuw opbouwen van de albumweergave bij het sluiten van bepaalde dialogen"</string>
 
-    <string name="version_history_4_4">
-        v4.4\n
-        EU-overzicht: raak in de land-modus een munt aan om te verzamelde jaren te zien\n
-        Gebruik van de telefoon terugtoets toegevoegd\n
-        Versie geschiedenis toegevoegd (help-menu)
-    </string>
-
-    <string name="version_history_4_3">
-        v4.3\n
-        Portugese taal toegevoegd. Antonio bedankt!
-    </string>
-
-    <string name="version_history_4_2">
-        v4.2\n
-        Ontbrekende herdenkingsmunten 2016 toegevoegd\n
-        Verbeterd EU-overzicht
-    </string>
-
-    <string name="version_history_4_1">
-        v4.1\n
-        Fouten bij het inladen gemaakt
-    </string>
-
-    <string name="version_history_4_0">
-        v4.0\n
-        Laat de 2€ herdenkingmunten in EU-overzicht zien\n
-        De Oostenrijkse munt \'Nationale Bank\' van 2015 naar 2016 verplaatst
-    </string>
-
-    <string name="version_history_3_6">
-        v3.6\n
-        Bug bij het in- en uitvouwen gemaakt\n
-        Laat niet de lege kolommen meer zien (als alleen de 2 Euromunten worden verzameld)
-    </string>
-
-    <string name="version_history_3_5">
-        V3.5\n
-        2€ 2016 Finland toegevoegd\n
-        Nieuwe optie: kleur de kolomkop van het muntjaar (raak kolomkop aan\n
-        Nieuwe optie: in- en uitvouwen van de Duitse munttekens\n
-        Bugs gemaakt
-    </string>
-
-    <string name="version_history_3_4">
-        V3.4\n
-        2€ 2014 Malta 200 jaar Maltese politie toegevoegd\n
-        Vertalingen voor Frans en Italiaans toegevoegd\n
-        Ondersteuning voor meerdere exemplaren of dezelfde munt toegevoegd\n
-        Automatisch wekelijkse back-up toegevoegd\n
-        De mogelijke voor individuele instellingen per gebruiker/verzameling toegevoegd\n
-        Instellingen voor tekstgrootte toegevoegd\n
-        Bug gemaakt in het beheer van eigen 2€ munten\n
-        Bug gemaakt in het bewaren van data
-    </string>
-
-    <string name="version_history_3_3">
-        V3.3\n
-        Formaat afbeelding gemaakt
-    </string>
-
-    <string name="version_history_3_2">
-        V3.2\n
-        Munten voor 2016 toegevoegd\n
-        Muntafbeelding voor Griekenland 2013 Kreta hersteld
-    </string>
-
-    <string name="version_history_3_1">
-        V3.1\n
-        Toegevoegd 2x 2015 2 Euromunt voor Andorra\n
-        Monaco 2 Euromunt 2012 eigenschappen hersteld
-    </string>
-
-    <string name="version_history_3_0">
-        V3.0\n
-        NU KUN JE ZELF 2 EUROMUNTEN TOEVOEGEN. Niet meer nodig om op de update te wachten!\n
-        Alle ontbrekende 2 Euromunten toegevoegd.\n
-        Nieuwe muntset Vaticaanstad Francis toegevoegd
-    </string>
-
-    <string name="version_history_2_2">
-        V2.2\n
-        EU-overzicht toegevoegd!
-    </string>
-
-    <string name="version_history_2_0">
-        V2.0\n
-        PDF-export en Statistieken toegevoegd
-    </string>
+    <string name="version_history_last">"Versie 5.6.8\n
+        Vaste crash tijdens het snel roteren van het apparaat"</string>
 
     <string name="coin_1cent">1 Cent</string>
     <string name="coin_2cent">2 Cent</string>

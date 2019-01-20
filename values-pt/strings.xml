@@ -72,6 +72,15 @@
     <string name="click_the_coin_set_expand_button">Para abrir o grupo de conjunto de moedas toque no botão \'+\'</string>
     <!-- v4.5 -->
 
+    <string name="version_history_current">"Versão 5.6.9\n
+         Adicionadas todas as moedas comemorativas conhecidas para 2019, mas apenas com uma imagem comum\n
+         Corrigido o erro se uma moeda comum (lado esquerdo) fosse tocada\n
+         Na visão da UE, mostra as moedas comemorativas quando clicadas nele\n
+         Evite reconstruir a visualização do álbum ao fechar determinados diálogos"</string>
+
+    <string name="version_history_last">"Versão 5.6.8\n
+         Corrigida a falha ao girar o dispositivo rapidamente"</string>
+
     <string name="coin_1cent">1 Cêntimo</string>
     <string name="coin_2cent">2 Cêntimos</string>
     <string name="coin_5cent">5 Cêntimos</string>

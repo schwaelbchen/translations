@@ -267,217 +267,14 @@
 - After you deleted the underlying counterparty collection your own collection will in the future not be machted against this collection again until you select 'restart'.
         "</string>
 
-    <string name="version_history_5_6">
-        Version 5.6.9\n
+    <string name="version_history_current">"Version 5.6.9\n
         Added all known commemorative coins for 2019 but with a common picture only\n
         Fixed bug if a common coin (left side) was touched\n
         In EU view show collected commemorative coins when clicked on it\n
-        Avoid rebuilding the album view when closing certain dialogs\n
-        \n
-        Version 5.6.8\n
-        Fixed crash while rotating the device fast\n
-        \n
-        Version 5.6.7\n
-        Fixed crash on start up if Internet is not available\n
-        \n
-        Version 5.6.6\n
-        Small UI change\n
-        \n
-        Version 5.6.5\n
-        Fixed crashes\n
-        Added Andorra 2€ 2016\n
-        Added information for a some rare coins\n
-        \n
-        Version 5.6.4\n
-        Simplified transfer of collections\n
-        Fixed scrolling in coin details dialog\n
-        Add missing descriptions of commemorative coins (thank you Jens)\n
-        Added pictures for 2€ commemorative coins 2018\n
-        \n
-        Version 5.6.3\n
-        Added all 2€ commemorative coins coming in 2018 (without picture)\n
-        \n
-        Version 5.6.2\n
-        Added 5€ Subtropical Zone Germany 2018\n
-        Fixed Coin search\n
-        Coin count in PDF\n
-        \n
-        Version 5.6.1\n
-        Fixed PDF\n
-        Fixed EU GDPR checkbox\n
-        \n
-        Version 5.6\n
-        Added a lot of 2018 2€ commemorative coins\n
-        Added EU GDPR
-    </string>
+        Avoid rebuilding the album view when closing certain dialogs"</string>
 
-    <string name="version_history_5_5">
-        Version 5.5.2\n
-        Fixed image Germany 2018 Berlin\n
-        Fixed crash in color dialog\n
-        \n
-        Version 5.5.1\n
-        Fixed synchronizing shared collections\n
-        \n
-        Version 5.5\n
-        Fixed Lithuania coins 2017\n
-        Fixed bug losing coin collected date if changing language\n
-        Fixed bug wrong order for custom 2€ coins
-    </string>
-
-    <string name="version_history_5_4">
-        Version 5.4\n
-        Added Vatican 2017 images\n
-        Added all missing 2€ 2017 commemorative coins\n
-        New feature: edit collection on multiple devices (menu-collection-manage online)\n
-        New setting: collect german mints\n
-        New setting: collect greece 2002 foreign mints\n
-        Improved statistics in EU view for multiuser collections\n
-        Show last used colors in settings for column headers\n
-        5.4.1 Fixed 2€ commemorative coin Letgale\n
-        5.4.2 Reduced memory usage\n
-        5.4.3 Fixed "small" display bug ;-)\n
-        5.4.4 Added San Marino 2017 coin images\n
-        5.4.5 Fixed bug in last used colors\n
-        5.4.6 Fixud bug wrong brightness of coin images\n
-        5.4.7 Added translations for spanish and russian and removed not existing coins from Lithuania
-    </string>
-
-    <string name="version_history_5_3">
-        Version 5.3\n
-        New Feature: Take photos of user defined coins\n
-        New feature: menu user - force synchronize\n
-        New feature: menu collection - information - newest coins\n
-        New feature: add information to not collected coins\n
-        New feature: create custom multi views\n
-        New feature: compare two collections\n
-        Track name changes of linked collections\n
-        Improved saving and synchronizing\n
-        Updated french texts\n
-        Fixed bug in switch ID\n
-        Improved stability\n
-        Added 2€ coin Malte 2016 "Love"\n
-        Added 2€ coin Italy 2017 "Tito Livio"
-    </string>
-
-    <string name="version_history_5_2">
-        Version 5.2\n
-        Fixed bug Internet
-    </string>
-
-    <string name="version_history_5_1">
-        Version 5.1\n
-        New feature: share collections with other users and devices\n
-        Added 2€ coins 2017\n
-        Added 2€ coin Greece 2016\n
-        Fixed coin images for Spain 2010-2014\n
-        Fixed coin handling for Vatican 2005\n
-        New feature: search coins\n
-        New setting: collect coin series\n
-        New setting: collect commemorative coins\n
-        New setting: collect Other special coins
-    </string>
-
-    <string name="version_history_5_0">
-        Version 5.0\n
-        New setting: cloud features. Backups will be additionally saved in the cloud (Internet).\n
-        New setting: e-mail (your User ID will be sent to this address)\n
-        New setting: text size of selection lists\n
-        New translation: Lithuanian\n
-        New menu items: information, save, exit\n
-        Decreased memory usage\n
-        Added notifications log (menu info -> notifications)
-    </string>
-
-    <string name="version_history_4_4">
-        Version 4.4\n
-        EU-View: in country-mode touch a coin to show the collected years\n
-        Added usage of the phone\'s back-button\n
-        Added version history (menu help)\n
-        Reduced memory usage
-    </string>
-
-    <string name="version_history_4_3">
-        Version 4.3\n
-        Portuguese added
-    </string>
-
-    <string name="version_history_4_2">
-        Version 4.2\n
-        added missing commemorative coins 2016\n
-        enhanced EU view
-    </string>
-
-    <string name="version_history_4_1">
-        Version 4.1\n
-        fixed load errors
-    </string>
-
-    <string name="version_history_4_0">
-        Version 4.0\n
-        show 2€ commemorative coins in EU view\n
-        moved austria National Bank coin from 2015 to 2016
-    </string>
-
-    <string name="version_history_3_6">
-        Version 3.6\n
-        fixed bug in expand/collapse\n
-        don\'t show empty columns (if only 2 Euro coins are being collected)
-    </string>
-
-    <string name="version_history_3_5">
-        Version 3.5\n
-        Added 2€ 2016 Finnland\n
-        New feature: color for title of coin sets (touch title)\n
-        New feature: expand/collapse german mint sets\n
-        Fixed bugs
-    </string>
-
-    <string name="version_history_3_4">
-        Version 3.4\n
-        Added 2€ 2014 Malte 200 years police\n
-        Added translations for french and italian\n
-        Added support for having multiple instances of the same coin\n
-        Added automatic backup every week\n
-        Added possibility to have individual settings per user/collection\n
-        Added settings for text sizes\n
-        Fixed bug in 2€ custom coin management\n
-        Fixed bug in saving data
-    </string>
-
-    <string name="version_history_3_3">
-        Version 3.3\n
-        fixed image size
-    </string>
-
-    <string name="version_history_3_2">
-        Version 3.2\n
-        added coins for 2016\n
-        fixed image for Greece 2013 Crete
-    </string>
-
-    <string name="version_history_3_1">
-        Version 3.1\n
-        added 2x 2015 2 Euro coins for Andorra\n
-        fixed Monaco 2 Euro coin property 2012
-    </string>
-
-    <string name="version_history_3_0">
-        Version 3.0\n
-        NOW YOU CAN ADD NEW 2 EURO COINS. No need to wait for the next update!\n
-        Added all missing 2 Euro coins.\n
-        Added new Vatican Francis coin set
-    </string>
-
-    <string name="version_history_2_2">
-        Version 2.2\n
-        EU-View added!
-    </string>
-
-    <string name="version_history_2_0">
-        Version 2.0\n
-        added pdf export and statistics
-    </string>
+    <string name="version_history_last">"Version 5.6.8\n
+        Fixed crash while rotating the device fast"</string>
 
     <string name="coin_1cent">1 Cent</string>
     <string name="coin_2cent">2 Cent</string>
@@ -1752,9 +1549,9 @@
     <string name="twoeuro_comm_2018_it_short_title">"Italienischen Verfassung"</string>
     <string name="twoeuro_comm_2018_it_2_title">"60. Jahrestag der Gründung des Gesundheitsministeriums"</string>
     <string name="twoeuro_comm_2018_it_2_desc">"Das Münzinnere zeigt eine allegorische Darstellung der Gesundheit sowie einige Symbole für die Tätigkeiten des Ministeriums: Umwelt, Forschung, Ernährung und Medizin. Links ist das Kürzel der Republik Italien „RI“ und oben das Münzzeichen der Münze von Rom „R“ zu sehen; an der Basis der weiblichen Figur sind die Initialen der Künstlerin Silvia Petrassi abgebildet. Von links nach rechts sind im Halbkreis der Schriftzug „MINISTERO DELLA SALUTE“ (Gesundheitsministerium) und die Jahreszahlen „1958-2018“ zu lesen. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
-    <string name="twoeuro_comm_2018_it_2_volume">"3.000.000"</string>
+    <string name="twoeuro_comm_2018_it_2_volume">"1.500.000"</string>
     <string name="twoeuro_comm_2018_it_2_date">"05.03.2018"</string>
-    <string name="twoeuro_comm_2018_it_2_short_title">"100 Jahre Unabhängigkeit"</string>
+    <string name="twoeuro_comm_2018_it_2_short_title">"60 Jahre Gesundheitsministerium"</string>
     <string name="twoeuro_comm_2018_lt_title">"Baltische Gemeinschaftsausgabe - 100 Jahre Unabhängigkeit"</string>
     <string name="twoeuro_comm_2018_lt_desc">"Die drei baltischen Mitgliedstaaten werden symbolisch als ein Zopf dargestellt. Sie sind durch ihre Geschichte verbunden: eine gemeinsame Vergangenheit, Gegenwart und Zukunft. Eine stilisierte Ziffer zum 100. Jahrestag und die heraldischen Zeichen aller drei Mitgliedstaaten sind ebenfalls dargestellt. Auf der linken Seite stehen der Name des Ausgabestaates „LIETUVA" und das Münzzeichen, und auf der rechten Seite das Ausgabejahr "2018" und das Zeichen des Künstlers „JP". Das Münzmotiv wurde nach einer öffentlichen Abstimmung in allen drei baltischen Ländern ausgewählt. Auf dem äußeren Münzring sind die zwölf Sterne der Europaflagge dargestellt."</string>
     <string name="twoeuro_comm_2018_lt_volume">"1.000.000"</string>
@@ -1931,7 +1728,7 @@
 	<string name="twoeuro_comm_2019_lu_2_date">"4. Quartal 2019"</string>
 	<string name="twoeuro_comm_2019_lu_2_abr" translatable="false">"AW"</string>
 	<string name="twoeuro_comm_2019_lu_2_short_title">"Allgemeines Wahlrecht"</string>
-	<string name="twoeuro_comm_2019_mt_title">"Erbe & Tradition (Serie: Von Kindern mit Solidarität)"</string>
+	<string name="twoeuro_comm_2019_mt_title">"Erbe &amp; Tradition (Serie: Von Kindern mit Solidarität)"</string>
 	<string name="twoeuro_comm_2019_mt_desc">"Das Programm, welches in Zusammenarbeit mit „The Malta Community Chest Fund“ (dt. etwa Gemeindeverfügungsfonds) offiziell am 5. Juni 2015 durch die Präsidentin von Malta Marie-Louise Coleiro Preca eröffnet wurde. Was das Design angeht, so wird in den Schulen Maltas ein Wettbewerb veranstaltet werden. Das Münzdesign wird symbolisiert die Liebe im weiteren Sinne, um den wichtigen Aspekt der Solidarität Rechnung zu tragen. Nach einer Auswahl von 5 Projekten für jedes Jahr, wird eine Wahl den jeweiligen Sieger küren. Die folgenden Plätze werden auch ausgezeichnet und auf den Gedenkmünzen Maltas in den kommenden Jahren abgebildet."</string>
 	<string name="twoeuro_comm_2019_mt_volume">"300.000"</string>
 	<string name="twoeuro_comm_2019_mt_date">"2019"</string>
@@ -2025,6 +1822,8 @@
     <string name="specialeuro_2017_de_clima_short_title">Climazone Tropical</string>
     <string name="specialeuro_2018_de_clima_title">Climazone Sub-Tropical</string>
     <string name="specialeuro_2018_de_clima_short_title">Climazone Sub-Tropical</string>
+    <string name="specialeuro_2019_de_clima_title">Temperate climate</string>
+    <string name="specialeuro_2019_de_clima_short_title">Temperate climate</string>
 
     <string name="license_flags">License for Flags: Copyright &#169; 2013 Go Squared Ltd. http://www.gosquared.com/ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
 

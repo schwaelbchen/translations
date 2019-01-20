@@ -113,16 +113,14 @@
 	<string name="no_internet_no_registration">Nėra interneto ryšio. Įjunkite interneto ryšį ir nurodykite el.paštą dar kartą.</string>
 	<string name="no_internet">Nėra interneto ryšio</string>
 
-	<string name="version_history_5_0">
-		Versija 5.0\n
-		Nauji nustatymai: "debesų" funkcijos. Rezervinės kopijos papildomai išsaugomos "debesyje" (internete).\n
-		Nauji nustatymai: el.paštas (juo bus išsiųstas Jūsų ID)\n
-		Nauji nustatymai: pasirinkimo sąrašų šrifto dydis\n
-		Naujas vertimas: Lietuviškai\n
-		Nauji meniu punktai: informacija, išsaugoti, išeiti\n
-		Sumažintas atminties sunaudojimas\n
-		Pridėtas pranešimų žurnalas (meniu informacija -> pranešimai)
-	</string>
+	<string name="version_history_current">"5.6.9 versija\n
+         2019 m. Pridėtos visos žinomos proginės monetos, tačiau tik bendros nuotraukos\n
+         Ištaisyta klaida, jei palietė bendrą monetą (kairę)\n
+         ES nuomone, renkant minėtąsias monetas parodyti monetos\n
+         Kai uždarote tam tikrus dialogo langus, venkite albumo peržiūros"</string>
+
+	<string name="version_history_last">"5.6.8 versija\n
+         Fiksuotas gedimas, kai prietaisas sukasi greitai"</string>
 
 	<string name="coin_1cent">1 centas</string>
 	<string name="coin_2cent">2 centai</string>

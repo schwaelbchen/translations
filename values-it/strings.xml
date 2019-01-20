@@ -83,6 +83,15 @@
     <string name="click_the_coin_set_expand_button">To open the coin set group touch the plus button</string>
     <!-- v4.5 -->
 
+    <string name="version_history_current">"Versione 5.6.9\n
+        Aggiunte tutte le monete commemorative conosciute per il 2019 ma con una sola immagine comune\n
+        Risolto un bug se è stata toccata una moneta comune (lato sinistro)\n
+        In vista dell'UE mostra le monete commemorative raccolte quando vi si clicca sopra.\n
+        Evitare di ricostruire la visualizzazione dell'album quando si chiudono determinate finestre di dialogo"</string>
+
+    <string name="version_history_last">"Versione 5.6.8\n
+        Crash fisso durante la rotazione veloce del dispositivo"</string>
+
     <string name="coin_1cent">1 Cent</string>
     <string name="coin_2cent">2 Cent</string>
     <string name="coin_5cent">5 Cent</string>
