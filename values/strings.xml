@@ -1656,6 +1656,12 @@
 	<string name="twoeuro_comm_2019_de_date">"29.01.2019"</string>
 	<string name="twoeuro_comm_2019_de_abr" translatable="false">"BR"</string>
 	<string name="twoeuro_comm_2019_de_short_title">"Bundesrat"</string>
+	<string name="twoeuro_comm_2019_de_2_title">"30 Jahre Mauerfall"</string>
+	<string name="twoeuro_comm_2019_de_2_desc">"Die in der Mitte geöffnete Berliner Mauer, die von Tauben – Sinnbilder der internationalen Versöhnung – und einer jubelnden Menge durchquert wird. Das linke Fragment zeigt den Ausgabeanlass „30 JAHRE MAUERFALL“ – im Gegensatz zur französischen Ausgabe – nur auf Deutsch. Auf dem rechten Fragment ist ein Ausschnitt aus dem „Wir sind ein Volk“ betitelten Gemälde von Schamil Gimajev zu erkennen. Im Hintergrund ist das Brandenburger Tor zu sehen. Am unteren Bildrand sind das Zeichen der jeweiligen Prägeanstalt („A“, „D“, „F“, „G“ bzw. „J“), die Jahreszahl „2019“ und das „D“ für den Ausgabestaat aufgeprägt."</string>
+	<string name="twoeuro_comm_2019_de_2_volume">"30.000.000"</string>
+	<string name="twoeuro_comm_2019_de_2_date">"10.10.2019"</string>
+	<string name="twoeuro_comm_2019_de_2_abr" translatable="false">"MF"</string>
+	<string name="twoeuro_comm_2019_de_2_short_title">"30 Jahre Mauerfall"</string>
 	<string name="twoeuro_comm_2019_ee_title">"150. Jahrestag des ersten estnischen Liederfestivals"</string>
 	<string name="twoeuro_comm_2019_ee_desc">"Die Tradition des estnischen Liederfests wurde 1869 begründet. Sie ist im Kontext des Erstarkens eines estnischen Nationalbewusstseins zu sehen. Das estnische Liederfest findet derzeit alle fünf Jahre in Tallinn statt. Beim Liederfest 2014 traten über 33.000 Sänger vor fast 153.000 Zuhörern auf. Der gemeinsame Chor bestand aus 22.000 Sängern. Die Bildseite zeigt drei singende Kinder mittig, umgeben von Noten auf Notenlinien, die an den Wänden der Sängerbühne (Laululava) in Tallinn widerhallen und sich mit einem Schal mit traditionellen Mustern verwebt."</string>
 	<string name="twoeuro_comm_2019_ee_volume">"Auflage noch unbekannt"</string>
@@ -1743,7 +1749,7 @@
 	<string name="twoeuro_comm_2019_mc_title">"200. Todestag von Fürst Honoré IV."</string>
 	<string name="twoeuro_comm_2019_mc_desc">"Die 2 Euro Gedenkmünze 2019 aus Monaco erinnert an den 200. Todestag von Fürst Honoré IV. von Monaco. Honoré IV. lebte von 1758 bis 1819 und war von 1814 bis zu seinem Tod regierender Fürst von Monaco."</string>
 	<string name="twoeuro_comm_2019_mc_volume">"15.000"</string>
-	<string name="twoeuro_comm_2019_mc_date">"2019"</string>
+	<string name="twoeuro_comm_2019_mc_date">"12.09.2019"</string>
 	<string name="twoeuro_comm_2019_mc_abr" translatable="false">"FH"</string>
 	<string name="twoeuro_comm_2019_mc_short_title">"Fürst Honoré"</string>
 	<string name="twoeuro_comm_2019_po_title">"500 Jahre Magellan Weltumsegelung"</string>
