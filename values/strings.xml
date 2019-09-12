@@ -1637,7 +1637,19 @@
     <string name="twoeuro_comm_2018_va_2_volume">"101.000"</string>
     <string name="twoeuro_comm_2018_va_2_date">"31.05.2018"</string>
     <string name="twoeuro_comm_2018_va_2_short_title">"Padre Pio"</string>
-    
+	
+	<string name="twoeuro_comm_2019_ad_title">"Finale des alpinen Skiweltcups der FIS"</string>
+	<string name="twoeuro_comm_2019_ad_desc">"Darstellung eines in rasanter Abfahrt befindlichen Slalomfahrers sowie verschiedene Schneekristalle. Entlang des inneren Münzrands ist der Ausgabeanlass und die Jahreszahl „FINALS DE LA COPA DEL MON D’ESQUI ANDORRA 2019“ oberhalb von links nach rechts verlaufend abgebildet. Im Hintergrund ist zentral das bogenförmige Logo der Veranstaltung zu erkennen."</string>
+	<string name="twoeuro_comm_2019_ad_volume">"60.000"</string>
+	<string name="twoeuro_comm_2019_ad_date">"11.03.2019"</string>
+	<string name="twoeuro_comm_2020_ad_abr" translatable="false">"AS"</string>
+	<string name="twoeuro_comm_2019_ad_short_title">"Finale des alpinen Skiweltcups"</string>
+	<string name="twoeuro_comm_2019_ad_2_title">"600. Jahrestag des Consell de la Terra"</string>
+	<string name="twoeuro_comm_2019_ad_2_desc">"Anlässlich des 600 Jahr Jubiläums des ersten Parlamentes "Consell de la Terra" wird die zweite 2 Euro Gedenkmünze aus Andorra des Jahres 2019 erscheinen. Die Prägung wird durch die Monnaie de Paris erfolgen."</string>
+	<string name="twoeuro_comm_2019_ad_2_volume">"60.000"</string>
+	<string name="twoeuro_comm_2019_ad_2_date">"2019"</string>
+	<string name="twoeuro_comm_2020_ad_2_abr" translatable="false">"CT"</string>
+	<string name="twoeuro_comm_2019_ad_2_short_title">"Consell de la Terra"</string>
 	<string name="twoeuro_comm_2019_be_title">"25. Gründungstag des Europäischen Währungsinstituts"</string>
 	<string name="twoeuro_comm_2019_be_desc">"Porträt von Alexandre Lamfalussy, dem ersten Präsidenten des EWI und unterhalb unterhalb unterhalb unterhalb unterhalb unterhalb unterhalb unterhalb sein Name. Linkerhand mittig die Abkürzung „EMI“ und darüber die Jahreszahl „1994“, als das Währungsinstitut gegründet und Lamfalussy zum ersten Präsidenten ernannt wurde. Unter dem Schriftzug „EMI“ sind mehrere aufeinander fallende Münzen mit der Aufschrift „EUR“, „ECU“ bzw. „BEF“ (von oben nach unten) abgebildet. Oberhalb links befindet sich der Schriftzug „European Monetary Institute“."</string>
 	<string name="twoeuro_comm_2019_be_volume">"155.000"</string>
